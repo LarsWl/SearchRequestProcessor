@@ -1,0 +1,4 @@
+name = "SearchRequestProcessor"
+uuid = "6c341c16-087f-4ee2-a8a9-2222eddd6513"
+authors = ["Egor Shmorgun <egor.shmorgun@opensesame.com>"]
+version = "0.1.0"
