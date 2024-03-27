@@ -1,0 +1,7 @@
+dev/data/*
+!dev/data/.gitkeep
+envs.jl
+debug_out
+
+var/models/*
+!var/models/.gitkeep

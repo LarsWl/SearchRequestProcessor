@@ -1,0 +1,5 @@
+{
+  "inference_type": "onnx",
+  "name": "L12",
+  "version": "base"
+}

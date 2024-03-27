@@ -1,0 +1,4 @@
+using SearchRequestProcessor
+using SearchRequestProcessor.Evaluation
+
+SearchRequestProcessor.Evaluation.prepare_full_text_index()
