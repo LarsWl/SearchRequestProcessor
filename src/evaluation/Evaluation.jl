@@ -4,6 +4,8 @@ using CSV
 using ElasticsearchClient
 using ElasticsearchClient: Client as ElasticClient
 using Statistics
+using ProgressMeter
+using BenchmarkTools
 
 include("reading_dataset.jl")
 include("prepare_index.jl")
@@ -22,11 +24,11 @@ function evaluate_search(search_func::Function)
   test_queries = CSV.File(TEST_QUERIES_PATH, header = [:ID, :QUERY])
   test_rels = CSV.File(DOCUMENT_TOP100_PATH, header = [:QID, :Q0, :DOC_ID, :RANK, :SCORE, :RUNSTRING])
 
-  os_client = ElasticClient(verbose=1)
+  os_client = ElasticClient(verbose=0)
 
   results = Dict()
 
-  for query_row in test_queries[begin:begin+15]
+  @showprogress for query_row in test_queries
     r_precision_task = @async calc_r_precision(search_func, os_client, query_row, test_rels)
     recall_task = @async calc_recall(search_func, os_client, query_row, test_rels)
 
@@ -48,7 +50,6 @@ function evaluate_search(search_func::Function)
     :avg_recall => avg_recall
   )
 end
-
 
 
 function calc_r_precision(search_func::Function, os_client, query_row, test_rels)

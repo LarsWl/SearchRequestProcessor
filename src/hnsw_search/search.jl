@@ -23,7 +23,7 @@ end
 
 function build_opensearch_query(query, transformer, size)
   Dict(
-    :size => size * CHUKS_PER_DOCUMENT,
+    :size => max(size * CHUKS_PER_DOCUMENT, 10_000),
     :_source => ["metadata"],
     :query => Dict(
       :knn => Dict(

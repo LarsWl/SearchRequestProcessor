@@ -14,6 +14,7 @@ const DATASET_PARTS =
   string |> 
   ids -> map(id -> length(id) == 1 ? "0" * id : id, ids)
 
+
 function prepare_hnsw_search_index(
   create_index_func::Function,
   embeddings_adapter::Chunks.AbstractEmbeddingsAdapter,
@@ -44,10 +45,16 @@ function prepare_hnsw_search_index(
         end |>
         Iterators.flatten |> 
         collect |>
-        docs -> filter_existed_documents(check_os_client, index_name, docs)
+        docs -> filter_existed_documents(check_os_client, index_name, docs, part_number)
   
-      chunks = Chunks.get_document_chunks(embeddings_adapter, documents, chunk_size)
+      chunks =
+        try
+          Chunks.get_document_chunks(embeddings_adapter, documents, chunk_size)
+        catch e
+          @error "Part Number: $part_number", e
 
+          Dict()
+        end
       batch_for_index = AbstractDict[]
 
       for doc_chunks in values(chunks), doc_chunk in doc_chunks
@@ -169,7 +176,7 @@ function index_batch(os_client, index, batch)
   end
 end
 
-function filter_existed_documents(os_client, index_name, documents)
+function filter_existed_documents(os_client, index_name, documents, part_number)
   query = Dict(
     :_source => [],
     :size => length(documents),
@@ -193,7 +200,7 @@ function filter_existed_documents(os_client, index_name, documents)
   existed_ids = map(hit -> hit["_id"], response["hits"]["hits"])
 
   if !isempty(existed_ids)
-    @info "Filtered IDs: $existed_ids"
+    @info "Part Number: $part_number. Filtered IDs: $(length(existed_ids))"
     filter(doc -> !in("$(doc.id)_1", existed_ids), documents)
   else
     documents

@@ -11,7 +11,15 @@ function search(os_client::ElasticClient, query::String, size=25)
   chat_api = OpenAIChatAPI()
   openai_embeddings = Chunks.OpenAIEmbeddingsAdapter()
 
-  topics, intentions = extract_topics_and_intentions_from_query(query, chat_api)
+  topics, intentions =
+    try
+      extract_topics_and_intentions_from_query(query, chat_api)
+    catch e
+      @error e
+
+      (String[], String[])
+    end 
+    
 
   @debug_output get_debug_id("hybrid_search") "HybridSearch" "Query: $query.\nExtracted topics: $topics.\n" * "Extracted intentions: $intentions\n"
 
@@ -35,7 +43,7 @@ function extract_topics_and_intentions_from_query(query::AbstractString, chat_ap
             "Give me a list of topics closely related to what a user requested by this query" *
             "Give me a list of user intentions covered by this query",
           [
-              "Provide short answer as a JSON object with two keys: topics, intentions",
+              "Provide short answer as a JSON object with two keys: topics, intentions. Topics and intentions must be represented as arrays of strings.",
               "Use the minimum number of topics necessary, combining topics with similar meaning and content into more general topics.",
               "Return from one to two user intentions and make them explicit",
           ],
@@ -84,7 +92,7 @@ function build_opensearch_query(adapter, query, topics, intention, size)
 
   Dict(
     :_source => ["text", "metadata"],
-    :size => size * CHUNKS_PER_REQUEST_DOCUMENT,
+    :size => max(size * CHUNKS_PER_REQUEST_DOCUMENT, 10_000),
     :query => Dict(
       :bool => Dict(
         :should => [

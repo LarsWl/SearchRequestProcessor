@@ -20,14 +20,7 @@ const TOKENS_STATISTICS_MUTEX = ReentrantLock()
 get_openai_secret_key() = get(ENV, "OPENAI_SECRET_KEY", nothing)
 
 function calculate_embeddings(adapter::OpenAIEmbeddingsAdapter, batch_texts::Vector{<:AbstractString})::Vector{Vector{Float64}}
-  response =
-    try
-      OpenAI.create_embeddings(adapter.openai_secret_key, batch_texts, OPENAI_EMBEDDINGS_MODEL_ID)
-    catch e
-      @error "Error in caclculate embeddings"
-
-      return EMPTY_BATCH_EMBEDDING_RESULT
-    end
+  response = OpenAI.create_embeddings(adapter.openai_secret_key, batch_texts, OPENAI_EMBEDDINGS_MODEL_ID)
 
   result = EMPTY_BATCH_EMBEDDING_RESULT
 
