@@ -23,6 +23,7 @@ services:
     ports:
       - 9200:9200 # REST API
       - 9600:9600 # Performance Analyzer
+    restart: always
     networks:
       - opensearch-net # All of the containers will join the same Docker bridge network
   opensearch-cluster-node2:
@@ -43,6 +44,7 @@ services:
       nofile:
         soft: 65536
         hard: 65536
+    restart: always
     volumes:
       - opensearch-cluster-data2:/usr/share/opensearch/data
     networks:

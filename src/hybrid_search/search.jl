@@ -71,7 +71,14 @@ function retrieve_documents(
   results = AbstractDict[]
 
   for intention in intentions
-    opensearch_query = build_opensearch_query(adapter, query, topics, intention, size)
+    opensearch_query =
+      try
+        build_opensearch_query(adapter, query, topics, intention, size)
+      catch e 
+        nothing
+      end
+
+    isnothing(opensearch_query) && continue
 
     response = ElasticsearchClient.search(os_client, index=INDEX_NAME, body=opensearch_query).body
 

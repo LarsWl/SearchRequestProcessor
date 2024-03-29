@@ -1,0 +1,2806 @@
+{
+  "avg_r_precision": 0.5551571428571432,
+  "avg_recall": 0.8335285714285733,
+  "results": {
+    "What are the guidelines for publishing comments on this website?": {
+      "r_precision": 0.2,
+      "recall": 0.89
+    },
+    "who developed the concept of a single element to explain how chemistry works": {
+      "r_precision": 0.4,
+      "recall": 0.99
+    },
+    "How does a crown provide protection to endodontically treated teeth?": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "war chief doctor who the war games": {
+      "r_precision": 0.4,
+      "recall": 0.64
+    },
+    "what is an approved shooting target": {
+      "r_precision": 0.93,
+      "recall": 0.97
+    },
+    "what does frq stand for in the workplace": {
+      "r_precision": 0.07,
+      "recall": 0.12
+    },
+    "who killed charlotte afton": {
+      "r_precision": 0.14,
+      "recall": 0.38
+    },
+    "what sports did you play as a teen": {
+      "r_precision": 0.59,
+      "recall": 0.99
+    },
+    "Which regions in Canada are considered the coldest?": {
+      "r_precision": 0.7,
+      "recall": 1.0
+    },
+    "what is tbsp in minced garlic": {
+      "r_precision": 0.68,
+      "recall": 1.0
+    },
+    "words that describe mountaintops": {
+      "r_precision": 0.55,
+      "recall": 0.8
+    },
+    "What is lateral capsule impingement and how does it cause pain?": {
+      "r_precision": 0.93,
+      "recall": 0.99
+    },
+    "What did Jim Lehrer say about The Newshour's coverage of the Iraq invasion?": {
+      "r_precision": 0.76,
+      "recall": 1.0
+    },
+    "What is unconditional love and how is it related to altruism?": {
+      "r_precision": 0.41,
+      "recall": 0.9
+    },
+    "What did TK-421 do after being told to go about his business in the aqualeisure unit?": {
+      "r_precision": 0.56,
+      "recall": 0.91
+    },
+    "us anti corruption laws": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "what is a coonan": {
+      "r_precision": 0.03,
+      "recall": 0.03
+    },
+    "what is new stylus": {
+      "r_precision": 0.74,
+      "recall": 0.97
+    },
+    "What are common ingredients added to beans in New Mexican cuisine?": {
+      "r_precision": 0.96,
+      "recall": 1.0
+    },
+    "can archaebacteria cause diseases": {
+      "r_precision": 0.81,
+      "recall": 0.86
+    },
+    "How does the absence of melanin in some animals contribute to their night vision?": {
+      "r_precision": 0.75,
+      "recall": 0.99
+    },
+    "Do additives in expensive gas stations improve engine performance and gas mileage?": {
+      "r_precision": 0.85,
+      "recall": 1.0
+    },
+    "define fads": {
+      "r_precision": 0.68,
+      "recall": 0.74
+    },
+    "What is the second most prevalent reason for hospital stays in pregnant women?": {
+      "r_precision": 0.56,
+      "recall": 0.99
+    },
+    "What is the impact of vaccination on global health?": {
+      "r_precision": 0.63,
+      "recall": 0.99
+    },
+    "where do they have german border": {
+      "r_precision": 0.17,
+      "recall": 0.57
+    },
+    "where is the st croix river course": {
+      "r_precision": 0.05,
+      "recall": 0.39
+    },
+    "What is the local name for Jack Crevalle in Cabo San Lucas and how is it related to sportfishing?": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "what are the healthiest": {
+      "r_precision": 0.68,
+      "recall": 0.94
+    },
+    "How can shadow boxing benefit my training?": {
+      "r_precision": 0.87,
+      "recall": 0.98
+    },
+    "what is a frizzle": {
+      "r_precision": 0.25,
+      "recall": 0.25
+    },
+    "how to delete a row in vba": {
+      "r_precision": 0.38,
+      "recall": 0.99
+    },
+    "how to become a registered nurse": {
+      "r_precision": 0.8,
+      "recall": 0.97
+    },
+    "meandered definition": {
+      "r_precision": 0.96,
+      "recall": 0.99
+    },
+    "Do I need a wholesale license to sell tangible goods in California?": {
+      "r_precision": 0.72,
+      "recall": 1.0
+    },
+    "What are some media sources outside the official Kremlin stance that can access exclusive interviews?": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "what is the legal driving limit in a residential area": {
+      "r_precision": 0.74,
+      "recall": 1.0
+    },
+    "What is the meaning of the term 'Mayan' in linguistic context?": {
+      "r_precision": 0.5,
+      "recall": 0.96
+    },
+    "where are spo": {
+      "r_precision": 0.08,
+      "recall": 0.09
+    },
+    "Can older adults gain strength by training once per week?": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "who should not use an iud in adolescent": {
+      "r_precision": 0.11,
+      "recall": 0.64
+    },
+    "what causes blood in urine in husband": {
+      "r_precision": 0.56,
+      "recall": 1.0
+    },
+    "which spikes to buy": {
+      "r_precision": 0.72,
+      "recall": 1.0
+    },
+    "how long do you blanch spinach": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "how do you calculate cspi": {
+      "r_precision": 0.03,
+      "recall": 0.05
+    },
+    "what are the patient care procedures": {
+      "r_precision": 0.27,
+      "recall": 1.0
+    },
+    "how to copy a word 2007 document to disk": {
+      "r_precision": 0.5,
+      "recall": 1.0
+    },
+    "which bike has a brake disk": {
+      "r_precision": 0.85,
+      "recall": 0.99
+    },
+    "what is the worth of a house": {
+      "r_precision": 0.14,
+      "recall": 0.59
+    },
+    "List of individuals with the last name Stein and their professions": {
+      "r_precision": 0.47,
+      "recall": 0.86
+    },
+    "what lofts are there": {
+      "r_precision": 0.71,
+      "recall": 0.99
+    },
+    "how does overlap in table sawing work": {
+      "r_precision": 0.85,
+      "recall": 0.99
+    },
+    "what supplement is good for cancer": {
+      "r_precision": 0.44,
+      "recall": 0.98
+    },
+    "Where can I recycle uninterruptible power supply batteries?": {
+      "r_precision": 0.85,
+      "recall": 1.0
+    },
+    "why did adobe photoshop keep crashing": {
+      "r_precision": 0.45,
+      "recall": 0.6
+    },
+    "how do i log into my dlink router": {
+      "r_precision": 0.46,
+      "recall": 0.91
+    },
+    "how do i know if my child is dehydrated": {
+      "r_precision": 0.25,
+      "recall": 0.97
+    },
+    "when the related party replaces the home do they have to release the title": {
+      "r_precision": 0.15,
+      "recall": 0.93
+    },
+    "How do nodes in a content delivery network optimize the delivery process?": {
+      "r_precision": 0.86,
+      "recall": 0.95
+    },
+    "what does the erector spinae do": {
+      "r_precision": 0.88,
+      "recall": 0.94
+    },
+    "us attorney office charleston michael stuart": {
+      "r_precision": 0.09,
+      "recall": 0.57
+    },
+    "How do animals use visual signals for mating and territorial dominance?": {
+      "r_precision": 0.96,
+      "recall": 1.0
+    },
+    "How to prevent a workplace discussion from becoming an argument?": {
+      "r_precision": 0.7,
+      "recall": 0.93
+    },
+    "how to remove the top on a delco car battery": {
+      "r_precision": 0.18,
+      "recall": 0.6
+    },
+    "What are some easy dragon crafts for indoor fun?": {
+      "r_precision": 0.79,
+      "recall": 0.98
+    },
+    "How should I adjust my homeowner's insurance after home improvements?": {
+      "r_precision": 0.44,
+      "recall": 1.0
+    },
+    "What happened to Fell and Lindley after leaving Three's Company?": {
+      "r_precision": 0.37,
+      "recall": 0.94
+    },
+    "when is prices corner sears closing": {
+      "r_precision": 0.46,
+      "recall": 0.7
+    },
+    "What can I expect from the Virginia DMV Practice Test?": {
+      "r_precision": 0.63,
+      "recall": 1.0
+    },
+    "calculate salary from basic pay": {
+      "r_precision": 0.92,
+      "recall": 1.0
+    },
+    "which of the following factors weaken political campaigns' effect on voters": {
+      "r_precision": 0.95,
+      "recall": 1.0
+    },
+    "What was the secret ingredient used in the original Buffalo Wings in 1964?": {
+      "r_precision": 0.76,
+      "recall": 1.0
+    },
+    "who did kelly johnson divorce from?": {
+      "r_precision": 0.15,
+      "recall": 0.74
+    },
+    "What is the plumage color of males during mating season in Madagascar?": {
+      "r_precision": 0.85,
+      "recall": 1.0
+    },
+    "currently disneyland prices": {
+      "r_precision": 0.08,
+      "recall": 0.5
+    },
+    "who receives recorded video from collaborative": {
+      "r_precision": 0.59,
+      "recall": 0.75
+    },
+    "What are the colors and specifications of Ryobi One+ 18V P222 Rotary Hammer?": {
+      "r_precision": 0.83,
+      "recall": 1.0
+    },
+    "how much experience will be gained in the slayer lords": {
+      "r_precision": 0.29,
+      "recall": 0.52
+    },
+    "What is the plot of the movie directed by Kathryn Bigelow starring Patrick Swayze and Keanu Reeves?": {
+      "r_precision": 0.98,
+      "recall": 1.0
+    },
+    "what helps cat pee smell": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "what kind of feeds for a leopard gecko": {
+      "r_precision": 0.89,
+      "recall": 0.99
+    },
+    "what causes people act for civil rights": {
+      "r_precision": 0.13,
+      "recall": 0.93
+    },
+    "timeline template excel": {
+      "r_precision": 0.69,
+      "recall": 1.0
+    },
+    "age limit to have a financial account": {
+      "r_precision": 0.36,
+      "recall": 0.98
+    },
+    "is streptococcus mitis gram negative or positive": {
+      "r_precision": 0.76,
+      "recall": 1.0
+    },
+    "college of the ozarks nursing": {
+      "r_precision": 0.07,
+      "recall": 0.45
+    },
+    "How do I transfer my Fidelity account to Ameritrade?": {
+      "r_precision": 0.62,
+      "recall": 1.0
+    },
+    "what types of presentations are used by presentations": {
+      "r_precision": 0.28,
+      "recall": 0.51
+    },
+    "cost comparison of funerals in australia": {
+      "r_precision": 0.62,
+      "recall": 0.98
+    },
+    "how many questions are in the dmv exam": {
+      "r_precision": 0.42,
+      "recall": 0.99
+    },
+    "erik barsness percussion": {
+      "r_precision": 0.4,
+      "recall": 0.6
+    },
+    "what is the fastest tp cable": {
+      "r_precision": 0.52,
+      "recall": 0.94
+    },
+    "How does the in-house product development team approach sports nutrition formulation?": {
+      "r_precision": 0.75,
+      "recall": 0.98
+    },
+    "how long should endodontics crowns last": {
+      "r_precision": 0.85,
+      "recall": 1.0
+    },
+    "define most probable presence": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "why do we do transition sentences in writing": {
+      "r_precision": 0.71,
+      "recall": 1.0
+    },
+    "why do i have night vision": {
+      "r_precision": 0.2,
+      "recall": 0.99
+    },
+    "what is malleable structure?": {
+      "r_precision": 0.88,
+      "recall": 0.96
+    },
+    "where can you find diskreet vibe": {
+      "r_precision": 0.01,
+      "recall": 0.02
+    },
+    "what themes are in action movies": {
+      "r_precision": 0.76,
+      "recall": 0.95
+    },
+    "how to make a slope on a line": {
+      "r_precision": 0.75,
+      "recall": 1.0
+    },
+    "How can I change the recording destination and mode in a device?": {
+      "r_precision": 0.04,
+      "recall": 0.86
+    },
+    "How to improve slow VMware/Hyper-V performance?": {
+      "r_precision": 0.93,
+      "recall": 1.0
+    },
+    "what vitamins are good for blood work": {
+      "r_precision": 0.3,
+      "recall": 1.0
+    },
+    "how to cook a beef round tip roast": {
+      "r_precision": 0.92,
+      "recall": 1.0
+    },
+    "What are some best-selling spirituality books?": {
+      "r_precision": 0.74,
+      "recall": 0.95
+    },
+    "avery name meaning": {
+      "r_precision": 0.07,
+      "recall": 0.41
+    },
+    "kroil definition": {
+      "r_precision": 0.07,
+      "recall": 0.07
+    },
+    "what is a molecule resonance structures": {
+      "r_precision": 0.96,
+      "recall": 1.0
+    },
+    "asier in persian meaning": {
+      "r_precision": 0.14,
+      "recall": 0.16
+    },
+    "types of belts for women": {
+      "r_precision": 0.66,
+      "recall": 0.79
+    },
+    "can you blur your iris": {
+      "r_precision": 0.82,
+      "recall": 0.98
+    },
+    "when do we use normal distribution": {
+      "r_precision": 0.6,
+      "recall": 0.98
+    },
+    "when did the newshour discuss iraq": {
+      "r_precision": 0.45,
+      "recall": 0.59
+    },
+    "what is a seminal moment?": {
+      "r_precision": 0.81,
+      "recall": 0.92
+    },
+    "why is woodwind and brasswind closed": {
+      "r_precision": 0.46,
+      "recall": 0.56
+    },
+    "how to create create a web calendar": {
+      "r_precision": 0.38,
+      "recall": 0.96
+    },
+    "the coffee called flat white": {
+      "r_precision": 0.73,
+      "recall": 0.93
+    },
+    "How did online programs affect Wi-Fi charges for a frequent traveler?": {
+      "r_precision": 0.86,
+      "recall": 1.0
+    },
+    "are employer hsa contributions taxable in states": {
+      "r_precision": 0.66,
+      "recall": 1.0
+    },
+    "What could cause blood in urine for someone with a hernia?": {
+      "r_precision": 0.73,
+      "recall": 1.0
+    },
+    "What is Dogecoin being referred to as by celebrities and influencers?": {
+      "r_precision": 0.62,
+      "recall": 0.99
+    },
+    "What is the number of breast cancer deaths in the UK annually?": {
+      "r_precision": 0.67,
+      "recall": 1.0
+    },
+    "How do birth control and hormone levels affect menstrual cycle variations?": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "how fetus develops week by week": {
+      "r_precision": 0.74,
+      "recall": 1.0
+    },
+    "jett manufacturing": {
+      "r_precision": 0.1,
+      "recall": 0.1
+    },
+    "who are chiquitas major competitors": {
+      "r_precision": 0.06,
+      "recall": 0.2
+    },
+    "How do great-tailed grackles solve the Crow and the Pitcher puzzle?": {
+      "r_precision": 0.68,
+      "recall": 0.98
+    },
+    "How to create a wearable glitter lip look?": {
+      "r_precision": 0.76,
+      "recall": 0.99
+    },
+    "what is the game that the game players start": {
+      "r_precision": 0.48,
+      "recall": 1.0
+    },
+    "what to make yourself for halloween": {
+      "r_precision": 0.22,
+      "recall": 0.38
+    },
+    "what form do i fill to file for apartment insurance": {
+      "r_precision": 0.5,
+      "recall": 0.95
+    },
+    "what is the normal range of resting heart rate": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "how to find mean & variance for regression analysis": {
+      "r_precision": 0.92,
+      "recall": 0.99
+    },
+    "what is water resources management": {
+      "r_precision": 0.39,
+      "recall": 0.8
+    },
+    "how many hp in staley wet/dry vacuum": {
+      "r_precision": 0.68,
+      "recall": 0.95
+    },
+    "what is a narwhal tusk made of": {
+      "r_precision": 0.99,
+      "recall": 1.0
+    },
+    "When was Janelle Pierzina's daughter Violet Anne born?": {
+      "r_precision": 0.38,
+      "recall": 0.98
+    },
+    "walt disney world swan resort in orlando": {
+      "r_precision": 0.19,
+      "recall": 0.62
+    },
+    "what did nato mean by mutual defense": {
+      "r_precision": 0.63,
+      "recall": 0.97
+    },
+    "where did baby christ get born": {
+      "r_precision": 0.37,
+      "recall": 0.98
+    },
+    "What are some common assistive devices used in patient care?": {
+      "r_precision": 0.2,
+      "recall": 1.0
+    },
+    "the top reverb pedals": {
+      "r_precision": 0.59,
+      "recall": 0.61
+    },
+    "What are the key characteristics of a business leader?": {
+      "r_precision": 0.26,
+      "recall": 0.99
+    },
+    "why are wi-fi access fees high": {
+      "r_precision": 0.19,
+      "recall": 0.72
+    },
+    "what is the difference in a rxt and a gtx": {
+      "r_precision": 0.01,
+      "recall": 0.01
+    },
+    "How does a meat-based diet influence brain size?": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "What is the significance of the term 'winningest' on August 12, 2016?": {
+      "r_precision": 0.01,
+      "recall": 0.93
+    },
+    "what are islet cells made of": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "What is the top speed and weight capacity of a 150cc gas-powered scooter with an air cooling system?": {
+      "r_precision": 0.71,
+      "recall": 0.97
+    },
+    "what is banner": {
+      "r_precision": 0.85,
+      "recall": 0.89
+    },
+    "How can I use Adobe apps on my Linux Desktop?": {
+      "r_precision": 0.6,
+      "recall": 1.0
+    },
+    "What are the predominant languages in the country and what is the government's plan regarding English in schools?": {
+      "r_precision": 0.38,
+      "recall": 1.0
+    },
+    "why does my router not work": {
+      "r_precision": 0.63,
+      "recall": 1.0
+    },
+    "definition claim": {
+      "r_precision": 0.66,
+      "recall": 0.86
+    },
+    "do gas additives really help your gas mileage": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "When did the mixing of chicory with coffee become popular and why?": {
+      "r_precision": 0.72,
+      "recall": 0.99
+    },
+    "What are the unique characteristics of Nucor's work environment?": {
+      "r_precision": 0.08,
+      "recall": 0.11
+    },
+    "what are some resources people use to be killing machines": {
+      "r_precision": 0.23,
+      "recall": 0.89
+    },
+    "what two metals are not alkali metals?": {
+      "r_precision": 0.88,
+      "recall": 0.99
+    },
+    "hotels in cimes,ca": {
+      "r_precision": 0.16,
+      "recall": 0.24
+    },
+    "What are the effects of too much estrogen on body shape?": {
+      "r_precision": 0.28,
+      "recall": 1.0
+    },
+    "What is the average total college expense for a 4-year in-state college student?": {
+      "r_precision": 0.94,
+      "recall": 1.0
+    },
+    "what protocol can be used to transfer files": {
+      "r_precision": 0.47,
+      "recall": 0.98
+    },
+    "Does gluing cabinet joints increase the sturdiness?": {
+      "r_precision": 0.88,
+      "recall": 1.0
+    },
+    "what is iress trader": {
+      "r_precision": 0.2,
+      "recall": 0.48
+    },
+    "which part of the adaptive immune response involves b cells": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "how to make the best pork crackling": {
+      "r_precision": 0.99,
+      "recall": 1.0
+    },
+    "what is considered a workplace hazard": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "how to find the conductor": {
+      "r_precision": 0.57,
+      "recall": 0.9
+    },
+    "what type of electricity does lightning carry": {
+      "r_precision": 0.72,
+      "recall": 1.0
+    },
+    "How do I copy and paste MIDI notes in Piano Roll?": {
+      "r_precision": 0.75,
+      "recall": 1.0
+    },
+    "what information is needed to get a ballot": {
+      "r_precision": 0.27,
+      "recall": 1.0
+    },
+    "lca number nc dhhs": {
+      "r_precision": 0.01,
+      "recall": 0.05
+    },
+    "definition of nucleus biology": {
+      "r_precision": 0.42,
+      "recall": 0.92
+    },
+    "how to avoid work conflict": {
+      "r_precision": 0.74,
+      "recall": 1.0
+    },
+    "refractive target distance": {
+      "r_precision": 0.87,
+      "recall": 0.96
+    },
+    "average college costs for four years": {
+      "r_precision": 0.71,
+      "recall": 1.0
+    },
+    "is tomato a good food for prostate health": {
+      "r_precision": 0.72,
+      "recall": 1.0
+    },
+    "pokemon x how to delete profile": {
+      "r_precision": 0.48,
+      "recall": 0.71
+    },
+    "timing belt purpose": {
+      "r_precision": 0.65,
+      "recall": 0.99
+    },
+    "What do the terms HO-6, HO-3, and HO-4 mean in homeowners insurance?": {
+      "r_precision": 0.96,
+      "recall": 1.0
+    },
+    "How does the File Transfer Protocol work between two computers?": {
+      "r_precision": 0.59,
+      "recall": 1.0
+    },
+    "meaning of anaesthesiologist": {
+      "r_precision": 0.71,
+      "recall": 0.73
+    },
+    "how to take care of boil on forehead": {
+      "r_precision": 0.46,
+      "recall": 0.95
+    },
+    "what is in connecticut": {
+      "r_precision": 0.07,
+      "recall": 0.07
+    },
+    "What happened to Shirley Feeney's actress?": {
+      "r_precision": 0.33,
+      "recall": 0.97
+    },
+    "where are cichlid mouth": {
+      "r_precision": 0.77,
+      "recall": 0.91
+    },
+    "What is the rating of College of the Ozarks for Nursing program?": {
+      "r_precision": 0.6,
+      "recall": 0.98
+    },
+    "what is the coldest place in the world": {
+      "r_precision": 0.75,
+      "recall": 0.98
+    },
+    "who was president when blacks were liberated": {
+      "r_precision": 0.68,
+      "recall": 0.95
+    },
+    "where is a fibroids location": {
+      "r_precision": 0.88,
+      "recall": 1.0
+    },
+    "what is ethnocentric orientation": {
+      "r_precision": 0.91,
+      "recall": 0.99
+    },
+    "what is the best credit card for seniors": {
+      "r_precision": 0.32,
+      "recall": 0.85
+    },
+    "how to write an essay quickly for school": {
+      "r_precision": 0.32,
+      "recall": 0.98
+    },
+    "What is a paraffin bath for hands and feet that can help with arthritis pain and dry skin?": {
+      "r_precision": 0.84,
+      "recall": 0.98
+    },
+    "how many extra foot bones are there": {
+      "r_precision": 0.53,
+      "recall": 1.0
+    },
+    "what does a bachelor of science health education": {
+      "r_precision": 0.17,
+      "recall": 0.43
+    },
+    "How do I sync a shared folder to my OneDrive?": {
+      "r_precision": 0.81,
+      "recall": 1.0
+    },
+    "who are the three arthur steins": {
+      "r_precision": 0.04,
+      "recall": 0.09
+    },
+    "most penetrating oil for skin": {
+      "r_precision": 0.67,
+      "recall": 1.0
+    },
+    "What is the purpose of Bestgarbagedisposalunits.com?": {
+      "r_precision": 0.47,
+      "recall": 0.81
+    },
+    "cancer mortality rate": {
+      "r_precision": 0.88,
+      "recall": 1.0
+    },
+    "fda definition of verification": {
+      "r_precision": 0.32,
+      "recall": 0.73
+    },
+    "What is triangulation fraud?": {
+      "r_precision": 0.85,
+      "recall": 0.97
+    },
+    "when was reinhold niebuhr born and died?": {
+      "r_precision": 0.01,
+      "recall": 0.06
+    },
+    "what is true about millimeters and kilometers": {
+      "r_precision": 0.84,
+      "recall": 0.88
+    },
+    "can midi files be pasted?": {
+      "r_precision": 0.31,
+      "recall": 0.75
+    },
+    "What is the release date, cast, and storyline of Justice League – Part One?": {
+      "r_precision": 0.65,
+      "recall": 1.0
+    },
+    "what probe traces est ph": {
+      "r_precision": 0.51,
+      "recall": 0.89
+    },
+    "how to remove icloud acc without a password": {
+      "r_precision": 0.43,
+      "recall": 1.0
+    },
+    "what size stake to use for backboard": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "What are the exceptions to housing discrimination laws in North Carolina?": {
+      "r_precision": 0.69,
+      "recall": 1.0
+    },
+    "does natural mineral filtration work": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "which transporters associate with the transport protein": {
+      "r_precision": 0.93,
+      "recall": 1.0
+    },
+    "how to become a dog physical therapist": {
+      "r_precision": 0.81,
+      "recall": 0.96
+    },
+    "can you video chat on android": {
+      "r_precision": 0.46,
+      "recall": 1.0
+    },
+    "what does the name corrine mean": {
+      "r_precision": 0.01,
+      "recall": 0.22
+    },
+    "How is the iPhone IMEI unlocking process performed?": {
+      "r_precision": 0.96,
+      "recall": 1.0
+    },
+    "effects of nutrition on immune system": {
+      "r_precision": 0.53,
+      "recall": 0.98
+    },
+    "What are the penalties for anti-corruption and bribery in the USA?": {
+      "r_precision": 0.72,
+      "recall": 1.0
+    },
+    "What are the different types of imagery besides visual?": {
+      "r_precision": 0.2,
+      "recall": 0.88
+    },
+    "what is gpu used for?": {
+      "r_precision": 0.2,
+      "recall": 0.29
+    },
+    "Which are the best overnight diapers for toddlers?": {
+      "r_precision": 0.85,
+      "recall": 0.99
+    },
+    "How do higher resolutions and refresh rates benefit gamers?": {
+      "r_precision": 0.78,
+      "recall": 1.0
+    },
+    "How do young sharks eat their food?": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "what is a kester bar solder": {
+      "r_precision": 0.54,
+      "recall": 0.63
+    },
+    "what is housing discrimination nc": {
+      "r_precision": 0.49,
+      "recall": 0.63
+    },
+    "what diaper insert to use for overnight": {
+      "r_precision": 0.49,
+      "recall": 0.51
+    },
+    "What are the complications associated with mitral valve prolapse?": {
+      "r_precision": 0.77,
+      "recall": 1.0
+    },
+    "How do I identify conductor and insulator objects in the game?": {
+      "r_precision": 0.86,
+      "recall": 0.99
+    },
+    "simons university phone number": {
+      "r_precision": 0.13,
+      "recall": 0.3
+    },
+    "how fast does a scooter go": {
+      "r_precision": 0.76,
+      "recall": 1.0
+    },
+    "how many colors are in ticart": {
+      "r_precision": 0.5,
+      "recall": 0.78
+    },
+    "What is intravenous therapy and its billing information for outpatient services?": {
+      "r_precision": 0.79,
+      "recall": 0.98
+    },
+    "ptca percutaneous transluminal angioplasty": {
+      "r_precision": 0.94,
+      "recall": 0.98
+    },
+    "what happens when you have broken, cracked skin on left foot": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "What was the significance of the change in Tutankhamun's name?": {
+      "r_precision": 0.05,
+      "recall": 0.52
+    },
+    "hotels in kenner la": {
+      "r_precision": 0.06,
+      "recall": 0.29
+    },
+    "What message can I write for my step-daughter's birthday?": {
+      "r_precision": 0.61,
+      "recall": 0.99
+    },
+    "how do i delete my amazon content": {
+      "r_precision": 0.33,
+      "recall": 0.88
+    },
+    "How to improve communication and stabilize my relationship?": {
+      "r_precision": 0.49,
+      "recall": 1.0
+    },
+    "What are the different credit score ranges?": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "What is the average salary of a police officer in Dallas, TX?": {
+      "r_precision": 0.39,
+      "recall": 1.0
+    },
+    "where is ra certification given": {
+      "r_precision": 0.08,
+      "recall": 0.61
+    },
+    "What modifications can be made to a chicken recipe to make it more flavorful?": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "what pills are safe for abortions": {
+      "r_precision": 0.81,
+      "recall": 1.0
+    },
+    "good food and bad food for high cholesterol": {
+      "r_precision": 0.86,
+      "recall": 1.0
+    },
+    "What is the comparison of aerobic respiration and fermentation types in eukaryotic cells?": {
+      "r_precision": 0.77,
+      "recall": 1.0
+    },
+    "corn mash": {
+      "r_precision": 0.9,
+      "recall": 0.97
+    },
+    "what is an executive agency": {
+      "r_precision": 0.73,
+      "recall": 0.96
+    },
+    "what is covid vaccine used for": {
+      "r_precision": 0.18,
+      "recall": 0.97
+    },
+    "which one is the cvv vaccine": {
+      "r_precision": 0.21,
+      "recall": 0.24
+    },
+    "is terraria xbox one": {
+      "r_precision": 0.19,
+      "recall": 0.19
+    },
+    "what antibiotics are commonly prescribed for a uti": {
+      "r_precision": 0.49,
+      "recall": 1.0
+    },
+    "how to print double sided on word": {
+      "r_precision": 0.61,
+      "recall": 0.94
+    },
+    "who is russia's biggest media company": {
+      "r_precision": 0.33,
+      "recall": 0.91
+    },
+    "How to customize AutoCorrect in Excel?": {
+      "r_precision": 0.82,
+      "recall": 0.98
+    },
+    "What type of trains do Direct Rail Services' Class 20/3s and Class 37s work on?": {
+      "r_precision": 0.82,
+      "recall": 0.97
+    },
+    "how to cut in walls": {
+      "r_precision": 0.23,
+      "recall": 1.0
+    },
+    "who was peter and does he have an estate?": {
+      "r_precision": 0.07,
+      "recall": 0.85
+    },
+    "what kind of disc is impingement": {
+      "r_precision": 0.78,
+      "recall": 0.96
+    },
+    "How can I open pinch pleat curtains?": {
+      "r_precision": 0.91,
+      "recall": 0.99
+    },
+    "how to cook breaded pork schnitzel in oven": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "which species of cockroach are endangered": {
+      "r_precision": 0.58,
+      "recall": 0.98
+    },
+    "what are dragons good at": {
+      "r_precision": 0.6,
+      "recall": 0.81
+    },
+    "official parkinson's disease definition": {
+      "r_precision": 0.26,
+      "recall": 0.81
+    },
+    "How has the medical establishment's thinking about IUDs for adolescents changed?": {
+      "r_precision": 0.79,
+      "recall": 1.0
+    },
+    "How can I join the Firestone team?": {
+      "r_precision": 0.74,
+      "recall": 1.0
+    },
+    "How do I delete downloaded Amazon movies or TV shows from my device?": {
+      "r_precision": 0.67,
+      "recall": 1.0
+    },
+    "what is the best treatment for bruxism": {
+      "r_precision": 0.51,
+      "recall": 0.99
+    },
+    "what time in tel aviv": {
+      "r_precision": 0.11,
+      "recall": 0.19
+    },
+    "what is navex15 sys": {
+      "r_precision": 0.6,
+      "recall": 0.65
+    },
+    "What is the cost of airport shuttle services from Charlotte Douglas International Airport to Uptown Charlotte?": {
+      "r_precision": 0.83,
+      "recall": 1.0
+    },
+    "what tab opens autocorrect in excel?": {
+      "r_precision": 0.25,
+      "recall": 0.48
+    },
+    "what type of foot pain is this": {
+      "r_precision": 0.59,
+      "recall": 1.0
+    },
+    "What is Vonage Holdings Corp. and its stock symbol?": {
+      "r_precision": 0.9,
+      "recall": 0.97
+    },
+    "How does Jesus compare his return and future judgment to Noah's flood?": {
+      "r_precision": 0.75,
+      "recall": 0.99
+    },
+    "which suv is best to buy": {
+      "r_precision": 0.12,
+      "recall": 0.19
+    },
+    "what length of beard should i get": {
+      "r_precision": 0.53,
+      "recall": 1.0
+    },
+    "What advice does a breed advocate give about getting a certain type of dog?": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "how too make homade buttermilk": {
+      "r_precision": 0.9,
+      "recall": 0.92
+    },
+    "what is considered poulty": {
+      "r_precision": 0.5,
+      "recall": 0.69
+    },
+    "code of ethics for teachers the state": {
+      "r_precision": 0.5,
+      "recall": 0.96
+    },
+    "how is diethylene glycol synthesized": {
+      "r_precision": 0.87,
+      "recall": 0.98
+    },
+    "what day is the draft on": {
+      "r_precision": 0.27,
+      "recall": 0.89
+    },
+    "can you get free spanish movies from cnet": {
+      "r_precision": 0.03,
+      "recall": 0.69
+    },
+    "What is the Indian legend behind the title of the passage referring to restoring life to a wasteland?": {
+      "r_precision": 0.33,
+      "recall": 0.54
+    },
+    "why is abby lee in jail?": {
+      "r_precision": 0.12,
+      "recall": 0.56
+    },
+    "how to calculate your canada pension plan": {
+      "r_precision": 0.51,
+      "recall": 0.99
+    },
+    "What was the My Chemical Romance joke on Twitter that gained popularity in 2019?": {
+      "r_precision": 0.31,
+      "recall": 0.97
+    },
+    "why do use adjectives": {
+      "r_precision": 0.81,
+      "recall": 1.0
+    },
+    "what seasoning is used on buffalo wings": {
+      "r_precision": 0.72,
+      "recall": 0.96
+    },
+    "How often should I clean a Leopard Gecko's cage?": {
+      "r_precision": 0.46,
+      "recall": 1.0
+    },
+    "what is pelvic ultrasound used for": {
+      "r_precision": 0.82,
+      "recall": 0.99
+    },
+    "What programs does Ame teach at Fox Run Environmental Education Center?": {
+      "r_precision": 0.59,
+      "recall": 0.98
+    },
+    "ugi medical meaning": {
+      "r_precision": 0.08,
+      "recall": 0.11
+    },
+    "what is myrrh essential": {
+      "r_precision": 0.83,
+      "recall": 0.97
+    },
+    "what makes a speech effective": {
+      "r_precision": 0.28,
+      "recall": 0.98
+    },
+    "where is morecambe uk": {
+      "r_precision": 0.02,
+      "recall": 0.08
+    },
+    "How is read time calculated for articles with multiple images?": {
+      "r_precision": 0.78,
+      "recall": 1.0
+    },
+    "How does wild-type PABPN1 associate with transportin in a nuclear protein?": {
+      "r_precision": 0.92,
+      "recall": 0.98
+    },
+    "What are the contents of the annual reports on the Responsibility to Protect published by the United Nations Secretary-General?": {
+      "r_precision": 0.47,
+      "recall": 0.98
+    },
+    "what language does swahili speak": {
+      "r_precision": 0.27,
+      "recall": 0.91
+    },
+    "How did Boyle's view impact the study of chemistry and Lavoisier's work?": {
+      "r_precision": 0.55,
+      "recall": 0.92
+    },
+    "Who murdered Charlotte and how was the crime discovered?": {
+      "r_precision": 0.93,
+      "recall": 1.0
+    },
+    "what procedures standardize watch turnover between oncoming and off-going personnel and are essential to establishing the": {
+      "r_precision": 0.93,
+      "recall": 1.0
+    },
+    "What is the fin and mouth structure of a specific aquatic creature?": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "how does a bounty hunter make money": {
+      "r_precision": 0.82,
+      "recall": 0.95
+    },
+    "how to remove password from winrar": {
+      "r_precision": 0.27,
+      "recall": 0.72
+    },
+    "what does ftx stand for army": {
+      "r_precision": 0.03,
+      "recall": 0.18
+    },
+    "what is the haircut that makes you look cute": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "How does incorrect data entry affect student records and services eligibility?": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "What discussions did Douglass have with Presidents Lincoln and Johnson?": {
+      "r_precision": 0.97,
+      "recall": 1.0
+    },
+    "how can the executive branch check the legislative branch?": {
+      "r_precision": 0.86,
+      "recall": 1.0
+    },
+    "what region is duolingo used in?": {
+      "r_precision": 0.2,
+      "recall": 0.22
+    },
+    "How does the technology in a golf club minimize face-angle change and improve forgiveness?": {
+      "r_precision": 0.94,
+      "recall": 1.0
+    },
+    "Do MS webinar applications and Skype work in China?": {
+      "r_precision": 0.76,
+      "recall": 0.99
+    },
+    "what is the name of dehumidifier pumps": {
+      "r_precision": 0.93,
+      "recall": 1.0
+    },
+    "the standard charlottesville": {
+      "r_precision": 0.05,
+      "recall": 0.05
+    },
+    "how much money has a wrinkle in time movie made": {
+      "r_precision": 0.56,
+      "recall": 0.73
+    },
+    "how much does the golf tdi cost": {
+      "r_precision": 0.23,
+      "recall": 0.3
+    },
+    "domestic violence laws in wisconsin": {
+      "r_precision": 0.54,
+      "recall": 0.9
+    },
+    "calories in corte de rhone": {
+      "r_precision": 0.12,
+      "recall": 0.17
+    },
+    "Who is the most prominent female character in Star Wars universe?": {
+      "r_precision": 0.53,
+      "recall": 1.0
+    },
+    "How can I contact LCA for more information?": {
+      "r_precision": 0.07,
+      "recall": 0.97
+    },
+    "average salary of police officer in dallas": {
+      "r_precision": 0.24,
+      "recall": 0.58
+    },
+    "cost of us visa uscis": {
+      "r_precision": 0.77,
+      "recall": 0.95
+    },
+    "how to unlock the word document": {
+      "r_precision": 0.4,
+      "recall": 0.95
+    },
+    "Can RNA function as an enzyme?": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "What is the history of water treatment processes?": {
+      "r_precision": 0.38,
+      "recall": 0.72
+    },
+    "why does fraud occur in online transactions?": {
+      "r_precision": 0.88,
+      "recall": 1.0
+    },
+    "what is einstein father's name": {
+      "r_precision": 0.18,
+      "recall": 0.31
+    },
+    "why does jesus say there will be a flood like noah's flood": {
+      "r_precision": 0.66,
+      "recall": 0.99
+    },
+    "donald degraffenried": {
+      "r_precision": 0.09,
+      "recall": 0.09
+    },
+    "shuffled meaning": {
+      "r_precision": 0.88,
+      "recall": 0.96
+    },
+    "what is the most popular spiritual book": {
+      "r_precision": 0.75,
+      "recall": 0.98
+    },
+    "How does being considerate and friendly affect your relationship with people?": {
+      "r_precision": 0.28,
+      "recall": 0.98
+    },
+    "What determines the trade license fees and where do I pay it?": {
+      "r_precision": 0.64,
+      "recall": 1.0
+    },
+    "how to make curtains that open": {
+      "r_precision": 0.65,
+      "recall": 1.0
+    },
+    "What factors affect the selection of track spikes for junior and senior athletes?": {
+      "r_precision": 0.63,
+      "recall": 1.0
+    },
+    "maps reduces": {
+      "r_precision": 0.8,
+      "recall": 0.9
+    },
+    "How do I apply for federal student loans?": {
+      "r_precision": 0.78,
+      "recall": 1.0
+    },
+    "how did women gain the right to vote": {
+      "r_precision": 0.69,
+      "recall": 1.0
+    },
+    "what helps a strained muscle": {
+      "r_precision": 0.75,
+      "recall": 1.0
+    },
+    "how do doctors repair hernias": {
+      "r_precision": 0.97,
+      "recall": 1.0
+    },
+    "How to choose a hairstyle based on personality and lifestyle?": {
+      "r_precision": 0.68,
+      "recall": 0.86
+    },
+    "How do I blanch cauliflower when the curd is 2 to 3 inches in diameter?": {
+      "r_precision": 0.7,
+      "recall": 1.0
+    },
+    "What does 'let sleeping dogs lie' mean and how does it relate to dealing with problems?": {
+      "r_precision": 0.47,
+      "recall": 0.93
+    },
+    "koit number": {
+      "r_precision": 0.22,
+      "recall": 0.22
+    },
+    "when is my chemical romance on": {
+      "r_precision": 0.22,
+      "recall": 0.22
+    },
+    "What is a pick-up game in sports and video games?": {
+      "r_precision": 0.42,
+      "recall": 0.92
+    },
+    "do moles eat mice": {
+      "r_precision": 0.85,
+      "recall": 0.98
+    },
+    "house of representatives of states minimum age": {
+      "r_precision": 0.33,
+      "recall": 0.93
+    },
+    "what kind of burgers do smashburger serve": {
+      "r_precision": 0.28,
+      "recall": 0.86
+    },
+    "is eucalyptus oil good for allergies": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "how to make tea in turkish tea pots": {
+      "r_precision": 0.63,
+      "recall": 0.96
+    },
+    "how to screen print windows 7": {
+      "r_precision": 0.57,
+      "recall": 0.98
+    },
+    "How to ensure safety of a child in a wheelchair during transportation?": {
+      "r_precision": 0.76,
+      "recall": 1.0
+    },
+    "who played dündar in tetmoy": {
+      "r_precision": 0.0,
+      "recall": 0.01
+    },
+    "how to cook thin sliced home fries": {
+      "r_precision": 0.88,
+      "recall": 0.98
+    },
+    "what is the best brand electric range": {
+      "r_precision": 0.74,
+      "recall": 0.97
+    },
+    "What nutrients in tomatoes can protect men against prostate cancer?": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "What types of flags were used in medieval times?": {
+      "r_precision": 0.56,
+      "recall": 0.95
+    },
+    "what's a step-daughters birthday": {
+      "r_precision": 0.62,
+      "recall": 0.98
+    },
+    "how to pay ntuc membership fee online": {
+      "r_precision": 0.27,
+      "recall": 0.58
+    },
+    "what is the coastline of caribbean": {
+      "r_precision": 0.25,
+      "recall": 1.0
+    },
+    "is a wheelchair a transportable medical device": {
+      "r_precision": 0.82,
+      "recall": 0.99
+    },
+    "What is a good snorkeling spot for small groups and young children in Maui?": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "how does a clematis germinate": {
+      "r_precision": 0.48,
+      "recall": 0.86
+    },
+    "where is goofy's castle": {
+      "r_precision": 0.17,
+      "recall": 0.55
+    },
+    "what states are common law marriage": {
+      "r_precision": 0.99,
+      "recall": 1.0
+    },
+    "when did coffee use to be chicory": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "What percentage of Duolingo users in Trinidad and Tobago and Jamaica are learning Spanish?": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "Do larger lobsters become tougher when cooked?": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "what is the thunder and lightning based on": {
+      "r_precision": 0.62,
+      "recall": 0.91
+    },
+    "how alginate for wound dressing works": {
+      "r_precision": 0.75,
+      "recall": 0.99
+    },
+    "what types of eukaryotic cells use aerobic respiration": {
+      "r_precision": 0.8,
+      "recall": 1.0
+    },
+    "Is the website with free Spanish movies accessible?": {
+      "r_precision": 0.68,
+      "recall": 0.99
+    },
+    "cerebellar disease definition": {
+      "r_precision": 0.91,
+      "recall": 0.96
+    },
+    "What happened to the piers in Morecambe and how did it affect the town?": {
+      "r_precision": 0.22,
+      "recall": 0.79
+    },
+    "What was the impact of AC electricity on Einstein's family business?": {
+      "r_precision": 0.39,
+      "recall": 0.76
+    },
+    "What are some features of free ISPs?": {
+      "r_precision": 0.6,
+      "recall": 1.0
+    },
+    "what is karma koin": {
+      "r_precision": 0.28,
+      "recall": 0.31
+    },
+    "winningest athletes": {
+      "r_precision": 0.66,
+      "recall": 0.97
+    },
+    "do sleeping dogs lie?": {
+      "r_precision": 0.82,
+      "recall": 0.95
+    },
+    "What are the symptoms of plantar fasciitis-like foot pain?": {
+      "r_precision": 0.86,
+      "recall": 1.0
+    },
+    "what is a building permit in colorado": {
+      "r_precision": 0.18,
+      "recall": 0.78
+    },
+    "Where is the University of Baltimore's Master of Science in Taxation program located?": {
+      "r_precision": 0.33,
+      "recall": 0.92
+    },
+    "What is the goal of the worldwide urban carbon monitoring system?": {
+      "r_precision": 0.65,
+      "recall": 0.97
+    },
+    "how to recycle batteries in pa": {
+      "r_precision": 0.49,
+      "recall": 0.85
+    },
+    "how to get your onedrive file": {
+      "r_precision": 0.15,
+      "recall": 0.17
+    },
+    "How can I start learning witchcraft?": {
+      "r_precision": 0.37,
+      "recall": 0.92
+    },
+    "do lizards eat crickets": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "what is the shape of a trapezoid": {
+      "r_precision": 0.48,
+      "recall": 0.98
+    },
+    "what is secom": {
+      "r_precision": 0.02,
+      "recall": 0.02
+    },
+    "who played sherrilyn feeney": {
+      "r_precision": 0.01,
+      "recall": 0.05
+    },
+    "what type of stretcher is used for rapid immobilization of spine and neck injuries?": {
+      "r_precision": 0.94,
+      "recall": 0.98
+    },
+    "where can you find spongy ductal carcinoma?": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "what is a good hand and foot soak": {
+      "r_precision": 0.63,
+      "recall": 1.0
+    },
+    "What are extra bones in the human foot and do they cause any problems?": {
+      "r_precision": 0.52,
+      "recall": 1.0
+    },
+    "Is S. saprophyticus UTI common in vegetarians and what antibiotics are effective?": {
+      "r_precision": 0.93,
+      "recall": 1.0
+    },
+    "What is the definition of mean sum of squares and its relation to variance?": {
+      "r_precision": 0.73,
+      "recall": 1.0
+    },
+    "what type of patient will need traction": {
+      "r_precision": 0.69,
+      "recall": 0.99
+    },
+    "when do you stop feeling pregnant": {
+      "r_precision": 0.56,
+      "recall": 0.99
+    },
+    "What is the topic of the paper submitted by Agnes and Scott?": {
+      "r_precision": 0.29,
+      "recall": 0.94
+    },
+    "What are the areas of competence covered in WGU's B.S. Nursing (Prelicensure) curriculum?": {
+      "r_precision": 0.84,
+      "recall": 0.98
+    },
+    "how to find interquartile range on a box plot": {
+      "r_precision": 0.92,
+      "recall": 0.97
+    },
+    "How to adjust screen brightness in Windows?": {
+      "r_precision": 0.94,
+      "recall": 1.0
+    },
+    "How do local officials confirm residency and citizenship for absentee ballot?": {
+      "r_precision": 0.83,
+      "recall": 1.0
+    },
+    "How can I find information about my state or country's residential traffic laws?": {
+      "r_precision": 0.09,
+      "recall": 0.95
+    },
+    "apatite definition": {
+      "r_precision": 0.73,
+      "recall": 0.73
+    },
+    "who is tk-421": {
+      "r_precision": 0.2,
+      "recall": 0.65
+    },
+    "Did selenium supplementation affect the rates of prostate, colon, and lung cancer in a clinical trial?": {
+      "r_precision": 0.88,
+      "recall": 1.0
+    },
+    "How does the process of digestion and metabolism of carbohydrates start": {
+      "r_precision": 0.56,
+      "recall": 1.0
+    },
+    "where do i find my cat after my mom is gone": {
+      "r_precision": 0.61,
+      "recall": 0.99
+    },
+    "sandos playacar in playa del carmen": {
+      "r_precision": 0.56,
+      "recall": 0.98
+    },
+    "what kind of sounds do yosemite has": {
+      "r_precision": 0.12,
+      "recall": 0.14
+    },
+    "What did the Supreme Court rule in the case of Torrey Dale Grady v. North Carolina?": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "What is the starting molecule in cholesterol production?": {
+      "r_precision": 0.63,
+      "recall": 0.97
+    },
+    "similarity principle psychology definition": {
+      "r_precision": 0.75,
+      "recall": 0.93
+    },
+    "How can I seal seams between onyx panels and trim them to fit?": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "Where was Jesus born?": {
+      "r_precision": 0.64,
+      "recall": 1.0
+    },
+    "how do you get financial aid": {
+      "r_precision": 0.56,
+      "recall": 1.0
+    },
+    "How does caseless matching work with bytes in a multibyte locale?": {
+      "r_precision": 0.95,
+      "recall": 0.99
+    },
+    "what's the benefit of optimization?": {
+      "r_precision": 0.09,
+      "recall": 0.21
+    },
+    "is sea salt good for you": {
+      "r_precision": 0.79,
+      "recall": 0.98
+    },
+    "Can non-parents open a joint bank account with a minor?": {
+      "r_precision": 0.58,
+      "recall": 1.0
+    },
+    "number of graves at normandy": {
+      "r_precision": 0.27,
+      "recall": 0.65
+    },
+    "what is grackle": {
+      "r_precision": 0.75,
+      "recall": 0.89
+    },
+    "how to get from charlotte airport to downtown charlotte nc": {
+      "r_precision": 0.16,
+      "recall": 0.46
+    },
+    "how old was lindley sanders": {
+      "r_precision": 0.02,
+      "recall": 0.03
+    },
+    "what skills do building and construction engineers": {
+      "r_precision": 0.88,
+      "recall": 1.0
+    },
+    "what happens to the lobster during molting": {
+      "r_precision": 0.95,
+      "recall": 1.0
+    },
+    "what is the best vitamin b to take": {
+      "r_precision": 0.42,
+      "recall": 0.99
+    },
+    "What are the core skills and subfields of civil engineering?": {
+      "r_precision": 0.56,
+      "recall": 0.99
+    },
+    "iqe share price forecast": {
+      "r_precision": 0.3,
+      "recall": 0.8
+    },
+    "what kind of fish is jack crevalle": {
+      "r_precision": 0.31,
+      "recall": 0.44
+    },
+    "which colleges offer taxation degree": {
+      "r_precision": 0.83,
+      "recall": 0.95
+    },
+    "what program is wine on": {
+      "r_precision": 0.53,
+      "recall": 0.96
+    },
+    "How to make a no-sew peplum belt and DIY rope waist belt?": {
+      "r_precision": 0.88,
+      "recall": 0.97
+    },
+    "are there black and tan coonhound": {
+      "r_precision": 0.49,
+      "recall": 0.64
+    },
+    "what is the seated position in japan": {
+      "r_precision": 0.08,
+      "recall": 0.64
+    },
+    "type of dr that does colonoscopy": {
+      "r_precision": 0.91,
+      "recall": 0.95
+    },
+    "what does stand in your way mean": {
+      "r_precision": 0.16,
+      "recall": 0.91
+    },
+    "what astrological.sign is someone in september": {
+      "r_precision": 0.07,
+      "recall": 0.23
+    },
+    "how to get stronger at striking": {
+      "r_precision": 0.5,
+      "recall": 0.95
+    },
+    "caseless match definition in c#": {
+      "r_precision": 0.78,
+      "recall": 0.85
+    },
+    "how old is faith abubey": {
+      "r_precision": 0.07,
+      "recall": 0.51
+    },
+    "What are the advantages of using FreeDOS in embedded systems programming?": {
+      "r_precision": 0.27,
+      "recall": 0.99
+    },
+    "civilized community ]definition": {
+      "r_precision": 0.7,
+      "recall": 0.87
+    },
+    "What is the relationship between line cross-section and line profile in Fig.4-3?": {
+      "r_precision": 0.77,
+      "recall": 1.0
+    },
+    "How can I have the best viewing experience for meteor showers in 2017?": {
+      "r_precision": 0.85,
+      "recall": 0.97
+    },
+    "how to get rid of bad breath caused by garlic": {
+      "r_precision": 0.81,
+      "recall": 0.99
+    },
+    "how do you spell with asl": {
+      "r_precision": 0.09,
+      "recall": 0.15
+    },
+    "How to fix TLS handshake failure on Google Wifi router?": {
+      "r_precision": 0.67,
+      "recall": 0.96
+    },
+    "are chemical weapons used in mass destruction": {
+      "r_precision": 0.9,
+      "recall": 0.99
+    },
+    "living in berlin": {
+      "r_precision": 0.15,
+      "recall": 0.27
+    },
+    "causes of valve prolapses": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "how often should you strength train": {
+      "r_precision": 0.28,
+      "recall": 1.0
+    },
+    "How to contact Simmons University for Workday registration issues?": {
+      "r_precision": 0.78,
+      "recall": 0.93
+    },
+    "What changes were made to Pub. L. 108-458, §6802 in relation to chemical weapons?": {
+      "r_precision": 0.83,
+      "recall": 0.98
+    },
+    "What are the special holidays in May 2021?": {
+      "r_precision": 0.29,
+      "recall": 1.0
+    },
+    "How does paying off a loan quickly benefit a profitable business?": {
+      "r_precision": 0.83,
+      "recall": 1.0
+    },
+    "What are the benefits and drawbacks of using GPUs for large datasets?": {
+      "r_precision": 0.36,
+      "recall": 0.98
+    },
+    "Who do the children and beavers go to find in the story?": {
+      "r_precision": 0.24,
+      "recall": 0.68
+    },
+    "How does lightning travel through a building and how much electricity does it contain?": {
+      "r_precision": 0.75,
+      "recall": 1.0
+    },
+    "What do reviewers think about the 2007 Chevrolet Suburban's performance?": {
+      "r_precision": 0.86,
+      "recall": 1.0
+    },
+    "who is the middle east singer?": {
+      "r_precision": 0.24,
+      "recall": 0.82
+    },
+    "Where can I find Smashburger nutritional information?": {
+      "r_precision": 0.03,
+      "recall": 0.97
+    },
+    "why do databases need to be updated": {
+      "r_precision": 0.78,
+      "recall": 0.99
+    },
+    "what are enzymes": {
+      "r_precision": 0.54,
+      "recall": 1.0
+    },
+    "define retrogression": {
+      "r_precision": 0.92,
+      "recall": 1.0
+    },
+    "who is responsible for protecting a government": {
+      "r_precision": 0.22,
+      "recall": 0.59
+    },
+    "What are the prepositions in the sentence about a train going through a tunnel and over a bridge?": {
+      "r_precision": 0.89,
+      "recall": 0.98
+    },
+    "What are the most common hazards in a workspace?": {
+      "r_precision": 0.71,
+      "recall": 0.95
+    },
+    "why is there a constitutional right to privacy": {
+      "r_precision": 0.43,
+      "recall": 0.97
+    },
+    "who clears for raymond james": {
+      "r_precision": 0.08,
+      "recall": 0.14
+    },
+    "What is the acronym definition in various fields?": {
+      "r_precision": 0.24,
+      "recall": 0.32
+    },
+    "what to bring for a rainy day": {
+      "r_precision": 0.41,
+      "recall": 0.97
+    },
+    "what type of injury result when downer cows are compressed": {
+      "r_precision": 0.69,
+      "recall": 0.94
+    },
+    "What are the uses of Myrrh Essential Oil in Christianity and oral health?": {
+      "r_precision": 0.69,
+      "recall": 1.0
+    },
+    "apple device is currently locked what do i do": {
+      "r_precision": 0.19,
+      "recall": 0.87
+    },
+    "who is the florida school shooter": {
+      "r_precision": 0.8,
+      "recall": 0.98
+    },
+    "What is the STANLEY SL18191P 10-gallon wet/dry vacuum?": {
+      "r_precision": 0.75,
+      "recall": 0.97
+    },
+    "what license does an llc need": {
+      "r_precision": 0.36,
+      "recall": 0.89
+    },
+    "what is a mayan language": {
+      "r_precision": 0.2,
+      "recall": 0.26
+    },
+    "difference between a resolution and refresh rate": {
+      "r_precision": 0.6,
+      "recall": 1.0
+    },
+    "function of langerhans cells": {
+      "r_precision": 0.4,
+      "recall": 0.83
+    },
+    "when did harrison maxwell dempsey die": {
+      "r_precision": 0.01,
+      "recall": 0.03
+    },
+    "Where can I meet Goofy and Pluto on my next trip to Disney World?": {
+      "r_precision": 0.78,
+      "recall": 1.0
+    },
+    "what is isport": {
+      "r_precision": 0.02,
+      "recall": 0.05
+    },
+    "When should I call on the Chickadee Spirit Animal?": {
+      "r_precision": 0.22,
+      "recall": 0.9
+    },
+    "What are the different types of fibroids and where are they located?": {
+      "r_precision": 0.57,
+      "recall": 0.99
+    },
+    "process control number": {
+      "r_precision": 0.31,
+      "recall": 0.97
+    },
+    "baltimore city school for the arts": {
+      "r_precision": 0.23,
+      "recall": 0.54
+    },
+    "How do I form uppercase letters C, E, G, and O in this writing style?": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "define atropine": {
+      "r_precision": 0.78,
+      "recall": 0.98
+    },
+    "what are i.e. diets for pregnancy": {
+      "r_precision": 0.88,
+      "recall": 0.99
+    },
+    "what can cause your period to start late": {
+      "r_precision": 0.47,
+      "recall": 1.0
+    },
+    "what is ileus": {
+      "r_precision": 0.95,
+      "recall": 0.96
+    },
+    "what is the goal of carbon projects": {
+      "r_precision": 0.24,
+      "recall": 0.95
+    },
+    "how long to boil oatmeal packet": {
+      "r_precision": 0.82,
+      "recall": 0.98
+    },
+    "what to put on a bee sting": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "how many types of team are there": {
+      "r_precision": 0.19,
+      "recall": 0.41
+    },
+    "What is the performance of 4 Color Tibalt deck?": {
+      "r_precision": 0.63,
+      "recall": 0.83
+    },
+    "what are the services of a bank": {
+      "r_precision": 0.11,
+      "recall": 0.45
+    },
+    "who are the actors in the movie tiger eater": {
+      "r_precision": 0.11,
+      "recall": 0.3
+    },
+    "how to make bulb switch using a batteries": {
+      "r_precision": 0.95,
+      "recall": 1.0
+    },
+    "What is the Abortion Pill and at what stages of pregnancy can it be used?": {
+      "r_precision": 0.49,
+      "recall": 0.98
+    },
+    "How to cook thin-sliced potatoes for a perfect dinner side dish?": {
+      "r_precision": 0.73,
+      "recall": 0.99
+    },
+    "vikus main role in gregor": {
+      "r_precision": 0.11,
+      "recall": 0.23
+    },
+    "What is the use of atropine in organophosphate poisoning?": {
+      "r_precision": 0.86,
+      "recall": 0.99
+    },
+    "How can I find an Excel roadmap template for my project?": {
+      "r_precision": 0.49,
+      "recall": 0.92
+    },
+    "Are alligators and crocodiles considered exotic pets in Kansas?": {
+      "r_precision": 0.82,
+      "recall": 0.96
+    },
+    "What are the features of the newest P05 stylus?": {
+      "r_precision": 0.52,
+      "recall": 0.9
+    },
+    "what nutrition minerals vitamins are in Aloe vera juice": {
+      "r_precision": 0.92,
+      "recall": 1.0
+    },
+    "What is the origin of the hamburger and what are some popular food options in Connecticut?": {
+      "r_precision": 0.57,
+      "recall": 0.91
+    },
+    "dog age by teeth": {
+      "r_precision": 0.94,
+      "recall": 1.0
+    },
+    "meaning of the name theodore": {
+      "r_precision": 0.11,
+      "recall": 0.3
+    },
+    "is it necessary to glue cabinets together": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "Where can I buy live crickets and other feeder insects for reptiles at low prices?": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "What are the rare types of lung cancers?": {
+      "r_precision": 0.78,
+      "recall": 1.0
+    },
+    "irene forte": {
+      "r_precision": 0.12,
+      "recall": 0.21
+    },
+    "what did colonial women wear": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "angel number 616 spiritual meaning": {
+      "r_precision": 0.61,
+      "recall": 0.99
+    },
+    "what product line is gigabyte": {
+      "r_precision": 0.17,
+      "recall": 0.29
+    },
+    "what's the difference between imagery and visual": {
+      "r_precision": 0.44,
+      "recall": 1.0
+    },
+    "How to choose and prepare kidneys for cooking?": {
+      "r_precision": 0.73,
+      "recall": 0.98
+    },
+    "which structure grows smallest when the body overexpresses its production of estrogen?": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "How did Michael Jackson help Robson's career in Hollywood?": {
+      "r_precision": 0.62,
+      "recall": 0.99
+    },
+    "the tampa state bank marion ks": {
+      "r_precision": 0.03,
+      "recall": 0.08
+    },
+    "how do you clean smoke off walls": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "How does overlapping wide boards create a tight connection in a workbench?": {
+      "r_precision": 0.73,
+      "recall": 1.0
+    },
+    "what homeowners insurance should i buy": {
+      "r_precision": 0.72,
+      "recall": 0.96
+    },
+    "iowa counties by population": {
+      "r_precision": 0.64,
+      "recall": 0.87
+    },
+    "What are some benefits of making a homemade Halloween costume?": {
+      "r_precision": 0.81,
+      "recall": 1.0
+    },
+    "What are the two forms of line spectra and how are they related?": {
+      "r_precision": 0.15,
+      "recall": 0.99
+    },
+    "what numbers make up 11": {
+      "r_precision": 0.06,
+      "recall": 0.97
+    },
+    "What is the common use of ASL fingerspelling?": {
+      "r_precision": 0.89,
+      "recall": 1.0
+    },
+    "bison energy": {
+      "r_precision": 0.67,
+      "recall": 0.73
+    },
+    "What allegations does Johnson make against Hamlin in their divorce case?": {
+      "r_precision": 0.93,
+      "recall": 1.0
+    },
+    "What is the optimal beard length for a full look and coverage of bare patches?": {
+      "r_precision": 0.88,
+      "recall": 0.97
+    },
+    "Which applications can open EDF files?": {
+      "r_precision": 0.45,
+      "recall": 0.98
+    },
+    "What are the considerations for trapping a mole?": {
+      "r_precision": 0.73,
+      "recall": 0.99
+    },
+    "importance of redox reactions": {
+      "r_precision": 0.86,
+      "recall": 1.0
+    },
+    "What are the sound signatures of waterfalls in Yosemite National Park?": {
+      "r_precision": 0.74,
+      "recall": 1.0
+    },
+    "what's the holidays in may?": {
+      "r_precision": 0.33,
+      "recall": 0.88
+    },
+    "are alligators considered exotic pets": {
+      "r_precision": 0.76,
+      "recall": 0.99
+    },
+    "what was the first coin dapp to have a cryptocurrency": {
+      "r_precision": 0.62,
+      "recall": 1.0
+    },
+    "what navigation system does ireland use": {
+      "r_precision": 0.07,
+      "recall": 0.31
+    },
+    "Did mainstream media admit to the lab origins of covid-19?": {
+      "r_precision": 0.88,
+      "recall": 0.99
+    },
+    "Who was John Alphonsus Turretini?": {
+      "r_precision": 0.87,
+      "recall": 0.99
+    },
+    "what weather is shower": {
+      "r_precision": 0.58,
+      "recall": 0.94
+    },
+    "Who plays the role of Suleyman Shah in the story and what is his relation to Osman Gazi I?": {
+      "r_precision": 0.92,
+      "recall": 1.0
+    },
+    "what is pythium disease": {
+      "r_precision": 0.47,
+      "recall": 0.59
+    },
+    "what is the largest number of electrons that can be in an electron shell?": {
+      "r_precision": 0.45,
+      "recall": 1.0
+    },
+    "healthy grief process": {
+      "r_precision": 0.98,
+      "recall": 1.0
+    },
+    "what does not rated mean in movie ratings": {
+      "r_precision": 0.32,
+      "recall": 0.95
+    },
+    "what makes a good kidney": {
+      "r_precision": 0.04,
+      "recall": 1.0
+    },
+    "What makes calcium and heavier elements in Group 2 real alkaline earth metals?": {
+      "r_precision": 0.75,
+      "recall": 1.0
+    },
+    "who does edmund owen marry": {
+      "r_precision": 0.0,
+      "recall": 0.3
+    },
+    "who makes new mexican beans": {
+      "r_precision": 0.17,
+      "recall": 0.97
+    },
+    "how to check hard disc memory on windows 10": {
+      "r_precision": 0.6,
+      "recall": 0.97
+    },
+    "How to convert 9/10 into a percentage?": {
+      "r_precision": 0.28,
+      "recall": 0.76
+    },
+    "vnr stock": {
+      "r_precision": 0.03,
+      "recall": 0.1
+    },
+    "when did janelle pierzina and jay desanto have a baby?": {
+      "r_precision": 0.04,
+      "recall": 0.07
+    },
+    "What are the numbers in sequences from 0 to 13?": {
+      "r_precision": 0.12,
+      "recall": 1.0
+    },
+    "prototypes for the wall cost": {
+      "r_precision": 0.9,
+      "recall": 0.99
+    },
+    "what is kinau": {
+      "r_precision": 0.0,
+      "recall": 0.0
+    },
+    "What are the disadvantages of ASP and the benefits of web-based data warehousing?": {
+      "r_precision": 0.28,
+      "recall": 0.87
+    },
+    "where do you find the charm bar?": {
+      "r_precision": 0.48,
+      "recall": 0.91
+    },
+    "water drinking challenge skin improvement": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "what qualities should business leaders have": {
+      "r_precision": 0.78,
+      "recall": 1.0
+    },
+    "How do I apply for instructor training if I am a resident of Missouri or Maryland?": {
+      "r_precision": 0.14,
+      "recall": 0.99
+    },
+    "What is a hyperemesis diet and how can it help during pregnancy?": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "why do white cell counts get low in cancer patients": {
+      "r_precision": 0.92,
+      "recall": 1.0
+    },
+    "what is the purpose of statins?": {
+      "r_precision": 0.5,
+      "recall": 0.97
+    },
+    "What are some examples of fads?": {
+      "r_precision": 0.05,
+      "recall": 0.72
+    },
+    "do spayed female dogs have periods": {
+      "r_precision": 0.95,
+      "recall": 1.0
+    },
+    "why should i use my business loan": {
+      "r_precision": 0.41,
+      "recall": 1.0
+    },
+    "What hotel is near New Orleans International Airport with state-of-the-art accommodations?": {
+      "r_precision": 0.86,
+      "recall": 1.0
+    },
+    "What are some popular and best value hotels in the Newport Beach area with 2 stars and below?": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "when did blue sour patch come out": {
+      "r_precision": 0.56,
+      "recall": 0.75
+    },
+    "What should I wear during cool and wet weather?": {
+      "r_precision": 0.81,
+      "recall": 1.0
+    },
+    "how long is read time for an article": {
+      "r_precision": 0.1,
+      "recall": 0.35
+    },
+    "What are the features of a 24-speed bike with an aluminum frame?": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "what is the agonist in bicep curls": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "what was the lahaina banyan court park": {
+      "r_precision": 0.29,
+      "recall": 0.37
+    },
+    "what is a mrcp?": {
+      "r_precision": 0.2,
+      "recall": 0.22
+    },
+    "What does the acronym FRQ stand for?": {
+      "r_precision": 0.09,
+      "recall": 0.93
+    },
+    "Who are the orthopaedic specialists at Chester County Hospital?": {
+      "r_precision": 0.74,
+      "recall": 0.94
+    },
+    "what is a certified check": {
+      "r_precision": 0.46,
+      "recall": 0.95
+    },
+    "How can I use creative blur to enhance my photos?": {
+      "r_precision": 0.75,
+      "recall": 1.0
+    },
+    "what internet applications are used in china": {
+      "r_precision": 0.16,
+      "recall": 0.66
+    },
+    "how to make linkedin private": {
+      "r_precision": 0.17,
+      "recall": 0.53
+    },
+    "the rogue warriors": {
+      "r_precision": 0.45,
+      "recall": 0.58
+    },
+    "tope definition": {
+      "r_precision": 0.49,
+      "recall": 0.5
+    },
+    "What are the roles of synergists and agonist during a biceps curl?": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "what is better jump drive or disc": {
+      "r_precision": 0.73,
+      "recall": 0.93
+    },
+    "what is nas office license": {
+      "r_precision": 0.18,
+      "recall": 0.43
+    },
+    "why do pilots purposely fly low": {
+      "r_precision": 0.82,
+      "recall": 1.0
+    },
+    "what is that sign of trouble": {
+      "r_precision": 0.26,
+      "recall": 0.7
+    },
+    "where does angela turner work at": {
+      "r_precision": 0.07,
+      "recall": 0.08
+    },
+    "What features are included in the SE 35th Anniversary Edition?": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "What is the meaning of angel number 616?": {
+      "r_precision": 0.19,
+      "recall": 0.6
+    },
+    "what is edf file": {
+      "r_precision": 0.18,
+      "recall": 0.22
+    },
+    "what is the average cost per year to replace an electric furnace": {
+      "r_precision": 0.8,
+      "recall": 1.0
+    },
+    "how to set 0 in top and bottom margins in ie page setup": {
+      "r_precision": 0.61,
+      "recall": 1.0
+    },
+    "what is animal rennet": {
+      "r_precision": 0.98,
+      "recall": 0.99
+    },
+    "what is elastic deformation in science": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "what is the difference between an embossing notary seal and stamp": {
+      "r_precision": 0.98,
+      "recall": 1.0
+    },
+    "how many hours are the average college classes": {
+      "r_precision": 0.54,
+      "recall": 1.0
+    },
+    "How are divine energy experience levels divided and affected by boons?": {
+      "r_precision": 0.58,
+      "recall": 0.87
+    },
+    "what causes eye blackouts": {
+      "r_precision": 0.75,
+      "recall": 0.83
+    },
+    "what is the limit for blog comments": {
+      "r_precision": 0.07,
+      "recall": 0.89
+    },
+    "How should I view my audience during public speaking?": {
+      "r_precision": 0.58,
+      "recall": 1.0
+    },
+    "What was the fuel-based challenge in the German Border episode?": {
+      "r_precision": 0.27,
+      "recall": 0.92
+    },
+    "how to emulsion a house": {
+      "r_precision": 0.86,
+      "recall": 0.94
+    },
+    "what factors determines education": {
+      "r_precision": 0.73,
+      "recall": 0.97
+    },
+    "how to tell the percent of 9/10 to 10/11?": {
+      "r_precision": 0.11,
+      "recall": 0.77
+    },
+    "What types of public moorings does Waterways Ireland provide along navigable waterways?": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "How to teach Social Studies in writing and reading block?": {
+      "r_precision": 0.49,
+      "recall": 0.87
+    },
+    "how to get a degree in witchcraft": {
+      "r_precision": 0.04,
+      "recall": 0.77
+    },
+    "which substance produces the emission spectrum": {
+      "r_precision": 0.85,
+      "recall": 1.0
+    },
+    "what is irish kipper": {
+      "r_precision": 0.53,
+      "recall": 0.64
+    },
+    "what size silicone for shower": {
+      "r_precision": 0.84,
+      "recall": 0.9
+    },
+    "how to get plural of us": {
+      "r_precision": 0.62,
+      "recall": 0.99
+    },
+    "mushrooms good for cholesterol": {
+      "r_precision": 0.9,
+      "recall": 1.0
+    },
+    "where are freedos used": {
+      "r_precision": 0.15,
+      "recall": 0.19
+    },
+    "What are the most famous products of Gigabyte?": {
+      "r_precision": 0.5,
+      "recall": 0.77
+    },
+    "what is ivt in medical billing": {
+      "r_precision": 0.02,
+      "recall": 0.02
+    },
+    "How to set up a horseshoe pit and stake distance?": {
+      "r_precision": 0.93,
+      "recall": 0.98
+    },
+    "what kind of tree do walnut trees grow on": {
+      "r_precision": 0.92,
+      "recall": 0.98
+    },
+    "What types of wounds are calcium alginate dressings effective on?": {
+      "r_precision": 0.79,
+      "recall": 0.95
+    },
+    "why are the feathers of birds bright": {
+      "r_precision": 0.73,
+      "recall": 1.0
+    },
+    "what broker can i use to transfer account to another brokerage": {
+      "r_precision": 0.8,
+      "recall": 1.0
+    },
+    "What are the basic financial functions offered by banks and credit unions?": {
+      "r_precision": 0.49,
+      "recall": 0.96
+    },
+    "What is a 72 Hour No Contact Provision in Wisconsin domestic cases?": {
+      "r_precision": 0.45,
+      "recall": 0.96
+    },
+    "what is smart vocabulary": {
+      "r_precision": 0.1,
+      "recall": 0.22
+    },
+    "what makes a recording": {
+      "r_precision": 0.05,
+      "recall": 0.44
+    },
+    "How to write an essay quickly and effectively?": {
+      "r_precision": 0.37,
+      "recall": 0.97
+    },
+    "What is the approximate annual cost of heating a home?": {
+      "r_precision": 0.38,
+      "recall": 0.98
+    },
+    "What are the characteristics of a black and tan Coonhound?": {
+      "r_precision": 0.54,
+      "recall": 0.98
+    },
+    "what software does asp use": {
+      "r_precision": 0.28,
+      "recall": 0.54
+    },
+    "what did clinton say when he was being investigated?": {
+      "r_precision": 0.19,
+      "recall": 0.99
+    },
+    "What is the meaning and origin of the name Corrin?": {
+      "r_precision": 0.07,
+      "recall": 0.99
+    },
+    "How to prepare hot oatmeal using boiling water method?": {
+      "r_precision": 0.77,
+      "recall": 1.0
+    },
+    "How to germinate clematis seeds?": {
+      "r_precision": 0.59,
+      "recall": 0.98
+    },
+    "How do I apply for a Building Permit or access Buildings Department Records?": {
+      "r_precision": 0.65,
+      "recall": 0.93
+    },
+    "what does dried nori have in it": {
+      "r_precision": 0.87,
+      "recall": 0.91
+    },
+    "What are some disrespectful sitting positions in Japan and the Middle East?": {
+      "r_precision": 0.47,
+      "recall": 0.96
+    },
+    "who are the star wars princesses and generals": {
+      "r_precision": 0.18,
+      "recall": 0.55
+    },
+    "How to fix Error 105 in Adobe Photoshop?": {
+      "r_precision": 0.77,
+      "recall": 1.0
+    },
+    "Can I purchase a replacement property from a related party during a 1031 exchange?": {
+      "r_precision": 0.95,
+      "recall": 1.0
+    },
+    "directv royal oak mi": {
+      "r_precision": 0.02,
+      "recall": 0.1
+    },
+    "what was tut's first name?": {
+      "r_precision": 0.01,
+      "recall": 0.06
+    },
+    "What are the common types of teams in the workplace?": {
+      "r_precision": 0.22,
+      "recall": 0.92
+    },
+    "What are some examples of visuals used in presentations?": {
+      "r_precision": 0.1,
+      "recall": 0.71
+    },
+    "What vitamins can help with pain in the arm after a blood test?": {
+      "r_precision": 0.35,
+      "recall": 1.0
+    },
+    "what are the advantages of using value-added networks (vans)?": {
+      "r_precision": 0.06,
+      "recall": 0.71
+    },
+    "How do moderators receive Collaborate session recording emails?": {
+      "r_precision": 0.77,
+      "recall": 1.0
+    },
+    "What is the main idea of The Children of Light and the Children of Darkness by Reinhold Niebuhr?": {
+      "r_precision": 0.24,
+      "recall": 0.93
+    },
+    "what makes glitter lipstick": {
+      "r_precision": 0.77,
+      "recall": 0.96
+    },
+    "is gloria steinem": {
+      "r_precision": 0.11,
+      "recall": 0.11
+    },
+    "What was Turner's role in the White House National Security Council?": {
+      "r_precision": 0.45,
+      "recall": 0.91
+    },
+    "what does a sandbank shark eat": {
+      "r_precision": 0.59,
+      "recall": 0.81
+    },
+    "What is the environment like at the St. Croix River Valley golf course?": {
+      "r_precision": 0.69,
+      "recall": 1.0
+    },
+    "who played superman in the first justice league movie?": {
+      "r_precision": 0.17,
+      "recall": 0.53
+    },
+    "who owns drs train fleet": {
+      "r_precision": 0.39,
+      "recall": 0.8
+    },
+    "how to map a drive as a folder in windows server 2003": {
+      "r_precision": 0.64,
+      "recall": 0.99
+    },
+    "how to transfer music from cd computer to samsung s6 edge": {
+      "r_precision": 0.4,
+      "recall": 0.85
+    },
+    "where to find the best garbage disposal": {
+      "r_precision": 0.91,
+      "recall": 0.95
+    },
+    "What was the batting average of the author in junior high?": {
+      "r_precision": 0.61,
+      "recall": 0.98
+    },
+    "Who did Doris' mother want her daughter to marry?": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "the hormone __________ is produced in ________, which some scientists speculate may lead to differences in male and female brain structure, and later variations in gender-related behavior(s).": {
+      "r_precision": 0.84,
+      "recall": 1.0
+    },
+    "what time in omaha ne": {
+      "r_precision": 0.08,
+      "recall": 0.11
+    },
+    "horizon irrigation san rafael phone number": {
+      "r_precision": 0.07,
+      "recall": 0.28
+    },
+    "firestone jobs": {
+      "r_precision": 0.01,
+      "recall": 0.03
+    },
+    "why do some fighter jets have two pilots": {
+      "r_precision": 0.94,
+      "recall": 1.0
+    },
+    "nucor is a wholly owned subsidiary of": {
+      "r_precision": 0.41,
+      "recall": 0.91
+    },
+    "most common technology acronyms": {
+      "r_precision": 0.48,
+      "recall": 0.86
+    },
+    "What is the most common example of mapreduce?": {
+      "r_precision": 0.11,
+      "recall": 0.2
+    },
+    "how to use the full picture as the wallpaper for iphone": {
+      "r_precision": 0.79,
+      "recall": 0.97
+    },
+    "most powerful drills in the world": {
+      "r_precision": 0.65,
+      "recall": 0.97
+    },
+    "what does supra mean": {
+      "r_precision": 0.72,
+      "recall": 0.74
+    },
+    "how does a storage controller affect vmware": {
+      "r_precision": 0.28,
+      "recall": 0.93
+    },
+    "How can dental crowns help with bruxism-related tooth damage?": {
+      "r_precision": 0.88,
+      "recall": 1.0
+    },
+    "what is chickadee spirit animal": {
+      "r_precision": 0.68,
+      "recall": 0.87
+    },
+    "what kind of doctor treats musculoskeletal problems": {
+      "r_precision": 0.87,
+      "recall": 1.0
+    },
+    "what is 1 century": {
+      "r_precision": 0.15,
+      "recall": 0.7
+    },
+    "wes shum actor": {
+      "r_precision": 0.03,
+      "recall": 0.34
+    },
+    "What factors affect the severity of pressure damage to muscles in downer cows?": {
+      "r_precision": 0.37,
+      "recall": 1.0
+    },
+    "is unconditional love divine or self-giving": {
+      "r_precision": 0.82,
+      "recall": 0.96
+    },
+    "How to search for a lost cat in the neighborhood?": {
+      "r_precision": 0.79,
+      "recall": 0.98
+    },
+    "how to deduct 401k from taxes": {
+      "r_precision": 0.94,
+      "recall": 1.0
+    },
+    "How do you form the 1st and 2nd person plural stem in French?": {
+      "r_precision": 0.91,
+      "recall": 1.0
+    },
+    "How does a simple solution work for removing cat pee odor?": {
+      "r_precision": 0.81,
+      "recall": 1.0
+    },
+    "What are the different types of Occurrence Tags for species in a park?": {
+      "r_precision": 0.21,
+      "recall": 0.4
+    },
+    "How are ovarian cysts diagnosed using ultrasound?": {
+      "r_precision": 0.93,
+      "recall": 1.0
+    }
+  }
+}

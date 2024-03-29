@@ -6,6 +6,7 @@ using ElasticsearchClient: Client as ElasticClient
 using Statistics
 using ProgressMeter
 using BenchmarkTools
+using JSON
 
 include("reading_dataset.jl")
 include("prepare_index.jl")
@@ -39,6 +40,8 @@ function evaluate_search(search_func::Function)
       :r_precision => r_precision_task.result,
       :recall => recall_task.result
     )
+
+    open(f -> write(f, JSON.json(results, 2)), "dev/data/res.json", "w")
   end
 
   avg_r_precision = mean(v -> v[:r_precision], collect(values(results)))
