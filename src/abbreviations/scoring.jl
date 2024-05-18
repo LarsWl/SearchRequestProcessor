@@ -4,8 +4,12 @@ using Statistics
 
 function score_definitions(os_client, abbreviations_collection)::CollectionDictionary
   result = CollectionDictionary()
+  abbr_totals = Dict()
 
   @showprogress for (abbr, definitions) in collect(abbreviations_collection)
+    length(string(abbr)) > 5 && continue
+    abbr_totals[abbr] = calc_total(os_client, abbr)
+
     scores = map(def -> (def, calc_definition_score(os_client, def)), definitions)
 
     result[abbr] =
@@ -15,7 +19,28 @@ function score_definitions(os_client, abbreviations_collection)::CollectionDicti
       ) |> collect .|> first
   end
 
+  total_mean = mean(last.(collect(abbr_totals)))
+  result = filter(collect(result)) do (abbr, defs)
+    abbr_totals[abbr] < total_mean / 10
+  end |> CollectionDictionary
+
   result
+end
+
+function calc_total(os_client, abbr)
+  query = Dict(
+    :_source => [],
+    :size => 10000,
+    :query => Dict(
+      :match => Dict(
+        :body => abbr
+      )
+    )
+  )
+
+  resp = ElasticsearchClient.search(os_client, index="full_text_search_variant", body=query).body
+
+  resp["hits"]["total"]["value"]
 end
 
 function calc_definition_score(os_client, definition)

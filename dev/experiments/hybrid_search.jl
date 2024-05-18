@@ -6,7 +6,7 @@ using DebugDataWriter
 
 os_client = ElasticsearchClient.Client(verbose=1)
 DebugDataWriter.config().enable_log = false
-DebugDataWriter.config().enable_dump = false
+DebugDataWriter.config().enable_dump = true
 
 query = "is eucalyptus oil good for allergies"
 

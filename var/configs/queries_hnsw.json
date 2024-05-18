@@ -19,6 +19,7 @@
         "type": "text",
         "analyzer": "standard_shingle"
       },
+      "query_score": { "type": "float" },
       "query_embedding": {
         "type": "knn_vector",
         "dimension": 384,

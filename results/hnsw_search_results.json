@@ -1,2806 +1,4208 @@
 {
-  "avg_r_precision": 0.17177142857142885,
-  "avg_recall": 0.17227142857142883,
+  "avg_ndcg_10": 0.4656348616460755,
+  "avg_ndcg_100": 0.3549537939185787,
+  "avg_r_precision": 0.25277142857142865,
+  "avg_ndcg_20": 0.4065873678429268,
   "results": {
     "What are the guidelines for publishing comments on this website?": {
-      "r_precision": 0.02,
-      "recall": 0.02
+      "r_precision": 0.21,
+      "ndcg_10": 0.44362007573625395,
+      "ndcg_20": 0.5249003728151959,
+      "ndcg_100": 0.3546490297199255
     },
     "who developed the concept of a single element to explain how chemistry works": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.04,
+      "ndcg_10": 0.22009176629808014,
+      "ndcg_20": 0.14204003963365733,
+      "ndcg_100": 0.10652183762442352
     },
     "How does a crown provide protection to endodontically treated teeth?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.2,
+      "ndcg_10": 0.6171763894281982,
+      "ndcg_20": 0.4601360771508037,
+      "ndcg_100": 0.3800327219074381
     },
     "war chief doctor who the war games": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.24,
+      "ndcg_10": 0.7735315485176266,
+      "ndcg_20": 0.6488005789130676,
+      "ndcg_100": 0.48969649152287487
     },
     "what is an approved shooting target": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.35,
+      "ndcg_10": 0.832345102330593,
+      "ndcg_20": 0.6412926098112472,
+      "ndcg_100": 0.5548331264388432
     },
     "what does frq stand for in the workplace": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.1,
+      "ndcg_10": 0.3288792026480219,
+      "ndcg_20": 0.2818208811409708,
+      "ndcg_100": 0.20316896096914455
     },
     "who killed charlotte afton": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.21,
+      "ndcg_10": 0.24843752690582976,
+      "ndcg_20": 0.34413713962749376,
+      "ndcg_100": 0.26991199386010295
     },
     "what sports did you play as a teen": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.25,
+      "ndcg_10": 0.3738466196773534,
+      "ndcg_20": 0.3414704534265156,
+      "ndcg_100": 0.29558983746370565
     },
     "Which regions in Canada are considered the coldest?": {
       "r_precision": 0.33,
-      "recall": 0.33
+      "ndcg_10": 0.4775749314630565,
+      "ndcg_20": 0.41398882021545785,
+      "ndcg_100": 0.4117006261505518
     },
     "what is tbsp in minced garlic": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.32,
+      "ndcg_10": 0.6404218836964108,
+      "ndcg_20": 0.5449240270079088,
+      "ndcg_100": 0.45117641682425
     },
     "words that describe mountaintops": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.15,
+      "ndcg_10": 0.14711404427498434,
+      "ndcg_20": 0.15593169314726688,
+      "ndcg_100": 0.16682030167005632
     },
     "What is lateral capsule impingement and how does it cause pain?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.2,
+      "ndcg_10": 0.6233125528067366,
+      "ndcg_20": 0.46624212904305384,
+      "ndcg_100": 0.3344877241819203
     },
     "What did Jim Lehrer say about The Newshour's coverage of the Iraq invasion?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.3,
+      "ndcg_10": 0.6539491121388803,
+      "ndcg_20": 0.6188278204293689,
+      "ndcg_100": 0.49720754717063376
     },
     "What is unconditional love and how is it related to altruism?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.34,
+      "ndcg_10": 0.9285326356339175,
+      "ndcg_20": 0.6613989840573055,
+      "ndcg_100": 0.5094837028890161
     },
     "What did TK-421 do after being told to go about his business in the aqualeisure unit?": {
-      "r_precision": 0.02,
-      "recall": 0.02
+      "r_precision": 0.08,
+      "ndcg_10": 0.5446829371159229,
+      "ndcg_20": 0.35152058287787674,
+      "ndcg_100": 0.2624475076190843
     },
     "us anti corruption laws": {
-      "r_precision": 0.31,
-      "recall": 0.31
+      "r_precision": 0.28,
+      "ndcg_10": 0.4321501665396341,
+      "ndcg_20": 0.39257571510333694,
+      "ndcg_100": 0.349674585519797
     },
     "what is a coonan": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.21,
+      "ndcg_10": 0.24596057018078035,
+      "ndcg_20": 0.3059885912203391,
+      "ndcg_100": 0.2964276470854953
     },
     "what is new stylus": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.26,
+      "ndcg_10": 0.16650879004820895,
+      "ndcg_20": 0.14783548216009432,
+      "ndcg_100": 0.1925157805452507
     },
     "What are common ingredients added to beans in New Mexican cuisine?": {
-      "r_precision": 0.32,
-      "recall": 0.32
+      "r_precision": 0.24,
+      "ndcg_10": 0.3986412957324164,
+      "ndcg_20": 0.33698705677171187,
+      "ndcg_100": 0.3240099066277906
     },
     "can archaebacteria cause diseases": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.36,
+      "ndcg_10": 0.8203084680952044,
+      "ndcg_20": 0.6094138544868289,
+      "ndcg_100": 0.5291679841068933
     },
     "How does the absence of melanin in some animals contribute to their night vision?": {
       "r_precision": 0.21,
-      "recall": 0.21
+      "ndcg_10": 0.7145131828533912,
+      "ndcg_20": 0.5897418279897834,
+      "ndcg_100": 0.4481238567406864
     },
     "Do additives in expensive gas stations improve engine performance and gas mileage?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.16,
+      "ndcg_10": 0.3884264784473395,
+      "ndcg_20": 0.25304162981462075,
+      "ndcg_100": 0.1902506611648085
     },
     "define fads": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.22,
+      "ndcg_10": 0.3870742238840053,
+      "ndcg_20": 0.36105745282706736,
+      "ndcg_100": 0.3061605297931681
     },
     "What is the second most prevalent reason for hospital stays in pregnant women?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.1,
+      "ndcg_10": 0.4040482431269014,
+      "ndcg_20": 0.2962695532251209,
+      "ndcg_100": 0.22553406851150407
     },
     "What is the impact of vaccination on global health?": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.32,
+      "ndcg_10": 0.48486312337103243,
+      "ndcg_20": 0.3810255199673098,
+      "ndcg_100": 0.37253571369625205
     },
     "where do they have german border": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.21,
+      "ndcg_10": 0.14202040131451335,
+      "ndcg_20": 0.12648590319666575,
+      "ndcg_100": 0.13321043915739647
     },
     "where is the st croix river course": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.21,
+      "ndcg_10": 0.3151911198708052,
+      "ndcg_20": 0.37457153414348243,
+      "ndcg_100": 0.3028620386417309
     },
     "What is the local name for Jack Crevalle in Cabo San Lucas and how is it related to sportfishing?": {
-      "r_precision": 0.19,
-      "recall": 0.21
+      "r_precision": 0.16,
+      "ndcg_10": 0.8618061586173801,
+      "ndcg_20": 0.7025006151508452,
+      "ndcg_100": 0.5087382770492208
     },
     "what are the healthiest": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.25,
+      "ndcg_10": 0.061583577712609965,
+      "ndcg_20": 0.13902011678315795,
+      "ndcg_100": 0.16110289377303993
     },
     "How can shadow boxing benefit my training?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.3,
+      "ndcg_10": 0.40504673053698503,
+      "ndcg_20": 0.5072100487430209,
+      "ndcg_100": 0.40688304349911336
     },
     "what is a frizzle": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.44,
+      "ndcg_10": 0.5923077696363278,
+      "ndcg_20": 0.5416792618536852,
+      "ndcg_100": 0.5342491883284133
     },
     "how to delete a row in vba": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.24,
+      "ndcg_10": 0.39213095377700086,
+      "ndcg_20": 0.2973709735509965,
+      "ndcg_100": 0.21255253050489728
     },
     "how to become a registered nurse": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.2,
+      "ndcg_10": 0.20685317095464695,
+      "ndcg_20": 0.17564887807100885,
+      "ndcg_100": 0.14687198176555244
     },
     "meandered definition": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.43,
+      "ndcg_10": 0.7705412649687623,
+      "ndcg_20": 0.6424322105519074,
+      "ndcg_100": 0.5673581936292222
     },
     "Do I need a wholesale license to sell tangible goods in California?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.34,
+      "ndcg_10": 0.7464029392340052,
+      "ndcg_20": 0.684794676217022,
+      "ndcg_100": 0.6142880580056671
     },
     "What are some media sources outside the official Kremlin stance that can access exclusive interviews?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.14,
+      "ndcg_10": 0.3255507996500644,
+      "ndcg_20": 0.2509245015866473,
+      "ndcg_100": 0.27737743339876475
     },
     "what is the legal driving limit in a residential area": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.29,
+      "ndcg_10": 0.26391130880911384,
+      "ndcg_20": 0.3408597015575149,
+      "ndcg_100": 0.34742752407083455
     },
     "What is the meaning of the term 'Mayan' in linguistic context?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.08,
+      "ndcg_10": 0.2943510341250397,
+      "ndcg_20": 0.18996454640971894,
+      "ndcg_100": 0.16848196644554003
     },
     "where are spo": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.31,
+      "ndcg_10": 0.34512148358087186,
+      "ndcg_20": 0.3139250429308705,
+      "ndcg_100": 0.36140393213856403
     },
     "Can older adults gain strength by training once per week?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.4,
+      "ndcg_10": 0.682065663698477,
+      "ndcg_20": 0.65548707104879,
+      "ndcg_100": 0.5867811704635075
     },
     "who should not use an iud in adolescent": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.29,
+      "ndcg_10": 0.6326373739213123,
+      "ndcg_20": 0.6314929117392059,
+      "ndcg_100": 0.4879468302104387
     },
     "what causes blood in urine in husband": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.27,
+      "ndcg_10": 0.3514971053132803,
+      "ndcg_20": 0.4059162583446677,
+      "ndcg_100": 0.35501227921029377
     },
     "which spikes to buy": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.25,
+      "ndcg_10": 0.3411625283136202,
+      "ndcg_20": 0.28190277521563284,
+      "ndcg_100": 0.27438974259833093
     },
     "how long do you blanch spinach": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.36,
+      "ndcg_10": 0.3861453155685206,
+      "ndcg_20": 0.369341224641693,
+      "ndcg_100": 0.3618179764930324
     },
     "how do you calculate cspi": {
-      "r_precision": 0.01,
-      "recall": 0.01
+      "r_precision": 0.05,
+      "ndcg_10": 0.22009176629808014,
+      "ndcg_20": 0.16199358194976046,
+      "ndcg_100": 0.12691180250946205
     },
     "what are the patient care procedures": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.17,
+      "ndcg_10": 0.2526672927038759,
+      "ndcg_20": 0.2145770675456126,
+      "ndcg_100": 0.19984031296076654
     },
     "how to copy a word 2007 document to disk": {
       "r_precision": 0.19,
-      "recall": 0.19
+      "ndcg_10": 0.2379574812317808,
+      "ndcg_20": 0.19265683139336245,
+      "ndcg_100": 0.19704675086324866
     },
     "which bike has a brake disk": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.37,
+      "ndcg_10": 0.28515675841776794,
+      "ndcg_20": 0.36664848667097866,
+      "ndcg_100": 0.37091271232293327
     },
     "what is the worth of a house": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.26,
+      "ndcg_10": 0.46073696392503877,
+      "ndcg_20": 0.43937338379938956,
+      "ndcg_100": 0.3826278830478636
     },
     "List of individuals with the last name Stein and their professions": {
-      "r_precision": 0.13,
-      "recall": 0.14
+      "r_precision": 0.17,
+      "ndcg_10": 0.6272204522850409,
+      "ndcg_20": 0.4518706517552297,
+      "ndcg_100": 0.35402809374379257
     },
     "what lofts are there": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.27,
+      "ndcg_10": 0.06458688618258247,
+      "ndcg_20": 0.10696567877121116,
+      "ndcg_100": 0.16589354700751577
     },
     "how does overlap in table sawing work": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.27,
+      "ndcg_10": 0.28455810145772276,
+      "ndcg_20": 0.2245761742699133,
+      "ndcg_100": 0.2636108519597066
     },
     "what supplement is good for cancer": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.2,
+      "ndcg_10": 0.4191061281816021,
+      "ndcg_20": 0.3459659609178152,
+      "ndcg_100": 0.29045483179492065
     },
     "Where can I recycle uninterruptible power supply batteries?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.14,
+      "ndcg_10": 0.5173633627401371,
+      "ndcg_20": 0.37024570959046055,
+      "ndcg_100": 0.315383045645675
     },
     "why did adobe photoshop keep crashing": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.26,
+      "ndcg_10": 0.6812808041293001,
+      "ndcg_20": 0.4996821715104127,
+      "ndcg_100": 0.44947196042641135
     },
     "how do i log into my dlink router": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.28,
+      "ndcg_10": 0.7391415322042073,
+      "ndcg_20": 0.5526665674266712,
+      "ndcg_100": 0.4567195447520824
     },
     "how do i know if my child is dehydrated": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.03,
+      "ndcg_10": 0.06625422345438904,
+      "ndcg_20": 0.04275831251503158,
+      "ndcg_100": 0.062423621654160225
     },
     "when the related party replaces the home do they have to release the title": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.07,
+      "ndcg_10": 0.12195874841459492,
+      "ndcg_20": 0.08275890210105113,
+      "ndcg_100": 0.060479724540487494
     },
     "How do nodes in a content delivery network optimize the delivery process?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.29,
+      "ndcg_10": 0.8095493534660023,
+      "ndcg_20": 0.6737404938860063,
+      "ndcg_100": 0.542287894289368
     },
     "what does the erector spinae do": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.37,
+      "ndcg_10": 0.30347820682899823,
+      "ndcg_20": 0.39546125944637317,
+      "ndcg_100": 0.38025254269762926
     },
     "us attorney office charleston michael stuart": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.27,
+      "ndcg_10": 0.4857494825889555,
+      "ndcg_20": 0.4038800632361382,
+      "ndcg_100": 0.3361260084962734
     },
     "How do animals use visual signals for mating and territorial dominance?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.34,
+      "ndcg_10": 0.4295699131498291,
+      "ndcg_20": 0.5156979666075867,
+      "ndcg_100": 0.4339273155817986
     },
     "How to prevent a workplace discussion from becoming an argument?": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.09,
+      "ndcg_10": 0.5067705122823781,
+      "ndcg_20": 0.32705314178936506,
+      "ndcg_100": 0.22556644264334108
     },
     "how to remove the top on a delco car battery": {
       "r_precision": 0.13,
-      "recall": 0.13
+      "ndcg_10": 0.2711881276107406,
+      "ndcg_20": 0.17952940231676806,
+      "ndcg_100": 0.14615850021040777
     },
     "What are some easy dragon crafts for indoor fun?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.25,
+      "ndcg_10": 0.5285139338751902,
+      "ndcg_20": 0.41372248841726855,
+      "ndcg_100": 0.33445291911340497
     },
     "How should I adjust my homeowner's insurance after home improvements?": {
       "r_precision": 0.14,
-      "recall": 0.14
+      "ndcg_10": 0.01176747045447991,
+      "ndcg_20": 0.05243905304597336,
+      "ndcg_100": 0.09539765635859218
     },
     "What happened to Fell and Lindley after leaving Three's Company?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.29,
+      "ndcg_10": 0.9449232725588382,
+      "ndcg_20": 0.8390834427712727,
+      "ndcg_100": 0.6638931392879451
     },
     "when is prices corner sears closing": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.29,
+      "ndcg_10": 0.09373712993828365,
+      "ndcg_20": 0.1381715691780755,
+      "ndcg_100": 0.2145629103886213
     },
     "What can I expect from the Virginia DMV Practice Test?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.22,
+      "ndcg_10": 0.15500724911780642,
+      "ndcg_20": 0.20021363471060605,
+      "ndcg_100": 0.2262372590092299
     },
     "calculate salary from basic pay": {
-      "r_precision": 0.3,
-      "recall": 0.3
+      "r_precision": 0.24,
+      "ndcg_10": 0.7804246770721289,
+      "ndcg_20": 0.6708165047358415,
+      "ndcg_100": 0.4796790973563993
     },
     "which of the following factors weaken political campaigns' effect on voters": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.24,
+      "ndcg_10": 0.7839478428812168,
+      "ndcg_20": 0.5864738027642606,
+      "ndcg_100": 0.48872763467859986
     },
     "What was the secret ingredient used in the original Buffalo Wings in 1964?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.35,
+      "ndcg_10": 0.6417159873340463,
+      "ndcg_20": 0.584202829697607,
+      "ndcg_100": 0.501699439359333
     },
     "who did kelly johnson divorce from?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.3,
+      "ndcg_10": 0.54515534310563,
+      "ndcg_20": 0.42223871958338927,
+      "ndcg_100": 0.3796982053049158
     },
     "What is the plumage color of males during mating season in Madagascar?": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.25,
+      "ndcg_10": 0.7403555801493809,
+      "ndcg_20": 0.5452764608380121,
+      "ndcg_100": 0.46351821427906026
     },
     "currently disneyland prices": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.36,
+      "ndcg_10": 0.2856661156473822,
+      "ndcg_20": 0.3894822582370532,
+      "ndcg_100": 0.39091139506820033
     },
     "who receives recorded video from collaborative": {
-      "r_precision": 0.07,
-      "recall": 0.1
+      "r_precision": 0.12,
+      "ndcg_10": 0.22009176629808014,
+      "ndcg_20": 0.15977768876679488,
+      "ndcg_100": 0.18296721244136288
     },
     "What are the colors and specifications of Ryobi One+ 18V P222 Rotary Hammer?": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.36,
+      "ndcg_10": 0.9155199477500808,
+      "ndcg_20": 0.6879210821325211,
+      "ndcg_100": 0.6003416956294437
     },
     "how much experience will be gained in the slayer lords": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.28,
+      "ndcg_10": 0.7906183433422268,
+      "ndcg_20": 0.6668922664825225,
+      "ndcg_100": 0.497477802708315
     },
     "What is the plot of the movie directed by Kathryn Bigelow starring Patrick Swayze and Keanu Reeves?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.37,
+      "ndcg_10": 0.4866594151364882,
+      "ndcg_20": 0.5385607534106341,
+      "ndcg_100": 0.47910766334907723
     },
     "what helps cat pee smell": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.3,
+      "ndcg_10": 0.28701606565236404,
+      "ndcg_20": 0.22018298238351008,
+      "ndcg_100": 0.2616485835116387
     },
     "what kind of feeds for a leopard gecko": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.25,
+      "ndcg_10": 0.23874999768127886,
+      "ndcg_20": 0.2731985570142867,
+      "ndcg_100": 0.21961394684351052
     },
     "what causes people act for civil rights": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.26,
+      "ndcg_10": 0.17030850353985597,
+      "ndcg_20": 0.24207588462833232,
+      "ndcg_100": 0.20748231082996127
     },
     "timeline template excel": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.37,
+      "ndcg_10": 0.372272549216311,
+      "ndcg_20": 0.3773286286587351,
+      "ndcg_100": 0.4390249290813973
     },
     "age limit to have a financial account": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.1,
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.0345251246030902,
+      "ndcg_100": 0.07665640603685522
     },
     "is streptococcus mitis gram negative or positive": {
-      "r_precision": 0.31,
-      "recall": 0.31
+      "r_precision": 0.35,
+      "ndcg_10": 0.6371142326156833,
+      "ndcg_20": 0.5860563378143052,
+      "ndcg_100": 0.48955560393033504
     },
     "college of the ozarks nursing": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.3,
+      "ndcg_10": 0.7553908211893541,
+      "ndcg_20": 0.6515198696108414,
+      "ndcg_100": 0.5189893846187007
     },
     "How do I transfer my Fidelity account to Ameritrade?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.26,
+      "ndcg_10": 0.6746174093229963,
+      "ndcg_20": 0.6826026262937163,
+      "ndcg_100": 0.5302304646131325
     },
     "what types of presentations are used by presentations": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.11,
+      "ndcg_10": 0.27790790418309896,
+      "ndcg_20": 0.2540936133926281,
+      "ndcg_100": 0.19000697397410288
     },
     "cost comparison of funerals in australia": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.32,
+      "ndcg_10": 0.7384866810859544,
+      "ndcg_20": 0.5473206182955872,
+      "ndcg_100": 0.5127091807010707
     },
     "how many questions are in the dmv exam": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.19,
+      "ndcg_10": 0.07117977498636291,
+      "ndcg_20": 0.1319845881502443,
+      "ndcg_100": 0.12732590339311828
     },
     "erik barsness percussion": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.09,
+      "ndcg_10": 0.11246633789563483,
+      "ndcg_20": 0.07482105256539001,
+      "ndcg_100": 0.10646891653110306
     },
     "what is the fastest tp cable": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.32,
+      "ndcg_10": 0.293682130345729,
+      "ndcg_20": 0.32148784041841033,
+      "ndcg_100": 0.3054600575557046
     },
     "How does the in-house product development team approach sports nutrition formulation?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.2,
+      "ndcg_10": 0.6265102755204096,
+      "ndcg_20": 0.4950902260949046,
+      "ndcg_100": 0.3688253137286632
     },
     "how long should endodontics crowns last": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.27,
+      "ndcg_10": 0.7529040148130139,
+      "ndcg_20": 0.5577363921919711,
+      "ndcg_100": 0.4878908680962221
     },
     "define most probable presence": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.06,
+      "ndcg_10": 0.04533333728880094,
+      "ndcg_20": 0.0341754000779172,
+      "ndcg_100": 0.031626580202743976
     },
     "why do we do transition sentences in writing": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.29,
+      "ndcg_10": 0.4722247429518527,
+      "ndcg_20": 0.40558244235458946,
+      "ndcg_100": 0.3577789219356537
     },
     "why do i have night vision": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.21,
+      "ndcg_10": 0.24246501594120423,
+      "ndcg_20": 0.1749962077374638,
+      "ndcg_100": 0.20318214749739824
     },
     "what is malleable structure?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.31,
+      "ndcg_10": 0.6753055248663948,
+      "ndcg_20": 0.602135849803758,
+      "ndcg_100": 0.47572331141321444
     },
     "where can you find diskreet vibe": {
-      "r_precision": 0.02,
-      "recall": 0.02
+      "r_precision": 0.15,
+      "ndcg_10": 0.6802328047017079,
+      "ndcg_20": 0.5044342134527059,
+      "ndcg_100": 0.3459441449085603
     },
     "what themes are in action movies": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.22,
+      "ndcg_10": 0.5731695549000421,
+      "ndcg_20": 0.40656995881657804,
+      "ndcg_100": 0.34854499618524176
     },
     "how to make a slope on a line": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.37,
+      "ndcg_10": 0.3104092597964071,
+      "ndcg_20": 0.3638107185360656,
+      "ndcg_100": 0.3779356679729803
     },
     "How can I change the recording destination and mode in a device?": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.17,
+      "ndcg_10": 0.44806020936359053,
+      "ndcg_20": 0.33009517089139284,
+      "ndcg_100": 0.2507876320996556
     },
     "How to improve slow VMware/Hyper-V performance?": {
       "r_precision": 0.13,
-      "recall": 0.13
+      "ndcg_10": 0.43659630095527086,
+      "ndcg_20": 0.33613820058503285,
+      "ndcg_100": 0.24944221329526445
     },
     "what vitamins are good for blood work": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.18,
+      "ndcg_10": 0.17347659609720723,
+      "ndcg_20": 0.13117558357420822,
+      "ndcg_100": 0.15366106903144847
     },
     "how to cook a beef round tip roast": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.26,
+      "ndcg_10": 0.40643312914697105,
+      "ndcg_20": 0.33638768969454286,
+      "ndcg_100": 0.30946500036762986
     },
     "What are some best-selling spirituality books?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.26,
+      "ndcg_10": 0.7034036774187848,
+      "ndcg_20": 0.5311456934629187,
+      "ndcg_100": 0.41244497553392717
     },
     "avery name meaning": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.41,
+      "ndcg_10": 0.6955442228453304,
+      "ndcg_20": 0.6021872538703906,
+      "ndcg_100": 0.5122601385282334
     },
     "kroil definition": {
-      "r_precision": 0.01,
-      "recall": 0.01
+      "r_precision": 0.15,
+      "ndcg_10": 0.7668237611571033,
+      "ndcg_20": 0.505985091044644,
+      "ndcg_100": 0.35036422711630616
     },
     "what is a molecule resonance structures": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.29,
+      "ndcg_10": 0.3513533429208099,
+      "ndcg_20": 0.3718882747618211,
+      "ndcg_100": 0.3655805745331347
     },
     "asier in persian meaning": {
-      "r_precision": 0.0,
-      "recall": 0.01
+      "r_precision": 0.17,
+      "ndcg_10": 0.14252274536021087,
+      "ndcg_20": 0.1891215660439575,
+      "ndcg_100": 0.15333042726167845
     },
     "types of belts for women": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.37,
+      "ndcg_10": 0.6558477654389494,
+      "ndcg_20": 0.5746187113662188,
+      "ndcg_100": 0.4836156819551526
     },
     "can you blur your iris": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.34,
+      "ndcg_10": 0.8571670923127102,
+      "ndcg_20": 0.7203341150490385,
+      "ndcg_100": 0.6038727832643465
     },
     "when do we use normal distribution": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.4,
+      "ndcg_10": 0.3993839227180951,
+      "ndcg_20": 0.3876366177840673,
+      "ndcg_100": 0.4390878942863662
     },
     "when did the newshour discuss iraq": {
-      "r_precision": 0.03,
-      "recall": 0.03
+      "r_precision": 0.13,
+      "ndcg_10": 0.08474387947157831,
+      "ndcg_20": 0.1280632777671364,
+      "ndcg_100": 0.14157237854875537
     },
     "what is a seminal moment?": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.04,
+      "ndcg_10": 0.2466040698308702,
+      "ndcg_20": 0.15915021466617918,
+      "ndcg_100": 0.1110047896166128
     },
     "why is woodwind and brasswind closed": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.3,
+      "ndcg_10": 0.10631960066611416,
+      "ndcg_20": 0.23141976009093135,
+      "ndcg_100": 0.23350226770263527
     },
     "how to create create a web calendar": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.25,
+      "ndcg_10": 0.45070320723722407,
+      "ndcg_20": 0.41468039665805034,
+      "ndcg_100": 0.3737594585048231
     },
     "the coffee called flat white": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.39,
+      "ndcg_10": 0.4635672571490378,
+      "ndcg_20": 0.5141053153665784,
+      "ndcg_100": 0.4664180951574882
     },
     "How did online programs affect Wi-Fi charges for a frequent traveler?": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.15,
+      "ndcg_10": 0.3474445522759356,
+      "ndcg_20": 0.4122541624775801,
+      "ndcg_100": 0.34380547653336313
     },
     "are employer hsa contributions taxable in states": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.4,
+      "ndcg_10": 0.49400495259421623,
+      "ndcg_20": 0.4127438189791936,
+      "ndcg_100": 0.47242246966313045
     },
     "What could cause blood in urine for someone with a hernia?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.22,
+      "ndcg_10": 0.48090552113069,
+      "ndcg_20": 0.3709445152575621,
+      "ndcg_100": 0.2784188170399052
     },
     "What is Dogecoin being referred to as by celebrities and influencers?": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.36,
+      "ndcg_10": 0.6055557023660283,
+      "ndcg_20": 0.524796271906103,
+      "ndcg_100": 0.5141867630784068
     },
     "What is the number of breast cancer deaths in the UK annually?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.29,
+      "ndcg_10": 0.6396224448947871,
+      "ndcg_20": 0.49052962616020485,
+      "ndcg_100": 0.4021903369522742
     },
     "How do birth control and hormone levels affect menstrual cycle variations?": {
-      "r_precision": 0.32,
-      "recall": 0.32
+      "r_precision": 0.27,
+      "ndcg_10": 0.5482241268457337,
+      "ndcg_20": 0.4373601653094012,
+      "ndcg_100": 0.36301744958387183
     },
     "how fetus develops week by week": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.36,
+      "ndcg_10": 0.4588686273582831,
+      "ndcg_20": 0.4206155905340803,
+      "ndcg_100": 0.37456269421242394
     },
     "jett manufacturing": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.14,
+      "ndcg_10": 0.04734785356093885,
+      "ndcg_20": 0.11035264841417541,
+      "ndcg_100": 0.09631804419234771
     },
     "who are chiquitas major competitors": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.28,
+      "ndcg_10": 0.35928672330287914,
+      "ndcg_20": 0.39039628590801445,
+      "ndcg_100": 0.3078853680879653
     },
     "How do great-tailed grackles solve the Crow and the Pitcher puzzle?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.3,
+      "ndcg_10": 0.7780012571703305,
+      "ndcg_20": 0.6811205197262985,
+      "ndcg_100": 0.5422962193910047
     },
     "How to create a wearable glitter lip look?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.26,
+      "ndcg_10": 0.43125794460555933,
+      "ndcg_20": 0.356382378999201,
+      "ndcg_100": 0.3562801695292338
     },
     "what is the game that the game players start": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.15,
+      "ndcg_10": 0.1576599000692546,
+      "ndcg_20": 0.20704361244051972,
+      "ndcg_100": 0.1964989374493598
     },
     "what to make yourself for halloween": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.21,
+      "ndcg_10": 0.2665209340116604,
+      "ndcg_20": 0.23679285950381898,
+      "ndcg_100": 0.2301318780311312
     },
     "what form do i fill to file for apartment insurance": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.12,
+      "ndcg_10": 0.1206333263668059,
+      "ndcg_20": 0.11129030135796189,
+      "ndcg_100": 0.12765018718960833
     },
     "what is the normal range of resting heart rate": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.35,
+      "ndcg_10": 0.26589962526758454,
+      "ndcg_20": 0.3032021101533722,
+      "ndcg_100": 0.37147478728879046
     },
     "how to find mean & variance for regression analysis": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.16,
+      "ndcg_10": 0.37837836725694807,
+      "ndcg_20": 0.2848247248163126,
+      "ndcg_100": 0.24458072909866208
     },
     "what is water resources management": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.38,
+      "ndcg_10": 0.4736603392472952,
+      "ndcg_20": 0.37637879528755624,
+      "ndcg_100": 0.38100032683376367
     },
     "how many hp in staley wet/dry vacuum": {
       "r_precision": 0.26,
-      "recall": 0.26
+      "ndcg_10": 0.4213288966115729,
+      "ndcg_20": 0.3394317529660848,
+      "ndcg_100": 0.27022139605630674
     },
     "what is a narwhal tusk made of": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.44,
+      "ndcg_10": 0.6827235045779945,
+      "ndcg_20": 0.6210718343497468,
+      "ndcg_100": 0.5827788574718569
     },
     "When was Janelle Pierzina's daughter Violet Anne born?": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.22,
+      "ndcg_10": 0.5860100026628318,
+      "ndcg_20": 0.4766401166294957,
+      "ndcg_100": 0.34274066458994923
     },
     "walt disney world swan resort in orlando": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.32,
+      "ndcg_10": 0.4569870221043612,
+      "ndcg_20": 0.38906780296661403,
+      "ndcg_100": 0.34962968897918856
     },
     "what did nato mean by mutual defense": {
-      "r_precision": 0.3,
-      "recall": 0.3
+      "r_precision": 0.32,
+      "ndcg_10": 0.7471984180889816,
+      "ndcg_20": 0.5743361038840938,
+      "ndcg_100": 0.44339520066985366
     },
     "where did baby christ get born": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.09,
+      "ndcg_10": 0.12833307780723832,
+      "ndcg_20": 0.08723035669584087,
+      "ndcg_100": 0.12209258454320492
     },
     "What are some common assistive devices used in patient care?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.19,
+      "ndcg_10": 0.25162555520136287,
+      "ndcg_20": 0.2328454890861504,
+      "ndcg_100": 0.22685238355367338
     },
     "the top reverb pedals": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.28,
+      "ndcg_10": 0.4482525418347863,
+      "ndcg_20": 0.41794019360766393,
+      "ndcg_100": 0.3460643166183171
     },
     "What are the key characteristics of a business leader?": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.21,
+      "ndcg_10": 0.251969291816591,
+      "ndcg_20": 0.20247608542032056,
+      "ndcg_100": 0.21424559827343773
     },
     "why are wi-fi access fees high": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.19,
+      "ndcg_10": 0.20404409767774903,
+      "ndcg_20": 0.20116384028706347,
+      "ndcg_100": 0.22373546097691155
     },
     "what is the difference in a rxt and a gtx": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.24,
+      "ndcg_10": 0.41197964055693476,
+      "ndcg_20": 0.4399723624649953,
+      "ndcg_100": 0.3242372953004589
     },
     "How does a meat-based diet influence brain size?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.2,
+      "ndcg_10": 0.6218159429200949,
+      "ndcg_20": 0.5140789371388883,
+      "ndcg_100": 0.37353852091923195
     },
     "What is the significance of the term 'winningest' on August 12, 2016?": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.02,
+      "ndcg_10": 0.31488013066763093,
+      "ndcg_20": 0.2032133550116892,
+      "ndcg_100": 0.13579978978658114
     },
     "what are islet cells made of": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.37,
+      "ndcg_10": 0.525540664823646,
+      "ndcg_20": 0.5384132430750115,
+      "ndcg_100": 0.47028913177433146
     },
     "What is the top speed and weight capacity of a 150cc gas-powered scooter with an air cooling system?": {
       "r_precision": 0.21,
-      "recall": 0.21
+      "ndcg_10": 0.541356243510385,
+      "ndcg_20": 0.4268279210679389,
+      "ndcg_100": 0.3073435439827932
     },
     "what is banner": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.35,
+      "ndcg_10": 0.5436676526355126,
+      "ndcg_20": 0.4530405745248702,
+      "ndcg_100": 0.416868076770282
     },
     "How can I use Adobe apps on my Linux Desktop?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.19,
+      "ndcg_10": 0.3940746147232322,
+      "ndcg_20": 0.37141290130167876,
+      "ndcg_100": 0.2661854893532486
     },
     "What are the predominant languages in the country and what is the government's plan regarding English in schools?": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.18,
+      "ndcg_10": 0.4007322544042954,
+      "ndcg_20": 0.43051030537885643,
+      "ndcg_100": 0.3538441697143766
     },
     "why does my router not work": {
-      "r_precision": 0.03,
-      "recall": 0.03
+      "r_precision": 0.17,
+      "ndcg_10": 0.16698279727633245,
+      "ndcg_20": 0.13339320658777543,
+      "ndcg_100": 0.17279527376742126
     },
     "definition claim": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.25,
+      "ndcg_10": 0.55210468099066,
+      "ndcg_20": 0.5829636999844771,
+      "ndcg_100": 0.4349406065525402
     },
     "do gas additives really help your gas mileage": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.18,
+      "ndcg_10": 0.41033613423862353,
+      "ndcg_20": 0.2648175429308835,
+      "ndcg_100": 0.2505365810481734
     },
     "When did the mixing of chicory with coffee become popular and why?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.26,
+      "ndcg_10": 0.4237998053889285,
+      "ndcg_20": 0.312254799107596,
+      "ndcg_100": 0.304574961409368
     },
     "What are the unique characteristics of Nucor's work environment?": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.16,
+      "ndcg_10": 0.27449499893390006,
+      "ndcg_20": 0.23255936598521126,
+      "ndcg_100": 0.259489920207691
     },
     "what are some resources people use to be killing machines": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.1,
+      "ndcg_10": 0.1699517949956104,
+      "ndcg_20": 0.12971647159585925,
+      "ndcg_100": 0.09634954135957147
     },
     "what two metals are not alkali metals?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.1,
+      "ndcg_10": 0.10343183634847293,
+      "ndcg_20": 0.06675152997055668,
+      "ndcg_100": 0.11446426877567448
     },
     "hotels in cimes,ca": {
-      "r_precision": 0.03,
-      "recall": 0.03
+      "r_precision": 0.11,
+      "ndcg_10": 0.05578763151632313,
+      "ndcg_20": 0.11376745905489494,
+      "ndcg_100": 0.09340347646440413
     },
     "What are the effects of too much estrogen on body shape?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.29,
+      "ndcg_10": 0.8067116162429556,
+      "ndcg_20": 0.6397206032590644,
+      "ndcg_100": 0.5143456879568101
     },
     "What is the average total college expense for a 4-year in-state college student?": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.08,
+      "ndcg_10": 0.26262171069189083,
+      "ndcg_20": 0.2476188726711556,
+      "ndcg_100": 0.17294050429874455
     },
     "what protocol can be used to transfer files": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.17,
+      "ndcg_10": 0.36347222296954246,
+      "ndcg_20": 0.2429079633330015,
+      "ndcg_100": 0.22866564555912144
     },
     "Does gluing cabinet joints increase the sturdiness?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.27,
+      "ndcg_10": 0.5038888138182968,
+      "ndcg_20": 0.483461698021026,
+      "ndcg_100": 0.3961570211786944
     },
     "what is iress trader": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.15,
+      "ndcg_10": 0.5584277826906874,
+      "ndcg_20": 0.38823376084425776,
+      "ndcg_100": 0.3177394702855216
     },
     "which part of the adaptive immune response involves b cells": {
-      "r_precision": 0.33,
-      "recall": 0.33
+      "r_precision": 0.34,
+      "ndcg_10": 0.5674315703611444,
+      "ndcg_20": 0.585474935668801,
+      "ndcg_100": 0.4571876929326428
     },
     "how to make the best pork crackling": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.4,
+      "ndcg_10": 0.44301131497842616,
+      "ndcg_20": 0.4309261953424972,
+      "ndcg_100": 0.42373517646663567
     },
     "what is considered a workplace hazard": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.23,
+      "ndcg_10": 0.301977010883531,
+      "ndcg_20": 0.3199238716742831,
+      "ndcg_100": 0.31563876554800774
     },
     "how to find the conductor": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.21,
+      "ndcg_10": 0.15091342944578195,
+      "ndcg_20": 0.1329408001289086,
+      "ndcg_100": 0.1807996718218496
     },
     "what type of electricity does lightning carry": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.25,
+      "ndcg_10": 0.5026319590492899,
+      "ndcg_20": 0.38324072510039403,
+      "ndcg_100": 0.3279265760549114
     },
     "How do I copy and paste MIDI notes in Piano Roll?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.34,
+      "ndcg_10": 0.6099528727619982,
+      "ndcg_20": 0.5180879060219428,
+      "ndcg_100": 0.44264213450592893
     },
     "what information is needed to get a ballot": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.23,
+      "ndcg_10": 0.26525908074236954,
+      "ndcg_20": 0.28703668673263505,
+      "ndcg_100": 0.25980823359664595
     },
     "lca number nc dhhs": {
-      "r_precision": 0.11,
-      "recall": 0.12
+      "r_precision": 0.27,
+      "ndcg_10": 0.3557953024996086,
+      "ndcg_20": 0.43462723498954403,
+      "ndcg_100": 0.3366560661718163
     },
     "definition of nucleus biology": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.31,
+      "ndcg_10": 0.7259782773961895,
+      "ndcg_20": 0.6101013513105529,
+      "ndcg_100": 0.4802225282986105
     },
     "how to avoid work conflict": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.31,
+      "ndcg_10": 0.4412050301654741,
+      "ndcg_20": 0.4259582629814901,
+      "ndcg_100": 0.4174840207632435
     },
     "refractive target distance": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.31,
+      "ndcg_10": 0.8981364398236403,
+      "ndcg_20": 0.7770493019514163,
+      "ndcg_100": 0.591235200866278
     },
     "average college costs for four years": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.41,
+      "ndcg_10": 0.26270413549205374,
+      "ndcg_20": 0.22745827643864985,
+      "ndcg_100": 0.37199104992999604
     },
     "is tomato a good food for prostate health": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.27,
+      "ndcg_10": 0.6057932344657438,
+      "ndcg_20": 0.5411955119928235,
+      "ndcg_100": 0.43566507416266764
     },
     "pokemon x how to delete profile": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.18,
+      "ndcg_10": 0.894508324231748,
+      "ndcg_20": 0.7281524657604561,
+      "ndcg_100": 0.5151704238900584
     },
     "timing belt purpose": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.2,
+      "ndcg_10": 0.5648992410586816,
+      "ndcg_20": 0.47297440651193934,
+      "ndcg_100": 0.3421543144289121
     },
     "What do the terms HO-6, HO-3, and HO-4 mean in homeowners insurance?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.34,
+      "ndcg_10": 0.9349990166505273,
+      "ndcg_20": 0.8384005892019455,
+      "ndcg_100": 0.6836853635183716
     },
     "How does the File Transfer Protocol work between two computers?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.36,
+      "ndcg_10": 0.5669797928402945,
+      "ndcg_20": 0.47962673041195725,
+      "ndcg_100": 0.4307012426271702
     },
     "meaning of anaesthesiologist": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.27,
+      "ndcg_10": 0.41156155427469165,
+      "ndcg_20": 0.3386993999977507,
+      "ndcg_100": 0.38847756464995886
     },
     "how to take care of boil on forehead": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.14,
+      "ndcg_10": 0.15544462662066844,
+      "ndcg_20": 0.15709279028929332,
+      "ndcg_100": 0.15759430659167892
     },
     "what is in connecticut": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.14,
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.06550208262432053,
+      "ndcg_100": 0.10526900764794882
     },
     "What happened to Shirley Feeney's actress?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.27,
+      "ndcg_10": 0.4713276317681294,
+      "ndcg_20": 0.38988560123117955,
+      "ndcg_100": 0.3918033213565022
     },
     "where are cichlid mouth": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.44,
+      "ndcg_10": 0.4934324462661917,
+      "ndcg_20": 0.4348438261354857,
+      "ndcg_100": 0.47297553324558506
     },
     "What is the rating of College of the Ozarks for Nursing program?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.18,
+      "ndcg_10": 0.5239294981581573,
+      "ndcg_20": 0.4471251915881092,
+      "ndcg_100": 0.35846961923846543
     },
     "what is the coldest place in the world": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.3,
+      "ndcg_10": 0.21289151493867522,
+      "ndcg_20": 0.3157200611582091,
+      "ndcg_100": 0.3384283965376484
     },
     "who was president when blacks were liberated": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.07,
+      "ndcg_10": 0.21719881851861303,
+      "ndcg_20": 0.17303799616356655,
+      "ndcg_100": 0.12591417876964175
     },
     "where is a fibroids location": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.26,
+      "ndcg_10": 0.2954274238252681,
+      "ndcg_20": 0.3206002301818318,
+      "ndcg_100": 0.24714322066601782
     },
     "what is ethnocentric orientation": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.36,
+      "ndcg_10": 0.7171845613687247,
+      "ndcg_20": 0.657264820791101,
+      "ndcg_100": 0.5820015241682224
     },
     "what is the best credit card for seniors": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.27,
+      "ndcg_10": 0.7622347231526215,
+      "ndcg_20": 0.6010946848393192,
+      "ndcg_100": 0.43396480823647837
     },
     "how to write an essay quickly for school": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.18,
+      "ndcg_10": 0.08349373741477246,
+      "ndcg_20": 0.0637603509892162,
+      "ndcg_100": 0.16996946313402
     },
     "What is a paraffin bath for hands and feet that can help with arthritis pain and dry skin?": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.32,
+      "ndcg_10": 0.6110496087213595,
+      "ndcg_20": 0.6007372497844558,
+      "ndcg_100": 0.4669173510593658
     },
     "how many extra foot bones are there": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.28,
+      "ndcg_10": 0.8053664928677571,
+      "ndcg_20": 0.678093724734482,
+      "ndcg_100": 0.5152218554355267
     },
     "what does a bachelor of science health education": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.24,
+      "ndcg_10": 0.06985125691404916,
+      "ndcg_20": 0.15040791944357473,
+      "ndcg_100": 0.21621226447401803
     },
     "How do I sync a shared folder to my OneDrive?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.35,
+      "ndcg_10": 0.43433830500790904,
+      "ndcg_20": 0.5125488555306551,
+      "ndcg_100": 0.4252068938700405
     },
     "who are the three arthur steins": {
-      "r_precision": 0.23,
-      "recall": 0.24
+      "r_precision": 0.28,
+      "ndcg_10": 0.3102433985729724,
+      "ndcg_20": 0.3193336227839307,
+      "ndcg_100": 0.29731763198135913
     },
     "most penetrating oil for skin": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.16,
+      "ndcg_10": 0.06937738782975493,
+      "ndcg_20": 0.12800346508196447,
+      "ndcg_100": 0.16945598733010644
     },
     "What is the purpose of Bestgarbagedisposalunits.com?": {
       "r_precision": 0.03,
-      "recall": 0.03
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.0,
+      "ndcg_100": 0.05804271006514974
     },
     "cancer mortality rate": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.3,
+      "ndcg_10": 0.40032239815774767,
+      "ndcg_20": 0.4241341800643274,
+      "ndcg_100": 0.3441527678094048
     },
     "fda definition of verification": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.34,
+      "ndcg_10": 0.6777661416109972,
+      "ndcg_20": 0.64781231592171,
+      "ndcg_100": 0.5323263480894197
     },
     "What is triangulation fraud?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.33,
+      "ndcg_10": 0.750909873910951,
+      "ndcg_20": 0.6238705464358072,
+      "ndcg_100": 0.5132443175234832
     },
     "when was reinhold niebuhr born and died?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.24,
+      "ndcg_10": 0.6282405540534435,
+      "ndcg_20": 0.59900537340568,
+      "ndcg_100": 0.4607910207123254
     },
     "what is true about millimeters and kilometers": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.23,
+      "ndcg_10": 0.6806798032385232,
+      "ndcg_20": 0.6686533949669489,
+      "ndcg_100": 0.4608947484252421
     },
     "can midi files be pasted?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.28,
+      "ndcg_10": 0.6095329942964519,
+      "ndcg_20": 0.4569349399655657,
+      "ndcg_100": 0.40639076134211727
     },
     "What is the release date, cast, and storyline of Justice League – Part One?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.32,
+      "ndcg_10": 0.7246407579158253,
+      "ndcg_20": 0.5732619782941587,
+      "ndcg_100": 0.47108787042783584
     },
     "what probe traces est ph": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.39,
+      "ndcg_10": 0.35454648685721823,
+      "ndcg_20": 0.36117593152853533,
+      "ndcg_100": 0.37592900873281243
     },
     "how to remove icloud acc without a password": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.29,
+      "ndcg_10": 0.411460506465708,
+      "ndcg_20": 0.4662190417083668,
+      "ndcg_100": 0.38917884472681563
     },
     "what size stake to use for backboard": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.23,
+      "ndcg_10": 0.44507739517703254,
+      "ndcg_20": 0.35580459540397186,
+      "ndcg_100": 0.2963124191505069
     },
     "What are the exceptions to housing discrimination laws in North Carolina?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.27,
+      "ndcg_10": 0.8976840343074256,
+      "ndcg_20": 0.7038102629708317,
+      "ndcg_100": 0.49075403561373315
     },
     "does natural mineral filtration work": {
       "r_precision": 0.34,
-      "recall": 0.34
+      "ndcg_10": 0.44374498489810327,
+      "ndcg_20": 0.39654301653422985,
+      "ndcg_100": 0.3613676608842082
     },
     "which transporters associate with the transport protein": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.3,
+      "ndcg_10": 0.35067145885892825,
+      "ndcg_20": 0.313124755341946,
+      "ndcg_100": 0.3190575111844435
     },
     "how to become a dog physical therapist": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.12,
+      "ndcg_10": 0.2587214925261665,
+      "ndcg_20": 0.19966011741301234,
+      "ndcg_100": 0.15282510411520736
     },
     "can you video chat on android": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.35,
+      "ndcg_10": 0.3513534765166726,
+      "ndcg_20": 0.31101534514749224,
+      "ndcg_100": 0.36960052330213994
     },
     "what does the name corrine mean": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.18,
+      "ndcg_10": 0.537000314150925,
+      "ndcg_20": 0.41028446320544343,
+      "ndcg_100": 0.31582040705216263
     },
     "How is the iPhone IMEI unlocking process performed?": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.23,
+      "ndcg_10": 0.29782891408781714,
+      "ndcg_20": 0.319624536145748,
+      "ndcg_100": 0.24055732659786866
     },
     "effects of nutrition on immune system": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.26,
+      "ndcg_10": 0.3888178985765601,
+      "ndcg_20": 0.33300077704345993,
+      "ndcg_100": 0.28295438076895285
     },
     "What are the penalties for anti-corruption and bribery in the USA?": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.35,
+      "ndcg_10": 0.7204591270806993,
+      "ndcg_20": 0.5605121820458674,
+      "ndcg_100": 0.5212915341367356
     },
     "What are the different types of imagery besides visual?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.34,
+      "ndcg_10": 0.6060621442919084,
+      "ndcg_20": 0.5357153867728814,
+      "ndcg_100": 0.46879698326833447
     },
     "what is gpu used for?": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.3,
+      "ndcg_10": 0.33351156176193764,
+      "ndcg_20": 0.26955890426465434,
+      "ndcg_100": 0.3071546878980473
     },
     "Which are the best overnight diapers for toddlers?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.32,
+      "ndcg_10": 0.8843287259266156,
+      "ndcg_20": 0.7065219301731406,
+      "ndcg_100": 0.594779880922324
     },
     "How do higher resolutions and refresh rates benefit gamers?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.34,
+      "ndcg_10": 0.6748504603371165,
+      "ndcg_20": 0.5848093873113541,
+      "ndcg_100": 0.48982938917234453
     },
     "How do young sharks eat their food?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.28,
+      "ndcg_10": 0.34595610283109046,
+      "ndcg_20": 0.2544316756606222,
+      "ndcg_100": 0.3009387026216089
     },
     "what is a kester bar solder": {
-      "r_precision": 0.19,
-      "recall": 0.2
+      "r_precision": 0.33,
+      "ndcg_10": 0.6205781994413276,
+      "ndcg_20": 0.5952087612261107,
+      "ndcg_100": 0.5114307458493398
     },
     "what is housing discrimination nc": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.21,
+      "ndcg_10": 0.03488496789691245,
+      "ndcg_20": 0.10226171697010138,
+      "ndcg_100": 0.20321094394811307
     },
     "what diaper insert to use for overnight": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.3,
+      "ndcg_10": 0.343252022220487,
+      "ndcg_20": 0.33963651333896644,
+      "ndcg_100": 0.37430137155601056
     },
     "What are the complications associated with mitral valve prolapse?": {
-      "r_precision": 0.36,
-      "recall": 0.36
+      "r_precision": 0.28,
+      "ndcg_10": 0.21805770489012055,
+      "ndcg_20": 0.2615511190773518,
+      "ndcg_100": 0.3094076149476019
     },
     "How do I identify conductor and insulator objects in the game?": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.38,
+      "ndcg_10": 0.6695004763790677,
+      "ndcg_20": 0.6663979465063056,
+      "ndcg_100": 0.56341846056417
     },
     "simons university phone number": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.22,
+      "ndcg_10": 0.500874257825593,
+      "ndcg_20": 0.44859611396891536,
+      "ndcg_100": 0.37087567920425396
     },
     "how fast does a scooter go": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.28,
+      "ndcg_10": 0.41387468807271155,
+      "ndcg_20": 0.38377888249313225,
+      "ndcg_100": 0.35694425972677724
     },
     "how many colors are in ticart": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.04,
+      "ndcg_10": 0.009346058688090155,
+      "ndcg_20": 0.006031641114083752,
+      "ndcg_100": 0.026273300744642108
     },
     "What is intravenous therapy and its billing information for outpatient services?": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.2,
+      "ndcg_10": 0.6190172392661638,
+      "ndcg_20": 0.4635893045315203,
+      "ndcg_100": 0.3793401658157582
     },
     "ptca percutaneous transluminal angioplasty": {
-      "r_precision": 0.36,
-      "recall": 0.36
+      "r_precision": 0.42,
+      "ndcg_10": 1.0,
+      "ndcg_20": 0.8141940250459405,
+      "ndcg_100": 0.6313893414922841
     },
     "what happens when you have broken, cracked skin on left foot": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.21,
+      "ndcg_10": 0.3510597226219569,
+      "ndcg_20": 0.2792491233072865,
+      "ndcg_100": 0.2304355777252251
     },
     "What was the significance of the change in Tutankhamun's name?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.37,
+      "ndcg_10": 0.5377581234854925,
+      "ndcg_20": 0.528990741682076,
+      "ndcg_100": 0.5021968112565889
     },
     "hotels in kenner la": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.23,
+      "ndcg_10": 0.6766393697497413,
+      "ndcg_20": 0.6272858940363677,
+      "ndcg_100": 0.43398127020722493
     },
     "What message can I write for my step-daughter's birthday?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.35,
+      "ndcg_10": 0.3774732897109337,
+      "ndcg_20": 0.35349346540885634,
+      "ndcg_100": 0.35449798089880635
     },
     "how do i delete my amazon content": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.03,
+      "ndcg_10": 0.06625422345438904,
+      "ndcg_20": 0.052057649116638016,
+      "ndcg_100": 0.03682639749580282
     },
     "How to improve communication and stabilize my relationship?": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.21,
+      "ndcg_10": 0.5451875666545313,
+      "ndcg_20": 0.4257494160627845,
+      "ndcg_100": 0.3347956618713333
     },
     "What are the different credit score ranges?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.27,
+      "ndcg_10": 0.43497577232772733,
+      "ndcg_20": 0.38255603793633486,
+      "ndcg_100": 0.347275128730186
     },
     "What is the average salary of a police officer in Dallas, TX?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.27,
+      "ndcg_10": 0.633137226676596,
+      "ndcg_20": 0.6282417036424649,
+      "ndcg_100": 0.49860147005049965
     },
     "where is ra certification given": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.18,
+      "ndcg_10": 0.6210338457331689,
+      "ndcg_20": 0.4948306635496248,
+      "ndcg_100": 0.36275660011512434
     },
     "What modifications can be made to a chicken recipe to make it more flavorful?": {
       "r_precision": 0.1,
-      "recall": 0.1
+      "ndcg_10": 0.03309472940879061,
+      "ndcg_20": 0.025438268775428558,
+      "ndcg_100": 0.08271482753526554
     },
     "what pills are safe for abortions": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.23,
+      "ndcg_10": 0.20283309987860124,
+      "ndcg_20": 0.22108743780717746,
+      "ndcg_100": 0.17780482447692353
     },
     "good food and bad food for high cholesterol": {
       "r_precision": 0.25,
-      "recall": 0.25
+      "ndcg_10": 0.3432557674905841,
+      "ndcg_20": 0.3734311006579023,
+      "ndcg_100": 0.28789860865145694
     },
     "What is the comparison of aerobic respiration and fermentation types in eukaryotic cells?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.25,
+      "ndcg_10": 0.8942086514643913,
+      "ndcg_20": 0.6941144171114851,
+      "ndcg_100": 0.5131495062462705
     },
     "corn mash": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.38,
+      "ndcg_10": 0.44245226957975853,
+      "ndcg_20": 0.47893031917936074,
+      "ndcg_100": 0.45790309233003523
     },
     "what is an executive agency": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.36,
+      "ndcg_10": 0.20889675341613653,
+      "ndcg_20": 0.2141249093885239,
+      "ndcg_100": 0.29251368720675586
     },
     "what is covid vaccine used for": {
       "r_precision": 0.17,
-      "recall": 0.17
+      "ndcg_10": 0.07101406660396939,
+      "ndcg_20": 0.09223690900853522,
+      "ndcg_100": 0.09513700566451486
     },
     "which one is the cvv vaccine": {
-      "r_precision": 0.01,
-      "recall": 0.01
+      "r_precision": 0.16,
+      "ndcg_10": 0.4142537841778751,
+      "ndcg_20": 0.3412036718473513,
+      "ndcg_100": 0.2664216330656567
     },
     "is terraria xbox one": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.44,
+      "ndcg_10": 0.6927489079267645,
+      "ndcg_20": 0.625244037180231,
+      "ndcg_100": 0.6122831510785783
     },
     "what antibiotics are commonly prescribed for a uti": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.35,
+      "ndcg_10": 0.34140753185268297,
+      "ndcg_20": 0.41029052015496736,
+      "ndcg_100": 0.45052993430274435
     },
     "how to print double sided on word": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.41,
+      "ndcg_10": 0.45338397518823126,
+      "ndcg_20": 0.5224399070100443,
+      "ndcg_100": 0.5111852140786547
     },
     "who is russia's biggest media company": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.31,
+      "ndcg_10": 0.4133502794462363,
+      "ndcg_20": 0.36121614284183645,
+      "ndcg_100": 0.35894387328975885
     },
     "How to customize AutoCorrect in Excel?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.3,
+      "ndcg_10": 0.544113793163255,
+      "ndcg_20": 0.49862616173281926,
+      "ndcg_100": 0.4351057418638932
     },
     "What type of trains do Direct Rail Services' Class 20/3s and Class 37s work on?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.28,
+      "ndcg_10": 0.5833481526828427,
+      "ndcg_20": 0.5253432165135081,
+      "ndcg_100": 0.41723222369261737
     },
     "how to cut in walls": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.11,
+      "ndcg_10": 0.08513057397168447,
+      "ndcg_20": 0.057127326251749384,
+      "ndcg_100": 0.05317296921189602
     },
     "who was peter and does he have an estate?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.21,
+      "ndcg_10": 0.4409119928040521,
+      "ndcg_20": 0.36861579183691573,
+      "ndcg_100": 0.33232405277834826
     },
     "what kind of disc is impingement": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.25,
+      "ndcg_10": 0.7267347602356801,
+      "ndcg_20": 0.527041104376435,
+      "ndcg_100": 0.4123667958066855
     },
     "How can I open pinch pleat curtains?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.41,
+      "ndcg_10": 0.30457679413586325,
+      "ndcg_20": 0.3375976306492496,
+      "ndcg_100": 0.3519496338455357
     },
     "how to cook breaded pork schnitzel in oven": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.27,
+      "ndcg_10": 0.827710537550408,
+      "ndcg_20": 0.6372498794160232,
+      "ndcg_100": 0.4838121668708233
     },
     "which species of cockroach are endangered": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.35,
+      "ndcg_10": 0.5563555696829555,
+      "ndcg_20": 0.4735956820316207,
+      "ndcg_100": 0.44599689511959106
     },
     "what are dragons good at": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.16,
+      "ndcg_10": 0.012537512065009452,
+      "ndcg_20": 0.07205613255663007,
+      "ndcg_100": 0.1200336740633197
     },
     "official parkinson's disease definition": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.2,
+      "ndcg_10": 0.14797069163094215,
+      "ndcg_20": 0.20962030006112214,
+      "ndcg_100": 0.21366709764695915
     },
     "How has the medical establishment's thinking about IUDs for adolescents changed?": {
-      "r_precision": 0.32,
-      "recall": 0.32
+      "r_precision": 0.19,
+      "ndcg_10": 0.38593914573689375,
+      "ndcg_20": 0.3326910773365008,
+      "ndcg_100": 0.2731865649173069
     },
     "How can I join the Firestone team?": {
-      "r_precision": 0.12,
-      "recall": 0.13
+      "r_precision": 0.17,
+      "ndcg_10": 0.49951124144672515,
+      "ndcg_20": 0.4137899338633428,
+      "ndcg_100": 0.3074878032577389
     },
     "How do I delete downloaded Amazon movies or TV shows from my device?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.32,
+      "ndcg_10": 0.4602236236549656,
+      "ndcg_20": 0.4805440499917758,
+      "ndcg_100": 0.3958307238271963
     },
     "what is the best treatment for bruxism": {
-      "r_precision": 0.3,
-      "recall": 0.3
+      "r_precision": 0.32,
+      "ndcg_10": 0.32534396488584183,
+      "ndcg_20": 0.28601294884156053,
+      "ndcg_100": 0.32122079345368254
     },
     "what time in tel aviv": {
-      "r_precision": 0.35,
-      "recall": 0.35
+      "r_precision": 0.33,
+      "ndcg_10": 0.40379417472476903,
+      "ndcg_20": 0.29301830394313794,
+      "ndcg_100": 0.3158431914311611
     },
     "what is navex15 sys": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.01,
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.0,
+      "ndcg_100": 0.015880129569099705
     },
     "What is the cost of airport shuttle services from Charlotte Douglas International Airport to Uptown Charlotte?": {
       "r_precision": 0.31,
-      "recall": 0.31
+      "ndcg_10": 0.42346235760153583,
+      "ndcg_20": 0.5338052777430625,
+      "ndcg_100": 0.47084902331432826
     },
     "what tab opens autocorrect in excel?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.27,
+      "ndcg_10": 0.2757075239016396,
+      "ndcg_20": 0.464860503137703,
+      "ndcg_100": 0.4025636654090917
     },
     "what type of foot pain is this": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.18,
+      "ndcg_10": 0.38452477977418104,
+      "ndcg_20": 0.29758647058874105,
+      "ndcg_100": 0.27107757007280076
     },
     "What is Vonage Holdings Corp. and its stock symbol?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.3,
+      "ndcg_10": 0.8813024843598865,
+      "ndcg_20": 0.7233887854985088,
+      "ndcg_100": 0.5796311337205718
     },
     "How does Jesus compare his return and future judgment to Noah's flood?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.32,
+      "ndcg_10": 0.6451700405479759,
+      "ndcg_20": 0.5954672719243305,
+      "ndcg_100": 0.5155685748741973
     },
     "which suv is best to buy": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.29,
+      "ndcg_10": 0.45112575479035205,
+      "ndcg_20": 0.38688993939955163,
+      "ndcg_100": 0.3316065852537707
     },
     "what length of beard should i get": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.24,
+      "ndcg_10": 0.0977575434418861,
+      "ndcg_20": 0.18885950432845278,
+      "ndcg_100": 0.24206924217305192
     },
     "What advice does a breed advocate give about getting a certain type of dog?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.19,
+      "ndcg_10": 0.3239851285696979,
+      "ndcg_20": 0.2419543939330565,
+      "ndcg_100": 0.2522952181865695
     },
     "how too make homade buttermilk": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.37,
+      "ndcg_10": 0.26954724605894254,
+      "ndcg_20": 0.28951106271190646,
+      "ndcg_100": 0.3084063623630227
     },
     "what is considered poulty": {
-      "r_precision": 0.01,
-      "recall": 0.01
+      "r_precision": 0.0,
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.0,
+      "ndcg_100": 0.0
     },
     "code of ethics for teachers the state": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.37,
+      "ndcg_10": 0.7129735499990053,
+      "ndcg_20": 0.7440750011483178,
+      "ndcg_100": 0.6329044555264688
     },
     "how is diethylene glycol synthesized": {
-      "r_precision": 0.3,
-      "recall": 0.3
+      "r_precision": 0.36,
+      "ndcg_10": 0.6052408473432453,
+      "ndcg_20": 0.5115779479393259,
+      "ndcg_100": 0.4635855310654279
     },
     "what day is the draft on": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.24,
+      "ndcg_10": 0.24659753393685788,
+      "ndcg_20": 0.21256381851660316,
+      "ndcg_100": 0.2732467876247535
     },
     "can you get free spanish movies from cnet": {
-      "r_precision": 0.0,
-      "recall": 0.0
+      "r_precision": 0.15,
+      "ndcg_10": 0.1950515373084732,
+      "ndcg_20": 0.21133107384605906,
+      "ndcg_100": 0.21926761015137838
     },
     "What is the Indian legend behind the title of the passage referring to restoring life to a wasteland?": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.08,
+      "ndcg_10": 0.15916523576092267,
+      "ndcg_20": 0.10272004617002829,
+      "ndcg_100": 0.11773954343996629
     },
     "why is abby lee in jail?": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.31,
+      "ndcg_10": 0.7635945450828703,
+      "ndcg_20": 0.71878346708636,
+      "ndcg_100": 0.5808502097761773
     },
     "how to calculate your canada pension plan": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.37,
+      "ndcg_10": 0.43552093113625295,
+      "ndcg_20": 0.3990963324652119,
+      "ndcg_100": 0.3819366298811678
     },
     "What was the My Chemical Romance joke on Twitter that gained popularity in 2019?": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.19,
+      "ndcg_10": 0.3835402514773086,
+      "ndcg_20": 0.3004076497571081,
+      "ndcg_100": 0.2757109451391504
     },
     "why do use adjectives": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.26,
+      "ndcg_10": 0.3302367293225135,
+      "ndcg_20": 0.3449486933454208,
+      "ndcg_100": 0.2774315911709696
     },
     "what seasoning is used on buffalo wings": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.32,
+      "ndcg_10": 0.6060557082206065,
+      "ndcg_20": 0.4559722596612544,
+      "ndcg_100": 0.4113769893294346
     },
     "How often should I clean a Leopard Gecko's cage?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.34,
+      "ndcg_10": 0.33203127674905775,
+      "ndcg_20": 0.4568546514471985,
+      "ndcg_100": 0.388933871137667
     },
     "what is pelvic ultrasound used for": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.32,
+      "ndcg_10": 0.17696079839339265,
+      "ndcg_20": 0.2585485400490289,
+      "ndcg_100": 0.36857543265165926
     },
     "What programs does Ame teach at Fox Run Environmental Education Center?": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.18,
+      "ndcg_10": 0.6211321901783367,
+      "ndcg_20": 0.4214545975941403,
+      "ndcg_100": 0.2837176411427816
     },
     "ugi medical meaning": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.38,
+      "ndcg_10": 0.19874664284346183,
+      "ndcg_20": 0.24653035448029595,
+      "ndcg_100": 0.27470492467433405
     },
     "what is myrrh essential": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.31,
+      "ndcg_10": 0.47054635938585077,
+      "ndcg_20": 0.3821682396909905,
+      "ndcg_100": 0.38112489238690783
     },
     "what makes a speech effective": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.2,
+      "ndcg_10": 0.5078331794360675,
+      "ndcg_20": 0.4171100187470291,
+      "ndcg_100": 0.3254205122261123
     },
     "where is morecambe uk": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.31,
+      "ndcg_10": 0.717066170736741,
+      "ndcg_20": 0.5893687046269974,
+      "ndcg_100": 0.46385144448940563
     },
     "How is read time calculated for articles with multiple images?": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.08,
+      "ndcg_10": 0.41033613423862353,
+      "ndcg_20": 0.3003275528392978,
+      "ndcg_100": 0.21589555587401618
     },
     "How does wild-type PABPN1 associate with transportin in a nuclear protein?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.27,
+      "ndcg_10": 0.9285326356339175,
+      "ndcg_20": 0.704705335607445,
+      "ndcg_100": 0.571243052161666
     },
     "What are the contents of the annual reports on the Responsibility to Protect published by the United Nations Secretary-General?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.32,
+      "ndcg_10": 0.6972374102534252,
+      "ndcg_20": 0.6022778718075932,
+      "ndcg_100": 0.5364919426891698
     },
     "what language does swahili speak": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.43,
+      "ndcg_10": 0.36533299482445586,
+      "ndcg_20": 0.34709520458337806,
+      "ndcg_100": 0.4057823419241624
     },
     "How did Boyle's view impact the study of chemistry and Lavoisier's work?": {
-      "r_precision": 0.39,
-      "recall": 0.39
+      "r_precision": 0.36,
+      "ndcg_10": 0.7857703539772389,
+      "ndcg_20": 0.6167085973364466,
+      "ndcg_100": 0.5309216781544006
     },
     "Who murdered Charlotte and how was the crime discovered?": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.12,
+      "ndcg_10": 0.22780426044829855,
+      "ndcg_20": 0.1651778060809463,
+      "ndcg_100": 0.16455220054197228
     },
     "what procedures standardize watch turnover between oncoming and off-going personnel and are essential to establishing the": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.08,
+      "ndcg_10": 0.11848995751940655,
+      "ndcg_20": 0.07870849999011484,
+      "ndcg_100": 0.07263629563665605
     },
     "What is the fin and mouth structure of a specific aquatic creature?": {
-      "r_precision": 0.31,
-      "recall": 0.31
+      "r_precision": 0.14,
+      "ndcg_10": 0.08444473720864182,
+      "ndcg_20": 0.11421635144902988,
+      "ndcg_100": 0.13105015616920332
     },
     "how does a bounty hunter make money": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.31,
+      "ndcg_10": 0.7284489910523606,
+      "ndcg_20": 0.6024550877947331,
+      "ndcg_100": 0.5119265897548424
     },
     "how to remove password from winrar": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.4,
+      "ndcg_10": 0.6544262112404178,
+      "ndcg_20": 0.6304455372226818,
+      "ndcg_100": 0.5477980759486207
     },
     "what does ftx stand for army": {
-      "r_precision": 0.2,
-      "recall": 0.21
+      "r_precision": 0.19,
+      "ndcg_10": 0.30212637313283447,
+      "ndcg_20": 0.254744481963974,
+      "ndcg_100": 0.19631404084429258
     },
     "what is the haircut that makes you look cute": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.33,
+      "ndcg_10": 0.7074318378304261,
+      "ndcg_20": 0.5103416110932754,
+      "ndcg_100": 0.46840023954234244
     },
     "How does incorrect data entry affect student records and services eligibility?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.09,
+      "ndcg_10": 0.243719364454713,
+      "ndcg_20": 0.1703447448195895,
+      "ndcg_100": 0.13711235885886622
     },
     "What discussions did Douglass have with Presidents Lincoln and Johnson?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.34,
+      "ndcg_10": 0.4297728145264933,
+      "ndcg_20": 0.4840777612383638,
+      "ndcg_100": 0.4722135359967592
     },
     "how can the executive branch check the legislative branch?": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.29,
+      "ndcg_10": 0.7098547721761919,
+      "ndcg_20": 0.6641663121811173,
+      "ndcg_100": 0.4841234913318199
     },
     "what region is duolingo used in?": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.4,
+      "ndcg_10": 0.6048666824548051,
+      "ndcg_20": 0.550487999783109,
+      "ndcg_100": 0.5189456281199614
     },
     "How does the technology in a golf club minimize face-angle change and improve forgiveness?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.33,
+      "ndcg_10": 0.7564871534432472,
+      "ndcg_20": 0.5578810636047374,
+      "ndcg_100": 0.4722053910481573
     },
     "Do MS webinar applications and Skype work in China?": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.19,
+      "ndcg_10": 0.5101849036254993,
+      "ndcg_20": 0.36879039264292285,
+      "ndcg_100": 0.3197836693350324
     },
     "what is the name of dehumidifier pumps": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.43,
+      "ndcg_10": 0.31421444698393,
+      "ndcg_20": 0.37972041735574885,
+      "ndcg_100": 0.43427168573884384
     },
     "the standard charlottesville": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.22,
+      "ndcg_10": 0.17153827494390794,
+      "ndcg_20": 0.1371549943306226,
+      "ndcg_100": 0.2085182051804361
     },
     "how much money has a wrinkle in time movie made": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.15,
+      "ndcg_10": 0.268269945028154,
+      "ndcg_20": 0.20222884917826348,
+      "ndcg_100": 0.1375745310741789
     },
     "how much does the golf tdi cost": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.23,
+      "ndcg_10": 0.23680737400230503,
+      "ndcg_20": 0.2859828398493913,
+      "ndcg_100": 0.2317123189915835
     },
     "domestic violence laws in wisconsin": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.26,
+      "ndcg_10": 0.8748895980748164,
+      "ndcg_20": 0.7138642549528961,
+      "ndcg_100": 0.5256244901195707
     },
     "calories in corte de rhone": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.12,
+      "ndcg_10": 0.6421867266689008,
+      "ndcg_20": 0.4534109589356287,
+      "ndcg_100": 0.3249164256762472
     },
     "Who is the most prominent female character in Star Wars universe?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.24,
+      "ndcg_10": 0.5675291685240361,
+      "ndcg_20": 0.46704612077993246,
+      "ndcg_100": 0.3994261274263327
     },
     "How can I contact LCA for more information?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.22,
+      "ndcg_10": 0.6629936094711019,
+      "ndcg_20": 0.5754973225202791,
+      "ndcg_100": 0.4203646434952582
     },
     "average salary of police officer in dallas": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.31,
+      "ndcg_10": 0.783324599783095,
+      "ndcg_20": 0.6752985619134145,
+      "ndcg_100": 0.5779600128214368
     },
     "cost of us visa uscis": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.21,
+      "ndcg_10": 0.3323970572453403,
+      "ndcg_20": 0.2603677431830588,
+      "ndcg_100": 0.3045356588947736
     },
     "how to unlock the word document": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.38,
+      "ndcg_10": 0.48767342444055384,
+      "ndcg_20": 0.4634155593242523,
+      "ndcg_100": 0.46554941814124834
     },
     "Can RNA function as an enzyme?": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.36,
+      "ndcg_10": 0.4679539675482874,
+      "ndcg_20": 0.46413987101006277,
+      "ndcg_100": 0.43127950007138804
     },
     "What is the history of water treatment processes?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.26,
+      "ndcg_10": 0.5886579033268226,
+      "ndcg_20": 0.5391423942712102,
+      "ndcg_100": 0.4114779849078818
     },
     "why does fraud occur in online transactions?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.25,
+      "ndcg_10": 0.37798033362936223,
+      "ndcg_20": 0.3332292000731122,
+      "ndcg_100": 0.29809936262009684
     },
     "what is einstein father's name": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.41,
+      "ndcg_10": 0.6885183068950574,
+      "ndcg_20": 0.5396117239344054,
+      "ndcg_100": 0.4826164452645909
     },
     "why does jesus say there will be a flood like noah's flood": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.28,
+      "ndcg_10": 0.37001409240971167,
+      "ndcg_20": 0.3501176652659732,
+      "ndcg_100": 0.31728383011873
     },
     "donald degraffenried": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.13,
+      "ndcg_10": 0.12678293660117015,
+      "ndcg_20": 0.15042896908735068,
+      "ndcg_100": 0.17027558733251646
     },
     "shuffled meaning": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.34,
+      "ndcg_10": 0.5051291909993721,
+      "ndcg_20": 0.548098165690058,
+      "ndcg_100": 0.4916187374135361
     },
     "what is the most popular spiritual book": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.19,
+      "ndcg_10": 0.4317542353233845,
+      "ndcg_20": 0.29177881500282626,
+      "ndcg_100": 0.30823968340209895
     },
     "How does being considerate and friendly affect your relationship with people?": {
       "r_precision": 0.09,
-      "recall": 0.09
+      "ndcg_10": 0.2702821873903864,
+      "ndcg_20": 0.21395593508534647,
+      "ndcg_100": 0.1729564333561406
     },
     "What determines the trade license fees and where do I pay it?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.19,
+      "ndcg_10": 0.6707047601351975,
+      "ndcg_20": 0.5088453828303894,
+      "ndcg_100": 0.38905562911876657
     },
     "how to make curtains that open": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.08,
+      "ndcg_10": 0.008225108874591795,
+      "ndcg_20": 0.025542179995125817,
+      "ndcg_100": 0.024237967106353904
     },
     "What factors affect the selection of track spikes for junior and senior athletes?": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.3,
+      "ndcg_10": 0.49816152225821636,
+      "ndcg_20": 0.43398159719957624,
+      "ndcg_100": 0.4157122386411443
     },
     "maps reduces": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.33,
+      "ndcg_10": 0.2743475405350361,
+      "ndcg_20": 0.3530302819989618,
+      "ndcg_100": 0.36671750834104544
     },
     "How do I apply for federal student loans?": {
-      "r_precision": 0.31,
-      "recall": 0.31
+      "r_precision": 0.35,
+      "ndcg_10": 0.38380486636375055,
+      "ndcg_20": 0.3989784861216112,
+      "ndcg_100": 0.3967266881677302
     },
     "how did women gain the right to vote": {
       "r_precision": 0.31,
-      "recall": 0.31
+      "ndcg_10": 0.27032234950528833,
+      "ndcg_20": 0.30722961761383216,
+      "ndcg_100": 0.3442544308805509
     },
     "what helps a strained muscle": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.2,
+      "ndcg_10": 0.12881146441067634,
+      "ndcg_20": 0.10418490160535646,
+      "ndcg_100": 0.12026010088578247
     },
     "how do doctors repair hernias": {
-      "r_precision": 0.39,
-      "recall": 0.39
+      "r_precision": 0.32,
+      "ndcg_10": 0.20546557433467869,
+      "ndcg_20": 0.29645059789627337,
+      "ndcg_100": 0.30541102213822674
     },
     "How to choose a hairstyle based on personality and lifestyle?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.28,
+      "ndcg_10": 0.6874941297909958,
+      "ndcg_20": 0.560606329502014,
+      "ndcg_100": 0.4386100986666553
     },
     "How do I blanch cauliflower when the curd is 2 to 3 inches in diameter?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.44,
+      "ndcg_10": 0.7428388789939134,
+      "ndcg_20": 0.6342008004552763,
+      "ndcg_100": 0.5844718799103907
     },
     "What does 'let sleeping dogs lie' mean and how does it relate to dealing with problems?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.27,
+      "ndcg_10": 0.5049850358971429,
+      "ndcg_20": 0.5417968785432694,
+      "ndcg_100": 0.426975437032165
     },
     "koit number": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.03,
+      "ndcg_10": 0.25187106519315766,
+      "ndcg_20": 0.16254936149748947,
+      "ndcg_100": 0.1277850939939838
     },
     "when is my chemical romance on": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.33,
+      "ndcg_10": 0.33250868359018254,
+      "ndcg_20": 0.2977558201477265,
+      "ndcg_100": 0.33523342954381913
     },
     "What is a pick-up game in sports and video games?": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.16,
+      "ndcg_10": 0.49330574629920293,
+      "ndcg_20": 0.40847913305593764,
+      "ndcg_100": 0.3160349653187317
     },
     "do moles eat mice": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.32,
+      "ndcg_10": 0.8382423429611022,
+      "ndcg_20": 0.6627391091945003,
+      "ndcg_100": 0.5691452952341219
     },
     "house of representatives of states minimum age": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.35,
+      "ndcg_10": 0.6767088870638609,
+      "ndcg_20": 0.5873903563918813,
+      "ndcg_100": 0.5353971492713862
     },
     "what kind of burgers do smashburger serve": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.4,
+      "ndcg_10": 0.8005912976674473,
+      "ndcg_20": 0.706669521010544,
+      "ndcg_100": 0.616935761674145
     },
     "is eucalyptus oil good for allergies": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.38,
+      "ndcg_10": 0.8165680019440945,
+      "ndcg_20": 0.6682699946874696,
+      "ndcg_100": 0.6048368095721877
     },
     "how to make tea in turkish tea pots": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.33,
+      "ndcg_10": 0.776379019703616,
+      "ndcg_20": 0.7100998738095482,
+      "ndcg_100": 0.5761125461114209
     },
     "how to screen print windows 7": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.35,
+      "ndcg_10": 0.3779328393961577,
+      "ndcg_20": 0.3020086262648529,
+      "ndcg_100": 0.416129427230049
     },
     "How to ensure safety of a child in a wheelchair during transportation?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.26,
+      "ndcg_10": 0.8133934442423134,
+      "ndcg_20": 0.6700825943209295,
+      "ndcg_100": 0.5176689360898558
     },
     "who played dündar in tetmoy": {
       "r_precision": 0.0,
-      "recall": 0.0
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.0,
+      "ndcg_100": 0.0
     },
     "how to cook thin sliced home fries": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.23,
+      "ndcg_10": 0.561783806330971,
+      "ndcg_20": 0.4798398206064139,
+      "ndcg_100": 0.39663397483857277
     },
     "what is the best brand electric range": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.31,
+      "ndcg_10": 0.7171414321826727,
+      "ndcg_20": 0.6708769286383696,
+      "ndcg_100": 0.48534467878173604
     },
     "What nutrients in tomatoes can protect men against prostate cancer?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.23,
+      "ndcg_10": 0.5428681814334447,
+      "ndcg_20": 0.40958221261657324,
+      "ndcg_100": 0.3745916614998328
     },
     "What types of flags were used in medieval times?": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.17,
+      "ndcg_10": 0.6148108827934126,
+      "ndcg_20": 0.4838469922809548,
+      "ndcg_100": 0.3853939003282033
     },
     "what's a step-daughters birthday": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.21,
+      "ndcg_10": 0.7845369275861565,
+      "ndcg_20": 0.6144439386458725,
+      "ndcg_100": 0.43396842225466337
     },
     "how to pay ntuc membership fee online": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.24,
+      "ndcg_10": 0.5526528220542712,
+      "ndcg_20": 0.42922558292234503,
+      "ndcg_100": 0.33942891801557196
     },
     "what is the coastline of caribbean": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.31,
+      "ndcg_10": 0.40790273020259316,
+      "ndcg_20": 0.45784948377824414,
+      "ndcg_100": 0.37135867515556936
     },
     "is a wheelchair a transportable medical device": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.24,
+      "ndcg_10": 0.3961533701618047,
+      "ndcg_20": 0.3278577215595593,
+      "ndcg_100": 0.3617122777502392
     },
     "What is a good snorkeling spot for small groups and young children in Maui?": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.34,
+      "ndcg_10": 0.4162613482635921,
+      "ndcg_20": 0.37006547614291263,
+      "ndcg_100": 0.3606993770966508
     },
     "how does a clematis germinate": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.41,
+      "ndcg_10": 0.8252300389709386,
+      "ndcg_20": 0.6838618992454539,
+      "ndcg_100": 0.5848298033321278
     },
     "where is goofy's castle": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.31,
+      "ndcg_10": 0.6760753564974721,
+      "ndcg_20": 0.593934658072529,
+      "ndcg_100": 0.45336049439560583
     },
     "what states are common law marriage": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.37,
+      "ndcg_10": 0.2973423252964353,
+      "ndcg_20": 0.42574631711685007,
+      "ndcg_100": 0.4022975574610156
     },
     "when did coffee use to be chicory": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.22,
+      "ndcg_10": 0.46575522463111474,
+      "ndcg_20": 0.41610565399339106,
+      "ndcg_100": 0.3568548879243296
     },
     "What percentage of Duolingo users in Trinidad and Tobago and Jamaica are learning Spanish?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.08,
+      "ndcg_10": 0.4078704291940381,
+      "ndcg_20": 0.3039083787299549,
+      "ndcg_100": 0.21085233493012523
     },
     "Do larger lobsters become tougher when cooked?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.22,
+      "ndcg_10": 0.6659281160848706,
+      "ndcg_20": 0.4407597712490442,
+      "ndcg_100": 0.38452557385591035
     },
     "what is the thunder and lightning based on": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.4,
+      "ndcg_10": 0.30918963087751533,
+      "ndcg_20": 0.30304309310510996,
+      "ndcg_100": 0.39427132835729783
     },
     "how alginate for wound dressing works": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.27,
+      "ndcg_10": 0.38595277125638744,
+      "ndcg_20": 0.3521151363143243,
+      "ndcg_100": 0.31031079190599076
     },
     "what types of eukaryotic cells use aerobic respiration": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.33,
+      "ndcg_10": 0.62116230888663,
+      "ndcg_20": 0.6342762071051447,
+      "ndcg_100": 0.4748451092437535
     },
     "Is the website with free Spanish movies accessible?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.35,
+      "ndcg_10": 0.44697019787050224,
+      "ndcg_20": 0.4855168229760905,
+      "ndcg_100": 0.4577105153306231
     },
     "cerebellar disease definition": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.28,
+      "ndcg_10": 0.15262188693996973,
+      "ndcg_20": 0.24586007366917173,
+      "ndcg_100": 0.24465349092484973
     },
     "What happened to the piers in Morecambe and how did it affect the town?": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.04,
+      "ndcg_10": 0.23066183075603308,
+      "ndcg_20": 0.14886161410593707,
+      "ndcg_100": 0.12986525215350514
     },
     "What was the impact of AC electricity on Einstein's family business?": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.17,
+      "ndcg_10": 0.6140567361429913,
+      "ndcg_20": 0.4133944179247891,
+      "ndcg_100": 0.31817860209376236
     },
     "What are some features of free ISPs?": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.27,
+      "ndcg_10": 0.4944441878514727,
+      "ndcg_20": 0.4789962042973244,
+      "ndcg_100": 0.4182909486977766
     },
     "what is karma koin": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.36,
+      "ndcg_10": 0.7342738514672704,
+      "ndcg_20": 0.5614116997276564,
+      "ndcg_100": 0.48373842505327064
     },
     "winningest athletes": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.15,
+      "ndcg_10": 0.19276788919694568,
+      "ndcg_20": 0.12664505180593705,
+      "ndcg_100": 0.12491487789319733
     },
     "do sleeping dogs lie?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.38,
+      "ndcg_10": 0.2723540707196389,
+      "ndcg_20": 0.341082626620893,
+      "ndcg_100": 0.4037634336214843
     },
     "What are the symptoms of plantar fasciitis-like foot pain?": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.36,
+      "ndcg_10": 0.21492471153389106,
+      "ndcg_20": 0.349699318705442,
+      "ndcg_100": 0.34678043904456163
     },
     "what is a building permit in colorado": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.26,
+      "ndcg_10": 0.707038626776586,
+      "ndcg_20": 0.5831840196496592,
+      "ndcg_100": 0.4591163825561244
     },
     "Where is the University of Baltimore's Master of Science in Taxation program located?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.24,
+      "ndcg_10": 0.620904296370557,
+      "ndcg_20": 0.510992142748567,
+      "ndcg_100": 0.4106727434032391
     },
     "What is the goal of the worldwide urban carbon monitoring system?": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.17,
+      "ndcg_10": 0.5786900881469245,
+      "ndcg_20": 0.4359575431354318,
+      "ndcg_100": 0.33046710165697785
     },
     "how to recycle batteries in pa": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.31,
+      "ndcg_10": 0.28500062831059575,
+      "ndcg_20": 0.33338568992669004,
+      "ndcg_100": 0.37589222825915636
     },
     "how to get your onedrive file": {
       "r_precision": 0.16,
-      "recall": 0.16
+      "ndcg_10": 0.18892846193414842,
+      "ndcg_20": 0.17952812837191054,
+      "ndcg_100": 0.16190195927141754
     },
     "How can I start learning witchcraft?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.3,
+      "ndcg_10": 0.4601199325122801,
+      "ndcg_20": 0.4668570091922354,
+      "ndcg_100": 0.4035981835770789
     },
     "do lizards eat crickets": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.37,
+      "ndcg_10": 0.6265070270841373,
+      "ndcg_20": 0.5241083623574426,
+      "ndcg_100": 0.4591104882328086
     },
     "what is the shape of a trapezoid": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.42,
+      "ndcg_10": 0.40051155115465287,
+      "ndcg_20": 0.37070225743394436,
+      "ndcg_100": 0.36778153767149585
     },
     "what is secom": {
-      "r_precision": 0.03,
-      "recall": 0.03
+      "r_precision": 0.17,
+      "ndcg_10": 0.9226372806802149,
+      "ndcg_20": 0.7057839717924003,
+      "ndcg_100": 0.5269966556685134
     },
     "who played sherrilyn feeney": {
-      "r_precision": 0.01,
-      "recall": 0.03
+      "r_precision": 0.1,
+      "ndcg_10": 0.03177929889507753,
+      "ndcg_20": 0.03824697099696972,
+      "ndcg_100": 0.08577963907556337
     },
     "what type of stretcher is used for rapid immobilization of spine and neck injuries?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.3,
+      "ndcg_10": 0.43870552969641374,
+      "ndcg_20": 0.40887841637154665,
+      "ndcg_100": 0.4028058663250153
     },
     "where can you find spongy ductal carcinoma?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.2,
+      "ndcg_10": 0.43005160060045505,
+      "ndcg_20": 0.37838474507394193,
+      "ndcg_100": 0.3032709415168252
     },
     "what is a good hand and foot soak": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.33,
+      "ndcg_10": 0.5157782979202634,
+      "ndcg_20": 0.5020001028239062,
+      "ndcg_100": 0.44257965055771564
     },
     "What are extra bones in the human foot and do they cause any problems?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.18,
+      "ndcg_10": 0.5774647524998092,
+      "ndcg_20": 0.5029694660998885,
+      "ndcg_100": 0.38009107727268754
     },
     "Is S. saprophyticus UTI common in vegetarians and what antibiotics are effective?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.29,
+      "ndcg_10": 0.8758060963799177,
+      "ndcg_20": 0.8304687946492181,
+      "ndcg_100": 0.6122885998158324
     },
     "What is the definition of mean sum of squares and its relation to variance?": {
-      "r_precision": 0.36,
-      "recall": 0.36
+      "r_precision": 0.41,
+      "ndcg_10": 0.530573140156495,
+      "ndcg_20": 0.5074780582595826,
+      "ndcg_100": 0.5643171321964842
     },
     "what type of patient will need traction": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.3,
+      "ndcg_10": 0.5466536606778688,
+      "ndcg_20": 0.4419560833515876,
+      "ndcg_100": 0.4194384319914196
     },
     "when do you stop feeling pregnant": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.08,
+      "ndcg_10": 0.36281904012704563,
+      "ndcg_20": 0.2363905121842571,
+      "ndcg_100": 0.17902697367366063
     },
     "What is the topic of the paper submitted by Agnes and Scott?": {
-      "r_precision": 0.0,
-      "recall": 0.0
+      "r_precision": 0.03,
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.03730675036644464,
+      "ndcg_100": 0.027797510821573383
     },
     "What are the areas of competence covered in WGU's B.S. Nursing (Prelicensure) curriculum?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.25,
+      "ndcg_10": 0.8513175480160691,
+      "ndcg_20": 0.6333248642445305,
+      "ndcg_100": 0.4807241425495111
     },
     "how to find interquartile range on a box plot": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.32,
+      "ndcg_10": 0.6031565287227384,
+      "ndcg_20": 0.5181229579593809,
+      "ndcg_100": 0.42761867923970964
     },
     "How to adjust screen brightness in Windows?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.38,
+      "ndcg_10": 0.44044498024964546,
+      "ndcg_20": 0.3721947428332299,
+      "ndcg_100": 0.452603594074937
     },
     "How do local officials confirm residency and citizenship for absentee ballot?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.28,
+      "ndcg_10": 0.4874181393910462,
+      "ndcg_20": 0.46733226738952444,
+      "ndcg_100": 0.3764042593516958
     },
     "How can I find information about my state or country's residential traffic laws?": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.16,
+      "ndcg_10": 0.38258109098547455,
+      "ndcg_20": 0.2996466341482865,
+      "ndcg_100": 0.24652086723373548
     },
     "apatite definition": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.47,
+      "ndcg_10": 0.32339812379718363,
+      "ndcg_20": 0.33328061566530043,
+      "ndcg_100": 0.40287520525623327
     },
     "who is tk-421": {
-      "r_precision": 0.05,
-      "recall": 0.06
+      "r_precision": 0.23,
+      "ndcg_10": 0.8290348394917207,
+      "ndcg_20": 0.6730542728543217,
+      "ndcg_100": 0.4862533177671075
     },
     "Did selenium supplementation affect the rates of prostate, colon, and lung cancer in a clinical trial?": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.29,
+      "ndcg_10": 0.3722621377210489,
+      "ndcg_20": 0.40165032775532644,
+      "ndcg_100": 0.3387001421765661
     },
     "How does the process of digestion and metabolism of carbohydrates start": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.25,
+      "ndcg_10": 0.6564997835659439,
+      "ndcg_20": 0.5489116428577081,
+      "ndcg_100": 0.4216221276195821
     },
     "where do i find my cat after my mom is gone": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.04,
+      "ndcg_10": 0.06625422345438904,
+      "ndcg_20": 0.08006506288147623,
+      "ndcg_100": 0.07112452329722195
     },
     "sandos playacar in playa del carmen": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.34,
+      "ndcg_10": 0.8511699163141325,
+      "ndcg_20": 0.6788302231989308,
+      "ndcg_100": 0.6086646296675206
     },
     "what kind of sounds do yosemite has": {
-      "r_precision": 0.07,
-      "recall": 0.08
+      "r_precision": 0.06,
+      "ndcg_10": 0.2894551180276856,
+      "ndcg_20": 0.19143631632715388,
+      "ndcg_100": 0.14830873298450184
     },
     "What did the Supreme Court rule in the case of Torrey Dale Grady v. North Carolina?": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.31,
+      "ndcg_10": 0.4926542881123773,
+      "ndcg_20": 0.47233907027044997,
+      "ndcg_100": 0.38861122119705555
     },
     "What is the starting molecule in cholesterol production?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.33,
+      "ndcg_10": 0.6562907918788948,
+      "ndcg_20": 0.5822579683910547,
+      "ndcg_100": 0.5054949134969892
     },
     "similarity principle psychology definition": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.21,
+      "ndcg_10": 0.30941944889459855,
+      "ndcg_20": 0.2376708962133301,
+      "ndcg_100": 0.2140460268689328
     },
     "How can I seal seams between onyx panels and trim them to fit?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.29,
+      "ndcg_10": 0.8475075964985509,
+      "ndcg_20": 0.6658288125934743,
+      "ndcg_100": 0.49438400698165946
     },
     "Where was Jesus born?": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.33,
+      "ndcg_10": 0.4843726142269902,
+      "ndcg_20": 0.4656354190818107,
+      "ndcg_100": 0.43684405624002676
     },
     "how do you get financial aid": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.17,
+      "ndcg_10": 0.018287194658198253,
+      "ndcg_20": 0.06803857333182997,
+      "ndcg_100": 0.1473307937473455
     },
     "How does caseless matching work with bytes in a multibyte locale?": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.33,
+      "ndcg_10": 0.706454701038562,
+      "ndcg_20": 0.5849920526132234,
+      "ndcg_100": 0.532148556089207
     },
     "what's the benefit of optimization?": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.05,
+      "ndcg_10": 0.129587973656921,
+      "ndcg_20": 0.09008648057819751,
+      "ndcg_100": 0.06517740147239241
     },
     "is sea salt good for you": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.25,
+      "ndcg_10": 0.4090851584447946,
+      "ndcg_20": 0.34406674947531624,
+      "ndcg_100": 0.2831594227643874
     },
     "Can non-parents open a joint bank account with a minor?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.39,
+      "ndcg_10": 0.8187676034999392,
+      "ndcg_20": 0.7051855112113135,
+      "ndcg_100": 0.6601459831253378
     },
     "number of graves at normandy": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.37,
+      "ndcg_10": 0.907221339348228,
+      "ndcg_20": 0.7386792477312308,
+      "ndcg_100": 0.6338006091466459
     },
     "what is grackle": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.27,
+      "ndcg_10": 0.43536575552773943,
+      "ndcg_20": 0.4989874504402652,
+      "ndcg_100": 0.40187774818183564
     },
     "how to get from charlotte airport to downtown charlotte nc": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.27,
+      "ndcg_10": 0.29062839415457326,
+      "ndcg_20": 0.2912119509556216,
+      "ndcg_100": 0.3165188382910793
     },
     "how old was lindley sanders": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.19,
+      "ndcg_10": 0.4497774180522927,
+      "ndcg_20": 0.3980183027938986,
+      "ndcg_100": 0.306988332227481
     },
     "what skills do building and construction engineers": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.29,
+      "ndcg_10": 0.5175158401625439,
+      "ndcg_20": 0.38302513558508716,
+      "ndcg_100": 0.3468793914759013
     },
     "what happens to the lobster during molting": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.42,
+      "ndcg_10": 0.4854009037652768,
+      "ndcg_20": 0.4317768131134147,
+      "ndcg_100": 0.4552719919088799
     },
     "what is the best vitamin b to take": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.29,
+      "ndcg_10": 0.46495585284149415,
+      "ndcg_20": 0.3823890849815917,
+      "ndcg_100": 0.2931760154096289
     },
     "What are the core skills and subfields of civil engineering?": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.28,
+      "ndcg_10": 0.4346056223695569,
+      "ndcg_20": 0.3602900721555586,
+      "ndcg_100": 0.3743582976170285
     },
     "iqe share price forecast": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.11,
+      "ndcg_10": 0.2033613890141143,
+      "ndcg_20": 0.1900374257254592,
+      "ndcg_100": 0.12898974122371334
     },
     "what kind of fish is jack crevalle": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.37,
+      "ndcg_10": 0.5451238448193719,
+      "ndcg_20": 0.5649583863169169,
+      "ndcg_100": 0.48600542157279986
     },
     "which colleges offer taxation degree": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.14,
+      "ndcg_10": 0.47808726278811225,
+      "ndcg_20": 0.32639974368245606,
+      "ndcg_100": 0.2320890910975743
     },
     "what program is wine on": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.35,
+      "ndcg_10": 0.6642494720359126,
+      "ndcg_20": 0.6335822329042285,
+      "ndcg_100": 0.5345193243046896
     },
     "How to make a no-sew peplum belt and DIY rope waist belt?": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.32,
+      "ndcg_10": 0.3881679836713274,
+      "ndcg_20": 0.38965429489157105,
+      "ndcg_100": 0.4070376580321984
     },
     "are there black and tan coonhound": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.41,
+      "ndcg_10": 0.6550387658715918,
+      "ndcg_20": 0.606188134331639,
+      "ndcg_100": 0.5676789342405356
     },
     "what is the seated position in japan": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.08,
+      "ndcg_10": 0.05106091783645046,
+      "ndcg_20": 0.041287907710347904,
+      "ndcg_100": 0.08320740442778095
     },
     "type of dr that does colonoscopy": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.23,
+      "ndcg_10": 0.14985361090793833,
+      "ndcg_20": 0.1530850607505754,
+      "ndcg_100": 0.204153531960256
     },
     "what does stand in your way mean": {
-      "r_precision": 0.04,
-      "recall": 0.04
+      "r_precision": 0.0,
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.0,
+      "ndcg_100": 0.0
     },
     "what astrological.sign is someone in september": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.03,
+      "ndcg_10": 0.12612794802264177,
+      "ndcg_20": 0.08139885938206576,
+      "ndcg_100": 0.05439577527921905
     },
     "how to get stronger at striking": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.03,
+      "ndcg_10": 0.2286434124017301,
+      "ndcg_20": 0.1475589928045377,
+      "ndcg_100": 0.10311661075000993
     },
     "caseless match definition in c#": {
-      "r_precision": 0.08,
-      "recall": 0.08
+      "r_precision": 0.12,
+      "ndcg_10": 0.38685763138009255,
+      "ndcg_20": 0.2871941013208961,
+      "ndcg_100": 0.29111310520614747
     },
     "how old is faith abubey": {
-      "r_precision": 0.0,
-      "recall": 0.0
+      "r_precision": 0.04,
+      "ndcg_10": 0.35895421017163465,
+      "ndcg_20": 0.23165732683700077,
+      "ndcg_100": 0.1650800689758618
     },
     "What are the advantages of using FreeDOS in embedded systems programming?": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.23,
+      "ndcg_10": 0.7809484498424909,
+      "ndcg_20": 0.6173897100400331,
+      "ndcg_100": 0.48198434933359074
     },
     "civilized community ]definition": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.1,
+      "ndcg_10": 0.41537557699129973,
+      "ndcg_20": 0.30357984464630816,
+      "ndcg_100": 0.229508459472249
     },
     "What is the relationship between line cross-section and line profile in Fig.4-3?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.32,
+      "ndcg_10": 0.49239569019189605,
+      "ndcg_20": 0.44014233443007694,
+      "ndcg_100": 0.39067267572327974
     },
     "How can I have the best viewing experience for meteor showers in 2017?": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.37,
+      "ndcg_10": 0.6661471923960179,
+      "ndcg_20": 0.5269231293179186,
+      "ndcg_100": 0.48583282191400345
     },
     "how to get rid of bad breath caused by garlic": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.33,
+      "ndcg_10": 0.5714174179208436,
+      "ndcg_20": 0.5364250069356736,
+      "ndcg_100": 0.5015676576552073
     },
     "how do you spell with asl": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.15,
+      "ndcg_10": 0.36439982272760185,
+      "ndcg_20": 0.28351524179060456,
+      "ndcg_100": 0.2817728809122463
     },
     "How to fix TLS handshake failure on Google Wifi router?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.27,
+      "ndcg_10": 0.4204272913389442,
+      "ndcg_20": 0.5562832333294851,
+      "ndcg_100": 0.48901059791753915
     },
     "are chemical weapons used in mass destruction": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.38,
+      "ndcg_10": 0.6333585941839994,
+      "ndcg_20": 0.516158190603684,
+      "ndcg_100": 0.47511456322381035
     },
     "living in berlin": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.3,
+      "ndcg_10": 0.3400209413006205,
+      "ndcg_20": 0.3097544579180899,
+      "ndcg_100": 0.2963416733382042
     },
     "causes of valve prolapses": {
-      "r_precision": 0.44,
-      "recall": 0.44
+      "r_precision": 0.32,
+      "ndcg_10": 0.3246634323094925,
+      "ndcg_20": 0.47164174808619724,
+      "ndcg_100": 0.4369540775903966
     },
     "how often should you strength train": {
       "r_precision": 0.15,
-      "recall": 0.15
+      "ndcg_10": 0.3845863844134448,
+      "ndcg_20": 0.2982754354441584,
+      "ndcg_100": 0.28038792054448614
     },
     "How to contact Simmons University for Workday registration issues?": {
-      "r_precision": 0.03,
-      "recall": 0.03
+      "r_precision": 0.11,
+      "ndcg_10": 0.31577422773242825,
+      "ndcg_20": 0.2716386771203974,
+      "ndcg_100": 0.21551278701616788
     },
     "What changes were made to Pub. L. 108-458, §6802 in relation to chemical weapons?": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.07,
+      "ndcg_10": 0.3342303788631957,
+      "ndcg_20": 0.21806523672913086,
+      "ndcg_100": 0.14701697643747932
     },
     "What are the special holidays in May 2021?": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.14,
+      "ndcg_10": 0.16175713754606144,
+      "ndcg_20": 0.14177118498695673,
+      "ndcg_100": 0.19067900641553034
     },
     "How does paying off a loan quickly benefit a profitable business?": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.23,
+      "ndcg_10": 0.5143853197306084,
+      "ndcg_20": 0.41922201361231126,
+      "ndcg_100": 0.3636999265698905
     },
     "What are the benefits and drawbacks of using GPUs for large datasets?": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.27,
+      "ndcg_10": 0.7047602195228966,
+      "ndcg_20": 0.6058216858476296,
+      "ndcg_100": 0.49374915914589806
     },
     "Who do the children and beavers go to find in the story?": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.23,
+      "ndcg_10": 0.6588374290527258,
+      "ndcg_20": 0.5089594231152224,
+      "ndcg_100": 0.4002607750787643
     },
     "How does lightning travel through a building and how much electricity does it contain?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.13,
+      "ndcg_10": 0.3126429037380405,
+      "ndcg_20": 0.27651044795415797,
+      "ndcg_100": 0.22963717055133614
     },
     "What do reviewers think about the 2007 Chevrolet Suburban's performance?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.32,
+      "ndcg_10": 0.6882707366311225,
+      "ndcg_20": 0.5141237102614943,
+      "ndcg_100": 0.4367765274994248
     },
     "who is the middle east singer?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.13,
+      "ndcg_10": 0.24503253042176962,
+      "ndcg_20": 0.2124694142261251,
+      "ndcg_100": 0.18554102719341253
     },
     "Where can I find Smashburger nutritional information?": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.24,
+      "ndcg_10": 0.8600450425247911,
+      "ndcg_20": 0.6561698848332397,
+      "ndcg_100": 0.5191321013057871
     },
     "why do databases need to be updated": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.18,
+      "ndcg_10": 0.29559087469549783,
+      "ndcg_20": 0.24808797408446037,
+      "ndcg_100": 0.22932731368867124
     },
     "what are enzymes": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.18,
+      "ndcg_10": 0.09744267341375853,
+      "ndcg_20": 0.10891915533287333,
+      "ndcg_100": 0.15059504097000018
     },
     "define retrogression": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.25,
+      "ndcg_10": 0.7845738078653774,
+      "ndcg_20": 0.6033659456599157,
+      "ndcg_100": 0.4547866159304471
     },
     "who is responsible for protecting a government": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.21,
+      "ndcg_10": 0.16082064655007472,
+      "ndcg_20": 0.24738812792493323,
+      "ndcg_100": 0.25321810530169914
     },
     "What are the prepositions in the sentence about a train going through a tunnel and over a bridge?": {
-      "r_precision": 0.15,
-      "recall": 0.19
+      "r_precision": 0.23,
+      "ndcg_10": 0.7143094147789912,
+      "ndcg_20": 0.4885685327703152,
+      "ndcg_100": 0.4660217304866099
     },
     "What are the most common hazards in a workspace?": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.11,
+      "ndcg_10": 0.4914451813741946,
+      "ndcg_20": 0.3526726835252938,
+      "ndcg_100": 0.2910445427354865
     },
     "why is there a constitutional right to privacy": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.39,
+      "ndcg_10": 0.22114723428895255,
+      "ndcg_20": 0.31579992543575675,
+      "ndcg_100": 0.3441348258757086
     },
     "who clears for raymond james": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.38,
+      "ndcg_10": 0.6672247784415634,
+      "ndcg_20": 0.5296048409166934,
+      "ndcg_100": 0.5061705821580172
     },
     "What is the acronym definition in various fields?": {
-      "r_precision": 0.01,
-      "recall": 0.01
+      "r_precision": 0.14,
+      "ndcg_10": 0.13086283405188706,
+      "ndcg_20": 0.20505467133580832,
+      "ndcg_100": 0.19282152439356715
     },
     "what to bring for a rainy day": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.22,
+      "ndcg_10": 0.289757761855048,
+      "ndcg_20": 0.1979597481329923,
+      "ndcg_100": 0.21370246644448956
     },
     "what type of injury result when downer cows are compressed": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.24,
+      "ndcg_10": 0.7406707813880568,
+      "ndcg_20": 0.6421375898064032,
+      "ndcg_100": 0.5000022988557571
     },
     "What are the uses of Myrrh Essential Oil in Christianity and oral health?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.3,
+      "ndcg_10": 0.6943292069233037,
+      "ndcg_20": 0.5853000257247981,
+      "ndcg_100": 0.5198540462817259
     },
     "apple device is currently locked what do i do": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.23,
+      "ndcg_10": 0.07716167311006272,
+      "ndcg_20": 0.1703349479478472,
+      "ndcg_100": 0.22696742132328784
     },
     "who is the florida school shooter": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.24,
+      "ndcg_10": 0.3369900090013544,
+      "ndcg_20": 0.31656777421105836,
+      "ndcg_100": 0.2892310268705875
     },
     "What is the STANLEY SL18191P 10-gallon wet/dry vacuum?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.28,
+      "ndcg_10": 0.6493146062632364,
+      "ndcg_20": 0.5698399171565364,
+      "ndcg_100": 0.42225038894070094
     },
     "what license does an llc need": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.31,
+      "ndcg_10": 0.30466353049974043,
+      "ndcg_20": 0.38835518861115625,
+      "ndcg_100": 0.3487002744428039
     },
     "what is a mayan language": {
-      "r_precision": 0.32,
-      "recall": 0.32
+      "r_precision": 0.37,
+      "ndcg_10": 0.3891875765694994,
+      "ndcg_20": 0.42295847933937414,
+      "ndcg_100": 0.4050776460002163
     },
     "difference between a resolution and refresh rate": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.21,
+      "ndcg_10": 0.2749475044182047,
+      "ndcg_20": 0.2645954602594395,
+      "ndcg_100": 0.25841041716830415
     },
     "function of langerhans cells": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.36,
+      "ndcg_10": 0.3417974316715405,
+      "ndcg_20": 0.3310857787738186,
+      "ndcg_100": 0.32165196744302493
     },
     "when did harrison maxwell dempsey die": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.18,
+      "ndcg_10": 0.684186451664311,
+      "ndcg_20": 0.5305106033133448,
+      "ndcg_100": 0.38639150128459065
     },
     "Where can I meet Goofy and Pluto on my next trip to Disney World?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.26,
+      "ndcg_10": 0.5792984914372943,
+      "ndcg_20": 0.44912948007671744,
+      "ndcg_100": 0.4236609228520117
     },
     "what is isport": {
       "r_precision": 0.01,
-      "recall": 0.01
+      "ndcg_10": 0.08514311764162098,
+      "ndcg_20": 0.05494858807198588,
+      "ndcg_100": 0.03672006059255257
     },
     "When should I call on the Chickadee Spirit Animal?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.28,
+      "ndcg_10": 0.8518720905860615,
+      "ndcg_20": 0.7682590299526723,
+      "ndcg_100": 0.6506539649873004
     },
     "What are the different types of fibroids and where are they located?": {
-      "r_precision": 0.31,
-      "recall": 0.31
+      "r_precision": 0.36,
+      "ndcg_10": 0.2794170239525983,
+      "ndcg_20": 0.2760399417077445,
+      "ndcg_100": 0.3164164544546643
     },
     "process control number": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.29,
+      "ndcg_10": 0.753262172198312,
+      "ndcg_20": 0.5933606808834039,
+      "ndcg_100": 0.5137675329714423
     },
     "baltimore city school for the arts": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.36,
+      "ndcg_10": 0.601699379928133,
+      "ndcg_20": 0.5751238287756678,
+      "ndcg_100": 0.5084797986545031
     },
     "How do I form uppercase letters C, E, G, and O in this writing style?": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.22,
+      "ndcg_10": 0.7677301785875442,
+      "ndcg_20": 0.5989747661532173,
+      "ndcg_100": 0.4877558844925909
     },
     "define atropine": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.21,
+      "ndcg_10": 0.20135290088280833,
+      "ndcg_20": 0.17735984121271492,
+      "ndcg_100": 0.19716313460157212
     },
     "what are i.e. diets for pregnancy": {
-      "r_precision": 0.11,
-      "recall": 0.12
+      "r_precision": 0.26,
+      "ndcg_10": 0.6117290290974361,
+      "ndcg_20": 0.4695601877791278,
+      "ndcg_100": 0.3791345750130189
     },
     "what can cause your period to start late": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.32,
+      "ndcg_10": 0.37663772292068715,
+      "ndcg_20": 0.40085249025242153,
+      "ndcg_100": 0.40013217557429404
     },
     "what is ileus": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.31,
+      "ndcg_10": 0.3657191283487216,
+      "ndcg_20": 0.3665491302214202,
+      "ndcg_100": 0.3559291620123627
     },
     "what is the goal of carbon projects": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.2,
+      "ndcg_10": 0.5119548825602827,
+      "ndcg_20": 0.37524602328802525,
+      "ndcg_100": 0.33342077358339295
     },
     "how long to boil oatmeal packet": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.32,
+      "ndcg_10": 0.7012441605432364,
+      "ndcg_20": 0.683154895291002,
+      "ndcg_100": 0.5968774733325656
     },
     "what to put on a bee sting": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.33,
+      "ndcg_10": 0.5319326813114318,
+      "ndcg_20": 0.4143654420962634,
+      "ndcg_100": 0.3730145965842219
     },
     "how many types of team are there": {
       "r_precision": 0.13,
-      "recall": 0.13
+      "ndcg_10": 0.32095979541010006,
+      "ndcg_20": 0.25017733337991166,
+      "ndcg_100": 0.1990150488414247
     },
     "What is the performance of 4 Color Tibalt deck?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.26,
+      "ndcg_10": 0.4050105452496421,
+      "ndcg_20": 0.3099561688288724,
+      "ndcg_100": 0.24079504113966668
     },
     "what are the services of a bank": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.21,
+      "ndcg_10": 0.10754836740493616,
+      "ndcg_20": 0.15834888031698433,
+      "ndcg_100": 0.18962336486565884
     },
     "who are the actors in the movie tiger eater": {
-      "r_precision": 0.06,
-      "recall": 0.08
+      "r_precision": 0.3,
+      "ndcg_10": 0.5551084280558324,
+      "ndcg_20": 0.5030921699484391,
+      "ndcg_100": 0.41680252056217343
     },
     "how to make bulb switch using a batteries": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.31,
+      "ndcg_10": 0.6684410644710042,
+      "ndcg_20": 0.5658652472115252,
+      "ndcg_100": 0.5058238809815068
     },
     "What is the Abortion Pill and at what stages of pregnancy can it be used?": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.3,
+      "ndcg_10": 0.5045341364222733,
+      "ndcg_20": 0.39994081359840067,
+      "ndcg_100": 0.369653259784285
     },
     "How to cook thin-sliced potatoes for a perfect dinner side dish?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.18,
+      "ndcg_10": 0.32027274996767624,
+      "ndcg_20": 0.259757484355023,
+      "ndcg_100": 0.2366395353620051
     },
     "vikus main role in gregor": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.34,
+      "ndcg_10": 0.8135225160266458,
+      "ndcg_20": 0.6613752781743409,
+      "ndcg_100": 0.5555505304061465
     },
     "What is the use of atropine in organophosphate poisoning?": {
-      "r_precision": 0.34,
-      "recall": 0.34
+      "r_precision": 0.29,
+      "ndcg_10": 0.9681585106961258,
+      "ndcg_20": 0.7936678742068152,
+      "ndcg_100": 0.5814291990695638
     },
     "How can I find an Excel roadmap template for my project?": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.33,
+      "ndcg_10": 0.8692168721291177,
+      "ndcg_20": 0.7353201047076914,
+      "ndcg_100": 0.5947500429558937
     },
     "Are alligators and crocodiles considered exotic pets in Kansas?": {
-      "r_precision": 0.21,
-      "recall": 0.22
+      "r_precision": 0.24,
+      "ndcg_10": 0.3565007332548276,
+      "ndcg_20": 0.40309687174289144,
+      "ndcg_100": 0.35614425934678684
     },
     "What are the features of the newest P05 stylus?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.28,
+      "ndcg_10": 0.7467434418423741,
+      "ndcg_20": 0.5688232229781628,
+      "ndcg_100": 0.48881580075868536
     },
     "what nutrition minerals vitamins are in Aloe vera juice": {
-      "r_precision": 0.38,
-      "recall": 0.38
+      "r_precision": 0.32,
+      "ndcg_10": 0.7130095186381554,
+      "ndcg_20": 0.5861867356969914,
+      "ndcg_100": 0.4645074884231695
     },
     "What is the origin of the hamburger and what are some popular food options in Connecticut?": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.16,
+      "ndcg_10": 0.5585399520229127,
+      "ndcg_20": 0.4431046113613191,
+      "ndcg_100": 0.32199291704813304
     },
     "dog age by teeth": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.38,
+      "ndcg_10": 0.3840366776403865,
+      "ndcg_20": 0.39581475355422774,
+      "ndcg_100": 0.451083296136404
     },
     "meaning of the name theodore": {
-      "r_precision": 0.31,
-      "recall": 0.31
+      "r_precision": 0.42,
+      "ndcg_10": 0.7755481746742173,
+      "ndcg_20": 0.6918792491460268,
+      "ndcg_100": 0.6751260703960721
     },
     "is it necessary to glue cabinets together": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.32,
+      "ndcg_10": 0.5737278577987831,
+      "ndcg_20": 0.49451377761841914,
+      "ndcg_100": 0.43775263057224334
     },
     "Where can I buy live crickets and other feeder insects for reptiles at low prices?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.25,
+      "ndcg_10": 0.16960672997969228,
+      "ndcg_20": 0.2299654741099336,
+      "ndcg_100": 0.22524498899065454
     },
     "What are the rare types of lung cancers?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.38,
+      "ndcg_10": 0.9522377660441887,
+      "ndcg_20": 0.7523386095738241,
+      "ndcg_100": 0.6207119111450576
     },
     "irene forte": {
-      "r_precision": 0.03,
-      "recall": 0.03
+      "r_precision": 0.23,
+      "ndcg_10": 0.0819057648841396,
+      "ndcg_20": 0.13972393644162412,
+      "ndcg_100": 0.14266066442021547
     },
     "what did colonial women wear": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.19,
+      "ndcg_10": 0.3002297164255531,
+      "ndcg_20": 0.23896621275247762,
+      "ndcg_100": 0.21847857741285853
     },
     "angel number 616 spiritual meaning": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.24,
+      "ndcg_10": 0.3856840174190402,
+      "ndcg_20": 0.33218012682334486,
+      "ndcg_100": 0.3313716489860104
     },
     "what product line is gigabyte": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.31,
+      "ndcg_10": 0.40125989552037733,
+      "ndcg_20": 0.4264322098311287,
+      "ndcg_100": 0.37256873748376684
     },
     "what's the difference between imagery and visual": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.33,
+      "ndcg_10": 0.5909033961185124,
+      "ndcg_20": 0.5433851257645049,
+      "ndcg_100": 0.4372233400402721
     },
     "How to choose and prepare kidneys for cooking?": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.21,
+      "ndcg_10": 0.5047450415962133,
+      "ndcg_20": 0.40320312186125606,
+      "ndcg_100": 0.3808176464147499
     },
     "which structure grows smallest when the body overexpresses its production of estrogen?": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.12,
+      "ndcg_10": 0.3790773764693162,
+      "ndcg_20": 0.26460430035829335,
+      "ndcg_100": 0.2139548380924828
     },
     "How did Michael Jackson help Robson's career in Hollywood?": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.32,
+      "ndcg_10": 0.6916267072301987,
+      "ndcg_20": 0.5593586872074932,
+      "ndcg_100": 0.47885219965562553
     },
     "the tampa state bank marion ks": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.29,
+      "ndcg_10": 0.4527708939164358,
+      "ndcg_20": 0.4301590150235112,
+      "ndcg_100": 0.3452831481339532
     },
     "how do you clean smoke off walls": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.37,
+      "ndcg_10": 0.3994669657194407,
+      "ndcg_20": 0.37659228617400853,
+      "ndcg_100": 0.43036417117710984
     },
     "How does overlapping wide boards create a tight connection in a workbench?": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.18,
+      "ndcg_10": 0.530203162916831,
+      "ndcg_20": 0.38123736744688147,
+      "ndcg_100": 0.28724145035552445
     },
     "what homeowners insurance should i buy": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.11,
+      "ndcg_10": 0.07753217341790153,
+      "ndcg_20": 0.0633313737989997,
+      "ndcg_100": 0.08806407613098781
     },
     "iowa counties by population": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.32,
+      "ndcg_10": 0.8501857802030659,
+      "ndcg_20": 0.7721181473395838,
+      "ndcg_100": 0.5487826275000591
     },
     "What are some benefits of making a homemade Halloween costume?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.29,
+      "ndcg_10": 0.5451375041832425,
+      "ndcg_20": 0.49244712438821364,
+      "ndcg_100": 0.3951769406360915
     },
     "What are the two forms of line spectra and how are they related?": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.24,
+      "ndcg_10": 0.8019936436920493,
+      "ndcg_20": 0.6798273373235142,
+      "ndcg_100": 0.4794952402216342
     },
     "what numbers make up 11": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.19,
+      "ndcg_10": 0.11539849848574421,
+      "ndcg_20": 0.17339567859730587,
+      "ndcg_100": 0.23691583667733512
     },
     "What is the common use of ASL fingerspelling?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.4,
+      "ndcg_10": 0.7646434122530674,
+      "ndcg_20": 0.5973466695681915,
+      "ndcg_100": 0.539167477788074
     },
     "bison energy": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.31,
+      "ndcg_10": 0.8921530746102583,
+      "ndcg_20": 0.7304388746394297,
+      "ndcg_100": 0.5668103666802902
     },
     "What allegations does Johnson make against Hamlin in their divorce case?": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.1,
+      "ndcg_10": 0.37469881293327695,
+      "ndcg_20": 0.3001504888868593,
+      "ndcg_100": 0.2053550367352388
     },
     "What is the optimal beard length for a full look and coverage of bare patches?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.15,
+      "ndcg_10": 0.35040635794747277,
+      "ndcg_20": 0.26344757247851064,
+      "ndcg_100": 0.2429811747993485
     },
     "Which applications can open EDF files?": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.24,
+      "ndcg_10": 0.7979851496129896,
+      "ndcg_20": 0.7797563122396806,
+      "ndcg_100": 0.5946416520712086
     },
     "What are the considerations for trapping a mole?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.33,
+      "ndcg_10": 0.2143046511496676,
+      "ndcg_20": 0.2709840376648521,
+      "ndcg_100": 0.2815057350478309
     },
     "importance of redox reactions": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.28,
+      "ndcg_10": 0.775253488167945,
+      "ndcg_20": 0.6194990214913778,
+      "ndcg_100": 0.4683237961393584
     },
     "What are the sound signatures of waterfalls in Yosemite National Park?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.41,
+      "ndcg_10": 0.37948918747627436,
+      "ndcg_20": 0.46156523062443067,
+      "ndcg_100": 0.48218670632055544
     },
     "what's the holidays in may?": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.05,
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.0,
+      "ndcg_100": 0.01722541804615694
     },
     "are alligators considered exotic pets": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.37,
+      "ndcg_10": 0.8436351058906125,
+      "ndcg_20": 0.6736527527014362,
+      "ndcg_100": 0.5957118263859609
     },
     "what was the first coin dapp to have a cryptocurrency": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.21,
+      "ndcg_10": 0.3326178145454171,
+      "ndcg_20": 0.33028579914971185,
+      "ndcg_100": 0.24022164300029958
     },
     "what navigation system does ireland use": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.21,
+      "ndcg_10": 0.44286216284147456,
+      "ndcg_20": 0.3563653232471571,
+      "ndcg_100": 0.3253212097784731
     },
     "Did mainstream media admit to the lab origins of covid-19?": {
-      "r_precision": 0.31,
-      "recall": 0.31
+      "r_precision": 0.34,
+      "ndcg_10": 1.0,
+      "ndcg_20": 0.7582397288449897,
+      "ndcg_100": 0.561475327906225
     },
     "Who was John Alphonsus Turretini?": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.11,
+      "ndcg_10": 0.7431883985536623,
+      "ndcg_20": 0.5039410746149641,
+      "ndcg_100": 0.3561089584390745
     },
     "what weather is shower": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.16,
+      "ndcg_10": 0.14860617212331992,
+      "ndcg_20": 0.1670156295311572,
+      "ndcg_100": 0.17511642920785744
     },
     "Who plays the role of Suleyman Shah in the story and what is his relation to Osman Gazi I?": {
-      "r_precision": 0.32,
-      "recall": 0.32
+      "r_precision": 0.41,
+      "ndcg_10": 0.7943255495646477,
+      "ndcg_20": 0.6290569567741736,
+      "ndcg_100": 0.5403803198785361
     },
     "what is pythium disease": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.45,
+      "ndcg_10": 0.6402461624132701,
+      "ndcg_20": 0.5692718618177418,
+      "ndcg_100": 0.5664606534886822
     },
     "what is the largest number of electrons that can be in an electron shell?": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.4,
+      "ndcg_10": 0.44775300236656995,
+      "ndcg_20": 0.38323204770876135,
+      "ndcg_100": 0.429186599931449
     },
     "healthy grief process": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.33,
+      "ndcg_10": 0.3801946577249728,
+      "ndcg_20": 0.4520132315769101,
+      "ndcg_100": 0.3829123974741246
     },
     "what does not rated mean in movie ratings": {
       "r_precision": 0.14,
-      "recall": 0.14
+      "ndcg_10": 0.24079471241960368,
+      "ndcg_20": 0.1947669957930639,
+      "ndcg_100": 0.14474797339434448
     },
     "what makes a good kidney": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.15,
+      "ndcg_10": 0.26743961985901904,
+      "ndcg_20": 0.24069158990960976,
+      "ndcg_100": 0.21396729848002832
     },
     "What makes calcium and heavier elements in Group 2 real alkaline earth metals?": {
-      "r_precision": 0.28,
-      "recall": 0.28
+      "r_precision": 0.39,
+      "ndcg_10": 0.7128100633744228,
+      "ndcg_20": 0.6104231801839128,
+      "ndcg_100": 0.5884492874035269
     },
     "who does edmund owen marry": {
-      "r_precision": 0.25,
-      "recall": 0.25
+      "r_precision": 0.28,
+      "ndcg_10": 0.4896261650923897,
+      "ndcg_20": 0.4023438821597566,
+      "ndcg_100": 0.376941084335273
     },
     "who makes new mexican beans": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.23,
+      "ndcg_10": 0.13309339504501838,
+      "ndcg_20": 0.19548370856473948,
+      "ndcg_100": 0.2522835331540246
     },
     "how to check hard disc memory on windows 10": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.25,
+      "ndcg_10": 0.3558958989002713,
+      "ndcg_20": 0.2939029582723031,
+      "ndcg_100": 0.3168525205641237
     },
     "How to convert 9/10 into a percentage?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.3,
+      "ndcg_10": 0.1723429764577124,
+      "ndcg_20": 0.1947658013044287,
+      "ndcg_100": 0.2598204734345819
     },
     "vnr stock": {
-      "r_precision": 0.02,
-      "recall": 0.02
+      "r_precision": 0.13,
+      "ndcg_10": 0.5692669853248786,
+      "ndcg_20": 0.5134889889471346,
+      "ndcg_100": 0.35772961223519856
     },
     "when did janelle pierzina and jay desanto have a baby?": {
-      "r_precision": 0.04,
-      "recall": 0.05
+      "r_precision": 0.17,
+      "ndcg_10": 0.8722979122277532,
+      "ndcg_20": 0.6988714466033075,
+      "ndcg_100": 0.4979771980515694
     },
     "What are the numbers in sequences from 0 to 13?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.31,
+      "ndcg_10": 0.5136153663861357,
+      "ndcg_20": 0.3995614728765711,
+      "ndcg_100": 0.37672966322381934
     },
     "prototypes for the wall cost": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.24,
+      "ndcg_10": 0.47933330638382426,
+      "ndcg_20": 0.3817261032389979,
+      "ndcg_100": 0.37157364647679364
     },
     "what is kinau": {
-      "r_precision": 0.04,
-      "recall": 0.04
+      "r_precision": 0.15,
+      "ndcg_10": 0.6936634693435662,
+      "ndcg_20": 0.5385653830136837,
+      "ndcg_100": 0.4372941968008411
     },
     "What are the disadvantages of ASP and the benefits of web-based data warehousing?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.13,
+      "ndcg_10": 0.3166925063479066,
+      "ndcg_20": 0.248931439176113,
+      "ndcg_100": 0.2226652368313289
     },
     "where do you find the charm bar?": {
-      "r_precision": 0.03,
-      "recall": 0.03
+      "r_precision": 0.24,
+      "ndcg_10": 0.6094029608209612,
+      "ndcg_20": 0.45930141267710034,
+      "ndcg_100": 0.3650326716941486
     },
     "water drinking challenge skin improvement": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.37,
+      "ndcg_10": 0.6903316088338457,
+      "ndcg_20": 0.6343815128493213,
+      "ndcg_100": 0.6038602965009584
     },
     "what qualities should business leaders have": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.22,
+      "ndcg_10": 0.23452320974979882,
+      "ndcg_20": 0.17556044852903832,
+      "ndcg_100": 0.18287446453942732
     },
     "How do I apply for instructor training if I am a resident of Missouri or Maryland?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.06,
+      "ndcg_10": 0.4612712194404518,
+      "ndcg_20": 0.29768938381116866,
+      "ndcg_100": 0.22480201435167682
     },
     "What is a hyperemesis diet and how can it help during pregnancy?": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.26,
+      "ndcg_10": 0.461046952292879,
+      "ndcg_20": 0.39742168935820793,
+      "ndcg_100": 0.3129659473992696
     },
     "why do white cell counts get low in cancer patients": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.37,
+      "ndcg_10": 0.6599676340769232,
+      "ndcg_20": 0.5971876835162502,
+      "ndcg_100": 0.5131474170835423
     },
     "what is the purpose of statins?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.22,
+      "ndcg_10": 0.19140196334059903,
+      "ndcg_20": 0.18176246730621426,
+      "ndcg_100": 0.20361640703861242
     },
     "What are some examples of fads?": {
-      "r_precision": 0.16,
-      "recall": 0.19
+      "r_precision": 0.26,
+      "ndcg_10": 0.3078542485296806,
+      "ndcg_20": 0.29674970380379273,
+      "ndcg_100": 0.3020343710942077
     },
     "do spayed female dogs have periods": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.36,
+      "ndcg_10": 0.9101737264868635,
+      "ndcg_20": 0.6954148413590914,
+      "ndcg_100": 0.5430044426693694
     },
     "why should i use my business loan": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.22,
+      "ndcg_10": 0.22993541969125456,
+      "ndcg_20": 0.19686208955129592,
+      "ndcg_100": 0.21942683230543503
     },
     "What hotel is near New Orleans International Airport with state-of-the-art accommodations?": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.05,
+      "ndcg_10": 0.2428903351640621,
+      "ndcg_20": 0.1567534915713775,
+      "ndcg_100": 0.10593233365725122
     },
     "What are some popular and best value hotels in the Newport Beach area with 2 stars and below?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.22,
+      "ndcg_10": 0.48587475488999776,
+      "ndcg_20": 0.5061564588139651,
+      "ndcg_100": 0.36366714789099636
     },
     "when did blue sour patch come out": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.36,
+      "ndcg_10": 0.6519941832354766,
+      "ndcg_20": 0.585268272284499,
+      "ndcg_100": 0.4845676989287877
     },
     "What should I wear during cool and wet weather?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.07,
+      "ndcg_10": 0.1388624438735545,
+      "ndcg_20": 0.12305477858805695,
+      "ndcg_100": 0.13711171135058406
     },
     "how long is read time for an article": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.23,
+      "ndcg_10": 0.5333056424534323,
+      "ndcg_20": 0.5601640814331054,
+      "ndcg_100": 0.42705692592371
     },
     "What are the features of a 24-speed bike with an aluminum frame?": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.24,
+      "ndcg_10": 0.4216628963503617,
+      "ndcg_20": 0.3547005093568696,
+      "ndcg_100": 0.34670651002012437
     },
     "what is the agonist in bicep curls": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.36,
+      "ndcg_10": 0.8799222892093654,
+      "ndcg_20": 0.807709531381016,
+      "ndcg_100": 0.6511573204221385
     },
     "what was the lahaina banyan court park": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.31,
+      "ndcg_10": 1.0,
+      "ndcg_20": 0.8536201187476942,
+      "ndcg_100": 0.6037297594125652
     },
     "what is a mrcp?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.33,
+      "ndcg_10": 0.8210928802534705,
+      "ndcg_20": 0.6276039222090856,
+      "ndcg_100": 0.5322668469247896
     },
     "What does the acronym FRQ stand for?": {
-      "r_precision": 0.04,
-      "recall": 0.04
+      "r_precision": 0.07,
+      "ndcg_10": 0.3530759062266373,
+      "ndcg_20": 0.2278636614065762,
+      "ndcg_100": 0.17055734225112976
     },
     "Who are the orthopaedic specialists at Chester County Hospital?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.16,
+      "ndcg_10": 0.846587493029248,
+      "ndcg_20": 0.5944717628818869,
+      "ndcg_100": 0.4327275241762416
     },
     "what is a certified check": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.33,
+      "ndcg_10": 0.8249444842623695,
+      "ndcg_20": 0.6489090802622595,
+      "ndcg_100": 0.5506044208206551
     },
     "How can I use creative blur to enhance my photos?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.26,
+      "ndcg_10": 0.49397995442782294,
+      "ndcg_20": 0.3866032530568137,
+      "ndcg_100": 0.3513578726725323
     },
     "what internet applications are used in china": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.29,
+      "ndcg_10": 0.6170984553481407,
+      "ndcg_20": 0.49346319647252573,
+      "ndcg_100": 0.4190841786724537
     },
     "how to make linkedin private": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.39,
+      "ndcg_10": 0.33156865381833844,
+      "ndcg_20": 0.4416148671837961,
+      "ndcg_100": 0.4798499259968054
     },
     "the rogue warriors": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.27,
+      "ndcg_10": 0.335562871941237,
+      "ndcg_20": 0.2576641314668357,
+      "ndcg_100": 0.2445059348103218
     },
     "tope definition": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.29,
+      "ndcg_10": 0.3937600355474321,
+      "ndcg_20": 0.4439200843333987,
+      "ndcg_100": 0.3481070375918269
     },
     "What are the roles of synergists and agonist during a biceps curl?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.44,
+      "ndcg_10": 0.7535709476955096,
+      "ndcg_20": 0.6914408201668225,
+      "ndcg_100": 0.639317040506364
     },
     "what is better jump drive or disc": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.21,
+      "ndcg_10": 0.24583911717116258,
+      "ndcg_20": 0.22991156454774583,
+      "ndcg_100": 0.21443817440195378
     },
     "what is nas office license": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.14,
+      "ndcg_10": 0.5511745127650833,
+      "ndcg_20": 0.3860679300496691,
+      "ndcg_100": 0.26669817787215916
     },
     "why do pilots purposely fly low": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.21,
+      "ndcg_10": 0.31142462368845697,
+      "ndcg_20": 0.29816914505439834,
+      "ndcg_100": 0.24443410937405577
     },
     "what is that sign of trouble": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.1,
+      "ndcg_10": 0.20766800176018493,
+      "ndcg_20": 0.13402214765594522,
+      "ndcg_100": 0.10186282251412689
     },
     "where does angela turner work at": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.23,
+      "ndcg_10": 0.677757001044871,
+      "ndcg_20": 0.5557338560378751,
+      "ndcg_100": 0.43252676563608033
     },
     "What features are included in the SE 35th Anniversary Edition?": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.24,
+      "ndcg_10": 0.590650531530542,
+      "ndcg_20": 0.44250695546077046,
+      "ndcg_100": 0.37680440135313764
     },
     "What is the meaning of angel number 616?": {
-      "r_precision": 0.05,
-      "recall": 0.05
+      "r_precision": 0.19,
+      "ndcg_10": 0.5053055480740598,
+      "ndcg_20": 0.447815564940959,
+      "ndcg_100": 0.3766267091884115
     },
     "what is edf file": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.38,
+      "ndcg_10": 0.7663116438684562,
+      "ndcg_20": 0.7107932327701377,
+      "ndcg_100": 0.6261200301527136
     },
     "what is the average cost per year to replace an electric furnace": {
-      "r_precision": 0.3,
-      "recall": 0.3
+      "r_precision": 0.34,
+      "ndcg_10": 0.5736276984732352,
+      "ndcg_20": 0.4947673167145311,
+      "ndcg_100": 0.45528096554287995
     },
     "how to set 0 in top and bottom margins in ie page setup": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.43,
+      "ndcg_10": 0.5584846332075774,
+      "ndcg_20": 0.3980055966879787,
+      "ndcg_100": 0.4004804356023977
     },
     "what is animal rennet": {
-      "r_precision": 0.2,
-      "recall": 0.21
+      "r_precision": 0.29,
+      "ndcg_10": 0.3655677897352547,
+      "ndcg_20": 0.3406615928327082,
+      "ndcg_100": 0.2736695321534511
     },
     "what is elastic deformation in science": {
-      "r_precision": 0.26,
-      "recall": 0.26
+      "r_precision": 0.34,
+      "ndcg_10": 0.3146246842559465,
+      "ndcg_20": 0.2912416016130028,
+      "ndcg_100": 0.2874519110967726
     },
     "what is the difference between an embossing notary seal and stamp": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.27,
+      "ndcg_10": 0.815721387970125,
+      "ndcg_20": 0.6328385381375549,
+      "ndcg_100": 0.46571580335047524
     },
     "how many hours are the average college classes": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.25,
+      "ndcg_10": 0.4928086108027979,
+      "ndcg_20": 0.3620202056478826,
+      "ndcg_100": 0.3466438411481032
     },
     "How are divine energy experience levels divided and affected by boons?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.22,
+      "ndcg_10": 1.0,
+      "ndcg_20": 0.7129938998048526,
+      "ndcg_100": 0.5030177547406659
     },
     "what causes eye blackouts": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.26,
+      "ndcg_10": 0.5729276686448554,
+      "ndcg_20": 0.5245722079503604,
+      "ndcg_100": 0.41550130902506266
     },
     "what is the limit for blog comments": {
       "r_precision": 0.1,
-      "recall": 0.11
+      "ndcg_10": 0.25477344216288283,
+      "ndcg_20": 0.290111221653138,
+      "ndcg_100": 0.2181741032144718
     },
     "How should I view my audience during public speaking?": {
-      "r_precision": 0.21,
-      "recall": 0.21
+      "r_precision": 0.26,
+      "ndcg_10": 0.13219721864430012,
+      "ndcg_20": 0.10602194244154772,
+      "ndcg_100": 0.16530068416699248
     },
     "What was the fuel-based challenge in the German Border episode?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.12,
+      "ndcg_10": 0.5230914526700065,
+      "ndcg_20": 0.34479139920908186,
+      "ndcg_100": 0.2592927589810072
     },
     "how to emulsion a house": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.14,
+      "ndcg_10": 0.12220875255135434,
+      "ndcg_20": 0.12050716634259105,
+      "ndcg_100": 0.09871522247371142
     },
     "what factors determines education": {
-      "r_precision": 0.07,
-      "recall": 0.07
+      "r_precision": 0.11,
+      "ndcg_10": 0.1769093866095112,
+      "ndcg_20": 0.13280668294374093,
+      "ndcg_100": 0.11685278572043424
     },
     "how to tell the percent of 9/10 to 10/11?": {
-      "r_precision": 0.02,
-      "recall": 0.02
+      "r_precision": 0.06,
+      "ndcg_10": 0.16415171609915621,
+      "ndcg_20": 0.1081249912188321,
+      "ndcg_100": 0.1111689915463331
     },
     "What types of public moorings does Waterways Ireland provide along navigable waterways?": {
-      "r_precision": 0.22,
-      "recall": 0.22
+      "r_precision": 0.33,
+      "ndcg_10": 0.8154750454689502,
+      "ndcg_20": 0.6160624896822242,
+      "ndcg_100": 0.5395937817975687
     },
     "How to teach Social Studies in writing and reading block?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.31,
+      "ndcg_10": 0.5654759614958158,
+      "ndcg_20": 0.5350066768800309,
+      "ndcg_100": 0.39902128432077155
     },
     "how to get a degree in witchcraft": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.16,
+      "ndcg_10": 0.038435079912325094,
+      "ndcg_20": 0.06922189796188649,
+      "ndcg_100": 0.11685292470662732
     },
     "which substance produces the emission spectrum": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.32,
+      "ndcg_10": 0.4666136268409217,
+      "ndcg_20": 0.4023209707647764,
+      "ndcg_100": 0.38090981785323896
     },
     "what is irish kipper": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.31,
+      "ndcg_10": 0.5385509824278537,
+      "ndcg_20": 0.4494047979111215,
+      "ndcg_100": 0.42374695447012806
     },
     "what size silicone for shower": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.32,
+      "ndcg_10": 0.27467383618831914,
+      "ndcg_20": 0.33601384499323533,
+      "ndcg_100": 0.3072591604337743
     },
     "how to get plural of us": {
-      "r_precision": 0.04,
-      "recall": 0.04
+      "r_precision": 0.13,
+      "ndcg_10": 0.09339708913824304,
+      "ndcg_20": 0.060275431771024804,
+      "ndcg_100": 0.09729080295064339
     },
     "mushrooms good for cholesterol": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.43,
+      "ndcg_10": 0.4106134177477656,
+      "ndcg_20": 0.3583749930999474,
+      "ndcg_100": 0.4856947650533369
     },
     "where are freedos used": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.27,
+      "ndcg_10": 0.6268001058155499,
+      "ndcg_20": 0.5346214997084392,
+      "ndcg_100": 0.441723932634243
     },
     "What are the most famous products of Gigabyte?": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.23,
+      "ndcg_10": 0.38041094118002317,
+      "ndcg_20": 0.29054463771699945,
+      "ndcg_100": 0.29226048881901934
     },
     "what is ivt in medical billing": {
-      "r_precision": 0.11,
-      "recall": 0.11
+      "r_precision": 0.22,
+      "ndcg_10": 0.6649598161950612,
+      "ndcg_20": 0.6134692996707508,
+      "ndcg_100": 0.42462340493982986
     },
     "How to set up a horseshoe pit and stake distance?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.42,
+      "ndcg_10": 0.5578846260882305,
+      "ndcg_20": 0.5754972538116577,
+      "ndcg_100": 0.6049628373210628
     },
     "what kind of tree do walnut trees grow on": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.4,
+      "ndcg_10": 0.5196182111390537,
+      "ndcg_20": 0.4971403798983111,
+      "ndcg_100": 0.4398371630441472
     },
     "What types of wounds are calcium alginate dressings effective on?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.32,
+      "ndcg_10": 0.5483314267703384,
+      "ndcg_20": 0.43964362363840453,
+      "ndcg_100": 0.4270834557663511
     },
     "why are the feathers of birds bright": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.28,
+      "ndcg_10": 0.31784881427133027,
+      "ndcg_20": 0.2876695354378229,
+      "ndcg_100": 0.34709200816619457
     },
     "what broker can i use to transfer account to another brokerage": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.32,
+      "ndcg_10": 0.5454895259608976,
+      "ndcg_20": 0.4395914807105527,
+      "ndcg_100": 0.3787761686117862
     },
     "What are the basic financial functions offered by banks and credit unions?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.36,
+      "ndcg_10": 0.513381533331722,
+      "ndcg_20": 0.45425736999525634,
+      "ndcg_100": 0.43119215897614693
     },
     "What is a 72 Hour No Contact Provision in Wisconsin domestic cases?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.21,
+      "ndcg_10": 0.8601202598585294,
+      "ndcg_20": 0.6378293135153232,
+      "ndcg_100": 0.4543040468488526
     },
     "what is smart vocabulary": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.13,
+      "ndcg_10": 0.36556899682447475,
+      "ndcg_20": 0.2359262941597724,
+      "ndcg_100": 0.21029968124062814
     },
     "what makes a recording": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.14,
+      "ndcg_10": 0.1045924650973601,
+      "ndcg_20": 0.07635203061427154,
+      "ndcg_100": 0.09133909818059875
     },
     "How to write an essay quickly and effectively?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.16,
+      "ndcg_10": 0.006777019196861705,
+      "ndcg_20": 0.04797530835390852,
+      "ndcg_100": 0.14399474719042088
     },
     "What is the approximate annual cost of heating a home?": {
-      "r_precision": 0.1,
-      "recall": 0.1
+      "r_precision": 0.28,
+      "ndcg_10": 0.757188447677792,
+      "ndcg_20": 0.5989280045973097,
+      "ndcg_100": 0.5168387847974811
     },
     "What are the characteristics of a black and tan Coonhound?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.44,
+      "ndcg_10": 0.37107118318138027,
+      "ndcg_20": 0.4087924938519118,
+      "ndcg_100": 0.4579304261676901
     },
     "what software does asp use": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.32,
+      "ndcg_10": 0.5009042116248025,
+      "ndcg_20": 0.43769973937874845,
+      "ndcg_100": 0.4073274995478369
     },
     "what did clinton say when he was being investigated?": {
-      "r_precision": 0.34,
-      "recall": 0.34
+      "r_precision": 0.26,
+      "ndcg_10": 0.2888640018993039,
+      "ndcg_20": 0.28935289401402253,
+      "ndcg_100": 0.2947832627706361
     },
     "What is the meaning and origin of the name Corrin?": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.12,
+      "ndcg_10": 0.5899283066931608,
+      "ndcg_20": 0.5002453167133215,
+      "ndcg_100": 0.3636616937563096
     },
     "How to prepare hot oatmeal using boiling water method?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.21,
+      "ndcg_10": 0.6958953585221027,
+      "ndcg_20": 0.5370713864724077,
+      "ndcg_100": 0.42330624285688534
     },
     "How to germinate clematis seeds?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.32,
+      "ndcg_10": 0.48300216839381294,
+      "ndcg_20": 0.5630118525836736,
+      "ndcg_100": 0.5379212561869267
     },
     "How do I apply for a Building Permit or access Buildings Department Records?": {
-      "r_precision": 0.24,
-      "recall": 0.24
+      "r_precision": 0.23,
+      "ndcg_10": 0.5095652828275176,
+      "ndcg_20": 0.3724468907601434,
+      "ndcg_100": 0.3222414958980214
     },
     "what does dried nori have in it": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.37,
+      "ndcg_10": 0.6395625274449829,
+      "ndcg_20": 0.6186162869776801,
+      "ndcg_100": 0.4933304073277656
     },
     "What are some disrespectful sitting positions in Japan and the Middle East?": {
-      "r_precision": 0.06,
-      "recall": 0.07
+      "r_precision": 0.03,
+      "ndcg_10": 0.2423728927359089,
+      "ndcg_20": 0.15641955112353959,
+      "ndcg_100": 0.10452926265533186
     },
     "who are the star wars princesses and generals": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.3,
+      "ndcg_10": 0.4885436167665407,
+      "ndcg_20": 0.4774980745751124,
+      "ndcg_100": 0.41782242968134076
     },
     "How to fix Error 105 in Adobe Photoshop?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.3,
+      "ndcg_10": 0.9111178996726217,
+      "ndcg_20": 0.8048697627999928,
+      "ndcg_100": 0.5992093737181745
     },
     "Can I purchase a replacement property from a related party during a 1031 exchange?": {
-      "r_precision": 0.32,
-      "recall": 0.32
+      "r_precision": 0.3,
+      "ndcg_10": 0.47090385298635534,
+      "ndcg_20": 0.40513062109090087,
+      "ndcg_100": 0.3160559471216583
     },
     "directv royal oak mi": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.3,
+      "ndcg_10": 0.47681269410515525,
+      "ndcg_20": 0.4254198543696607,
+      "ndcg_100": 0.38497437285239217
     },
     "what was tut's first name?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.3,
+      "ndcg_10": 0.23824195998566527,
+      "ndcg_20": 0.29445358929092236,
+      "ndcg_100": 0.31931483265945204
     },
     "What are the common types of teams in the workplace?": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.18,
+      "ndcg_10": 0.8248214487767744,
+      "ndcg_20": 0.6436285447212665,
+      "ndcg_100": 0.48891952730928556
     },
     "What are some examples of visuals used in presentations?": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.23,
+      "ndcg_10": 0.5408154418827439,
+      "ndcg_20": 0.47610341791941146,
+      "ndcg_100": 0.36933752046828267
     },
     "What vitamins can help with pain in the arm after a blood test?": {
-      "r_precision": 0.16,
-      "recall": 0.17
+      "r_precision": 0.13,
+      "ndcg_10": 0.4926019654123009,
+      "ndcg_20": 0.4249201459066347,
+      "ndcg_100": 0.2975438810499544
     },
     "what are the advantages of using value-added networks (vans)?": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.26,
+      "ndcg_10": 0.7785556736399003,
+      "ndcg_20": 0.7409292220757555,
+      "ndcg_100": 0.5828437526719947
     },
     "How do moderators receive Collaborate session recording emails?": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.24,
+      "ndcg_10": 0.5811769415946851,
+      "ndcg_20": 0.5070646419524726,
+      "ndcg_100": 0.390660627295318
     },
     "What is the main idea of The Children of Light and the Children of Darkness by Reinhold Niebuhr?": {
-      "r_precision": 0.07,
-      "recall": 0.08
+      "r_precision": 0.22,
+      "ndcg_10": 0.9363792118010482,
+      "ndcg_20": 0.6176680494344456,
+      "ndcg_100": 0.47127243729656665
     },
     "what makes glitter lipstick": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.2,
+      "ndcg_10": 0.5625903413223841,
+      "ndcg_20": 0.50714380585622,
+      "ndcg_100": 0.4178129566931148
     },
     "is gloria steinem": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.38,
+      "ndcg_10": 0.38707490800236116,
+      "ndcg_20": 0.4044316137789045,
+      "ndcg_100": 0.42637574079103496
     },
     "What was Turner's role in the White House National Security Council?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.32,
+      "ndcg_10": 0.7062722510492914,
+      "ndcg_20": 0.50262182357312,
+      "ndcg_100": 0.3980116557684118
     },
     "what does a sandbank shark eat": {
-      "r_precision": 0.06,
-      "recall": 0.06
+      "r_precision": 0.19,
+      "ndcg_10": 0.15436694367965567,
+      "ndcg_20": 0.1710801018174059,
+      "ndcg_100": 0.1583908626273631
     },
     "What is the environment like at the St. Croix River Valley golf course?": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.22,
+      "ndcg_10": 0.2600946343021612,
+      "ndcg_20": 0.3578507776671977,
+      "ndcg_100": 0.2730781671564839
     },
     "who played superman in the first justice league movie?": {
-      "r_precision": 0.42,
-      "recall": 0.42
+      "r_precision": 0.36,
+      "ndcg_10": 0.4724362087250911,
+      "ndcg_20": 0.380015424214842,
+      "ndcg_100": 0.43349160851141816
     },
     "who owns drs train fleet": {
       "r_precision": 0.04,
-      "recall": 0.05
+      "ndcg_10": 0.23739866912689556,
+      "ndcg_20": 0.1532093496223438,
+      "ndcg_100": 0.10724588054728289
     },
     "how to map a drive as a folder in windows server 2003": {
-      "r_precision": 0.12,
-      "recall": 0.12
+      "r_precision": 0.32,
+      "ndcg_10": 0.20113861217392992,
+      "ndcg_20": 0.2234036161434896,
+      "ndcg_100": 0.2258934980943063
     },
     "how to transfer music from cd computer to samsung s6 edge": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.3,
+      "ndcg_10": 0.5627408725020215,
+      "ndcg_20": 0.5539209142058237,
+      "ndcg_100": 0.4186261686518178
     },
     "where to find the best garbage disposal": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.37,
+      "ndcg_10": 0.5062461855039981,
+      "ndcg_20": 0.42613936295521426,
+      "ndcg_100": 0.36508806815907746
     },
     "What was the batting average of the author in junior high?": {
-      "r_precision": 0.12,
-      "recall": 0.13
+      "r_precision": 0.3,
+      "ndcg_10": 0.6446950890600116,
+      "ndcg_20": 0.4785156517325767,
+      "ndcg_100": 0.43057163190187453
     },
     "Who did Doris' mother want her daughter to marry?": {
-      "r_precision": 0.38,
-      "recall": 0.38
+      "r_precision": 0.2,
+      "ndcg_10": 0.7753036268533721,
+      "ndcg_20": 0.5667625605022456,
+      "ndcg_100": 0.43066539891110556
     },
     "the hormone __________ is produced in ________, which some scientists speculate may lead to differences in male and female brain structure, and later variations in gender-related behavior(s).": {
-      "r_precision": 0.43,
-      "recall": 0.43
+      "r_precision": 0.27,
+      "ndcg_10": 0.6392346406384448,
+      "ndcg_20": 0.6248964562172852,
+      "ndcg_100": 0.4829655175606997
     },
     "what time in omaha ne": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.29,
+      "ndcg_10": 0.3212069391439514,
+      "ndcg_20": 0.2770398963866749,
+      "ndcg_100": 0.3159886793751991
     },
     "horizon irrigation san rafael phone number": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.22,
+      "ndcg_10": 0.7114228137496819,
+      "ndcg_20": 0.6664049793434913,
+      "ndcg_100": 0.5005671601301247
     },
     "firestone jobs": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.07,
+      "ndcg_10": 0.0,
+      "ndcg_20": 0.13660352685668778,
+      "ndcg_100": 0.09128696403923219
     },
     "why do some fighter jets have two pilots": {
-      "r_precision": 0.29,
-      "recall": 0.29
+      "r_precision": 0.31,
+      "ndcg_10": 0.4151409434564277,
+      "ndcg_20": 0.29912351534554205,
+      "ndcg_100": 0.36180531714914177
     },
     "nucor is a wholly owned subsidiary of": {
-      "r_precision": 0.13,
-      "recall": 0.13
+      "r_precision": 0.09,
+      "ndcg_10": 0.7125523635307982,
+      "ndcg_20": 0.509047114857571,
+      "ndcg_100": 0.3412679889509434
     },
     "most common technology acronyms": {
-      "r_precision": 0.23,
-      "recall": 0.23
+      "r_precision": 0.15,
+      "ndcg_10": 0.505491476518071,
+      "ndcg_20": 0.34550059557316115,
+      "ndcg_100": 0.269438845832936
     },
     "What is the most common example of mapreduce?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.27,
+      "ndcg_10": 0.28673246497502314,
+      "ndcg_20": 0.3118443856009386,
+      "ndcg_100": 0.31308372521528977
     },
     "how to use the full picture as the wallpaper for iphone": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.36,
+      "ndcg_10": 0.5854000400211787,
+      "ndcg_20": 0.5349529718401205,
+      "ndcg_100": 0.48265321723369065
     },
     "most powerful drills in the world": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.24,
+      "ndcg_10": 0.4239304498597896,
+      "ndcg_20": 0.3696644041719786,
+      "ndcg_100": 0.35541435916479286
     },
     "what does supra mean": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.17,
+      "ndcg_10": 0.3956394226893362,
+      "ndcg_20": 0.2931387569677539,
+      "ndcg_100": 0.2726850499579464
     },
     "how does a storage controller affect vmware": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.29,
+      "ndcg_10": 0.8410565503079431,
+      "ndcg_20": 0.656605777439387,
+      "ndcg_100": 0.5058953974239218
     },
     "How can dental crowns help with bruxism-related tooth damage?": {
-      "r_precision": 0.27,
-      "recall": 0.27
+      "r_precision": 0.25,
+      "ndcg_10": 0.6191931183820417,
+      "ndcg_20": 0.4965335275626217,
+      "ndcg_100": 0.39855917024668724
     },
     "what is chickadee spirit animal": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.39,
+      "ndcg_10": 1.0,
+      "ndcg_20": 0.9133570220751608,
+      "ndcg_100": 0.7202749568922575
     },
     "what kind of doctor treats musculoskeletal problems": {
-      "r_precision": 0.15,
-      "recall": 0.15
+      "r_precision": 0.25,
+      "ndcg_10": 0.6688501147936935,
+      "ndcg_20": 0.5768214486479492,
+      "ndcg_100": 0.4836341386856955
     },
     "what is 1 century": {
-      "r_precision": 0.16,
-      "recall": 0.16
+      "r_precision": 0.23,
+      "ndcg_10": 0.4869990103807725,
+      "ndcg_20": 0.39013544788515137,
+      "ndcg_100": 0.30958981646018874
     },
     "wes shum actor": {
-      "r_precision": 0.19,
-      "recall": 0.19
+      "r_precision": 0.33,
+      "ndcg_10": 0.676371361990279,
+      "ndcg_20": 0.653554887511372,
+      "ndcg_100": 0.5623490863780086
     },
     "What factors affect the severity of pressure damage to muscles in downer cows?": {
-      "r_precision": 0.09,
-      "recall": 0.09
+      "r_precision": 0.2,
+      "ndcg_10": 0.7630505564639762,
+      "ndcg_20": 0.6888365949277513,
+      "ndcg_100": 0.5138637807399796
     },
     "is unconditional love divine or self-giving": {
       "r_precision": 0.17,
-      "recall": 0.17
+      "ndcg_10": 0.24809955796419822,
+      "ndcg_20": 0.2233018976131797,
+      "ndcg_100": 0.17007511559110045
     },
     "How to search for a lost cat in the neighborhood?": {
-      "r_precision": 0.17,
-      "recall": 0.17
+      "r_precision": 0.36,
+      "ndcg_10": 0.6131023483501613,
+      "ndcg_20": 0.5573453712136853,
+      "ndcg_100": 0.4637230022300677
     },
     "how to deduct 401k from taxes": {
-      "r_precision": 0.18,
-      "recall": 0.18
+      "r_precision": 0.36,
+      "ndcg_10": 0.29133368624168754,
+      "ndcg_20": 0.24807889815664286,
+      "ndcg_100": 0.2974693990421852
     },
     "How do you form the 1st and 2nd person plural stem in French?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.28,
+      "ndcg_10": 0.7745727672257949,
+      "ndcg_20": 0.579372878095825,
+      "ndcg_100": 0.47165663436669464
     },
     "How does a simple solution work for removing cat pee odor?": {
-      "r_precision": 0.2,
-      "recall": 0.2
+      "r_precision": 0.31,
+      "ndcg_10": 0.2437169207023078,
+      "ndcg_20": 0.2516326452092327,
+      "ndcg_100": 0.29261444465118047
     },
     "What are the different types of Occurrence Tags for species in a park?": {
-      "r_precision": 0.14,
-      "recall": 0.14
+      "r_precision": 0.13,
+      "ndcg_10": 1.0,
+      "ndcg_20": 0.6453673484599425,
+      "ndcg_100": 0.4527010349924587
     },
     "How are ovarian cysts diagnosed using ultrasound?": {
-      "r_precision": 0.31,
-      "recall": 0.31
+      "r_precision": 0.26,
+      "ndcg_10": 0.14432484085422154,
+      "ndcg_20": 0.29010176417711325,
+      "ndcg_100": 0.31670595724565875
     }
   }
 }

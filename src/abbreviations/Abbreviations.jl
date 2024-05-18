@@ -14,14 +14,14 @@ function extract_abbreviations(query::AbstractString)
 
   results = CollectionDictionary()
 
-  foreach(tokenize(query)) do token
-    abbr = Symbol(uppercase(token))
-    definitions = get(abbreviations, abbr, nothing)
+  abbrs =
+    map(Symbol ∘ uppercase, tokenize(query)) |>
+    tokens -> filter(tok -> haskey(abbreviations, tok), tokens)
+    
+  isempty(abbrs) && return results
 
-    if !isnothing(definitions)
-      results[abbr] = definitions
-    end
-  end
+  abbr = last(abbrs)
+  results[abbr] = abbreviations[abbr]
 
   return results
 end

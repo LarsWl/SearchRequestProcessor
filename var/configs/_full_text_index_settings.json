@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "analysis": {
+      "filter": {
+        "english_stemmer": {
+          "name": "english",
+          "type": "stemmer"
+        },
+        "commongrams": {
+          "type": "common_grams",
+          "query_mode": "true",
+          "common_words": ["the", "to", "what", "how", "which", "who", "where"]
+        }
+      },
+      "analyzer": {
+        "body_shingle": {
+          "filter": ["common_grams"],
+          "type": "custom",
+          "tokenizer": "standard"
+        },
+        "default": {
+          "filter": ["english_stemmer"],
+          "type": "custom",
+          "tokenizer": "standard"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "body": { 
+        "type": "text"
+      }
+    }
+  }
+}

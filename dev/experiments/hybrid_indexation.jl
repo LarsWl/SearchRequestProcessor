@@ -12,5 +12,5 @@ SearchRequestProcessor.Evaluation.prepare_hnsw_search_index(
   SearchRequestProcessor.HybridSearch.create_index,
   SearchRequestProcessor.Chunks.OpenAIEmbeddingsAdapter(),
   SearchRequestProcessor.HybridSearch.INDEX_NAME,
-  600
+  1_500
 )

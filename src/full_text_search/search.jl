@@ -11,13 +11,13 @@ function baseline_search(os_client::ElasticClient, query::AbstractString, size=2
 
   os_query = build_opensearch_query(query, abbreviations, similar_queries, size)
 
-  response = ElasticsearchClient.search(os_client, index=INDEX_NAME, body=os_query).body
+  response = ElasticsearchClient.search(os_client, index=BASELINE_INDEX_NAME, body=os_query).body
 
   map(hit -> hit["_id"], response["hits"]["hits"])
 end
 
 function search(os_client::ElasticClient, query::AbstractString, size=25)
-  abbreviations = Abbreviations.extract_abbreviations(query)
+  abbreviations = [] # Abbreviations.extract_abbreviations(query)
   similar_queries = SimilarQueries.extract_similar_queries(query, os_client)
 
   os_query = build_opensearch_query(query, abbreviations, similar_queries, size)
@@ -29,7 +29,7 @@ end
 
 function build_opensearch_query(query, abbreviations, similar_queries, size)
   Dict(
-    :_source => ["title"],
+    :_source => [],
     :size => size,
     :query => Dict(
       :bool => Dict(
@@ -39,13 +39,13 @@ function build_opensearch_query(query, abbreviations, similar_queries, size)
             Iterators.flatten(
               map(collect(abbreviations)) do (abbr, definitions)
                 map(definitions) do definition
-                  multi_match_query(definition, 0.2)
+                  multi_match_query(definition, 0.1)
                 end
               end
             )
           )...,
           map(similar_queries) do similar_query
-            multi_match_query(similar_query, 1)
+            multi_match_query(similar_query, 0.2)
           end...
         ]
       )
@@ -59,9 +59,8 @@ function multi_match_query(query, boost)
       :query => query,
       :type => :best_fields,
       :fields => [
-        "title",
         "body",
-        "body.shingle"
+        "body.stemmed"
       ],
       :boost => boost
     )

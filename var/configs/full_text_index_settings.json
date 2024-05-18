@@ -5,27 +5,10 @@
         "english_stemmer": {
           "name": "english",
           "type": "stemmer"
-        },
-        "bigrams": {
-          "max_shingle_size": "3",
-          "min_shingle_size": "2",
-          "output_unigrams": "false",
-          "type": "shingle",
-          "filler_token": ""
-        },
-        "commongrams": {
-          "type": "common_grams",
-          "query_mode": "true",
-          "common_words": ["the", "to", "what", "how", "which", "who", "where"]
         }
       },
       "analyzer": {
-        "body_shingle": {
-          "filter": ["bigrams", "common_grams"],
-          "type": "custom",
-          "tokenizer": "standard"
-        },
-        "default": {
+        "stemmer": {
           "filter": ["english_stemmer"],
           "type": "custom",
           "tokenizer": "standard"
@@ -34,20 +17,16 @@
     }
   },
   "mappings": {
-    "properties": {
-      "url": { "type": "keyword" },
-      "title": { "type": "text", "analyzer": "default" },
-      "headings": { "type": "text", "analyzer": "default" },
-      "body": { 
-        "type": "text",
-        "analyzer": "default",
-        "fields": {
-          "shingle": {
-            "type": "text",
-            "analyzer": "body_shingle"
+      "properties": {
+          "body": {
+              "type": "text",
+              "fields": {
+                "stemmed": {
+                  "type": "text",
+                  "analyzer": "stemmer"
+                }
+              }
           }
-        }
       }
-    }
   }
 }

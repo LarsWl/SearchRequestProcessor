@@ -2,4 +2,9 @@ using SearchRequestProcessor
 using ElasticsearchClient
 using JSON
 
-println(JSON.json(SearchRequestProcessor.Evaluation.evaluate_search(SearchRequestProcessor.HnswSearch.search), 2))
+open("results/hnsw_evaluation.json", "w") do f
+    write(
+        f,
+        JSON.json(SearchRequestProcessor.Evaluation.evaluate_search(SearchRequestProcessor.HnswSearch.search), 2)
+    )
+end

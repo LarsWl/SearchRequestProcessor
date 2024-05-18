@@ -4,7 +4,7 @@ using ElasticsearchClient: client as ElasticClient
 using ..TransformerModels
 
 const CHUKS_PER_DOCUMENT = 10
-const TOP_K = 10
+const TOP_K = 5
 
 function search(os_client::ElasticClient, query::AbstractString, size::Integer=25)::Vector{AbstractString}
   transformer = TransformerModels.memoized_transformer()

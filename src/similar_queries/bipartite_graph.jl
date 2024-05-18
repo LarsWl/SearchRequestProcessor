@@ -42,7 +42,12 @@ mutable struct ForwardRandomWalk
   doc_to_vertex_id
 end
 
-@memoize memozied_forward_walk() = JLSO.load(FORWARD_WALK_FILE_PATH)[:walk]
+@memoize memozied_forward_walk() = begin
+  walk = JLSO.load(FORWARD_WALK_FILE_PATH)[:walk]
+  walk.iters = 12
+
+  walk
+end
 
 function build_forward_walk(iters::Int32)::ForwardRandomWalk
   query_to_node_id = Dict{Symbol, Int32}()
@@ -289,8 +294,6 @@ function calc_distribution(walk::ForwardRandomWalk, vertex_id)
   for i in 1:walk.iters - 1
     distr = distr * walk.adjency_matrix
   end
-
-  @debug_output get_debug_id("forward_walk") "Distribution" distr
 
   distr'
 end

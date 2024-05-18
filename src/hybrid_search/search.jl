@@ -5,21 +5,31 @@ using ElasticsearchClient: client as ElasticClient
 using ..Chunks
 
 const CHUNKS_PER_REQUEST_DOCUMENT = 5
-const TOP_K = 25
+const TOP_K = 5
 
 function search(os_client::ElasticClient, query::String, size=25)
   chat_api = OpenAIChatAPI()
   openai_embeddings = Chunks.OpenAIEmbeddingsAdapter()
 
-  topics, intentions =
-    try
-      extract_topics_and_intentions_from_query(query, chat_api)
-    catch e
-      @error e
+  tries = 0
+  success = false
+  topics, intentions = String[], String[]
 
-      (String[], String[])
-    end 
-    
+  while !success && tries < 3
+    tries += 1
+
+    topics, intentions =
+      try
+        res = extract_topics_and_intentions_from_query(query, chat_api)
+        success = true
+
+        res
+      catch e
+        @error e
+
+        (String[], String[])
+      end
+  end
 
   @debug_output get_debug_id("hybrid_search") "HybridSearch" "Query: $query.\nExtracted topics: $topics.\n" * "Extracted intentions: $intentions\n"
 
@@ -68,38 +78,38 @@ function retrieve_documents(
   intentions::Vector{<: AbstractString},
   size::Integer
 )
-  results = AbstractDict[]
+  tries = 0
+  success = false
+  opensearch_query = nothing
 
-  for intention in intentions
+  while !success && tries < 3
+    tries += 1
     opensearch_query =
       try
-        build_opensearch_query(adapter, query, topics, intention, size)
-      catch e 
+        q = build_opensearch_query(adapter, query, topics, intentions, size)
+        success = true
+
+        q
+      catch e
+        @error e
+
         nothing
       end
-
-    isnothing(opensearch_query) && continue
-
-    response = ElasticsearchClient.search(os_client, index=INDEX_NAME, body=opensearch_query).body
-
-    append!(results, response["hits"]["hits"])
   end
 
-  results = sort(results, by=hit -> hit["_score"], rev=true)
+  isnothing(opensearch_query) && throw(ErrorException("failed to build query"))
 
-  foreach(results) do hit
-    hit["_source"]["metadata"]["document_id"] = replace(hit["_source"]["metadata"]["document_id"], r"_title" => "")
-  end
+  response = ElasticsearchClient.search(os_client, index=INDEX_NAME, body=opensearch_query).body
 
-  unique(hit -> hit["_source"]["metadata"]["document_id"], results)
+  unique(hit -> hit["_source"]["metadata"]["document_id"], collect(Iterators.take(response["hits"]["hits"], size)))
 end
 
-function build_opensearch_query(adapter, query, topics, intention, size)
-  extended_query = "User query: $query.\nUser intention: $intention.\nRelated Topics: $(join(topics, ","))."
+function build_opensearch_query(adapter, query, topics, intentions, size)
+  extended_query = "User query: $query.\nUser intentions: $intentions.\n Related Topics: $(join(topics, ","))."
 
   Dict(
     :_source => ["text", "metadata"],
-    :size => max(size * CHUNKS_PER_REQUEST_DOCUMENT, 10_000),
+    :size => size * 2,
     :query => Dict(
       :bool => Dict(
         :should => [
@@ -108,33 +118,24 @@ function build_opensearch_query(adapter, query, topics, intention, size)
               :embedding => Dict(
                 :vector => Chunks.calculate_embeddings(adapter, extended_query),
                 :k => TOP_K,
-                :boost => 1  
+                :boost => 1 
               )
             )
           ),
-          Dict(
-            :bool => Dict(
-              :must => [
-                Dict(
-                  :wildcard => Dict(
-                    Symbol("_id.keyword") => Dict(
-                      :value => "*_title_*"
-                    )
-                  )
-                ),
-                Dict(
-                  :knn => Dict(
-                    :embedding => Dict(
-                      :vector => Chunks.calculate_embeddings(adapter, extended_query),
-                      :k => TOP_K,
-                      :boost => 2
-                    )
-                  )
-                )
-              ]
-            )
-          )
+          build_match_query(query, 2),
+          map(t -> build_match_query(t, 0.2), topics)...,
         ]
+      )
+    )
+  )
+end
+
+function build_match_query(query, boost)
+  Dict(
+    :match => Dict(
+      :text => Dict(
+        :query => query,
+        :boost => boost
       )
     )
   )

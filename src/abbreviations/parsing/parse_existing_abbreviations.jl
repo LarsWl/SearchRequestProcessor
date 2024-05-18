@@ -31,7 +31,7 @@ function extract_existing_abbreviations(wikidata_abbreviations_dict::AbstractDic
                       unique
 
   filter(existing_abbreviations) do abbr
-    length(abbr) > 1 && !isnothing(match(r"\p{Latin}", abbr))
+    length(abbr) > 1 && length(abbr) <= 5 && !isnothing(match(r"\p{Latin}", abbr))
   end
 end
 
