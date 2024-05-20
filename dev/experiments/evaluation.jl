@@ -8,7 +8,7 @@ using DebugDataWriter
 using ElasticsearchClient
 
 DebugDataWriter.config().enable_log = false
-DebugDataWriter.config().enable_dump = true
+DebugDataWriter.config().enable_dump = false
 
 baseline_results = Evaluation.evaluate_search(FullTextSearch.baseline_search)
 open(f -> write(f, JSON.json(baseline_results, 2)), "results/baseline_results.json", "w")
@@ -26,7 +26,7 @@ global test_queries = CSV.File(Evaluation.TEST_QUERIES_PATH, header = [:ID, :QUE
 global os_client = ElasticsearchClient.Client(verbose=0)
 
 DebugDataWriter.config().enable_log = false
-DebugDataWriter.config().enable_dump = true
+DebugDataWriter.config().enable_dump = false
 
 @benchmark FullTextSearch.baseline_search(os_client, rand(test_queries)) samples=100 evals=3 seconds=300
 @benchmark FullTextSearch.search(os_client, rand(test_queries)) samples=100 evals=3 seconds=300

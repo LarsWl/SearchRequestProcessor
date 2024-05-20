@@ -19,7 +19,7 @@ function process_corpus_part(index_func::Function, part_number)
 
       while !eof(io)
         current_line += 1
-        if current_line % 50_000 == 0
+        if current_line % 250_000 == 0
           @info "Part: $part_number, readed lines: $current_line"
         end
     
@@ -28,7 +28,7 @@ function process_corpus_part(index_func::Function, part_number)
     
         if insorted(doc[:pid], passages_ids)
           push!(batch, doc)
-        elseif reading_incorrect < 0
+        elseif reading_incorrect < 5000
           push!(batch, doc)
           reading_incorrect += 1
         end

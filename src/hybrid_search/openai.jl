@@ -53,7 +53,7 @@ function do_chat(
         http_kwargs=(readtimeout=90, retry=true,)
     )
 
-    @debug_output get_debug_id("create_chat") "OpenAI" response
+    # @debug_output get_debug_id("create_chat") "OpenAI" response
 
     response.status != 200 && return result
 

@@ -3,11 +3,34 @@
     "index": {
       "knn": true,
       "knn.algo_param.ef_search": 512
+    },
+    "analysis": {
+      "filter": {
+        "english_stemmer": {
+          "name": "english",
+          "type": "stemmer"
+        }
+      },
+      "analyzer": {
+        "stemmer": {
+          "filter": ["english_stemmer"],
+          "type": "custom",
+          "tokenizer": "standard"
+        }
+      }
     }
   },
   "mappings": {
     "properties": {
-      "text": { "type": "text" },
+      "text": {
+        "type": "text",
+        "fields": {
+          "stemmed": {
+            "type": "text",
+            "analyzer": "stemmer"
+          }
+        }
+      },
       "metadata": {
         "type": "nested",
         "properties": {
@@ -27,7 +50,7 @@
           "engine": "nmslib",
           "parameters": {
             "ef_construction": 512,
-            "m": 16
+            "m": 32
           }
         }
       }

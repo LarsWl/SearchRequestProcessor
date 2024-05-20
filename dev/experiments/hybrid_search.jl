@@ -8,6 +8,6 @@ os_client = ElasticsearchClient.Client(verbose=1)
 DebugDataWriter.config().enable_log = false
 DebugDataWriter.config().enable_dump = true
 
-query = "is eucalyptus oil good for allergies"
+query = "What are the guidelines for publishing comments on this website?"
 
 res = SearchRequestProcessor.HybridSearch.search(os_client, query)

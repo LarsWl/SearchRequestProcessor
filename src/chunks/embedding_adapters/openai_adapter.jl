@@ -24,7 +24,7 @@ function calculate_embeddings(adapter::OpenAIEmbeddingsAdapter, batch_texts::Vec
 
   result = EMPTY_BATCH_EMBEDDING_RESULT
 
-  @debug_output get_debug_id("batch_embeddings") "OpenAI" response
+  # @debug_output get_debug_id("batch_embeddings") "OpenAI" response
 
   response.status != 200 && return result
 
@@ -43,7 +43,7 @@ function calculate_embeddings(adapter::OpenAIEmbeddingsAdapter, text::AbstractSt
   response = OpenAI.create_embeddings(adapter.openai_secret_key, text, OPENAI_EMBEDDINGS_MODEL_ID)
   result = EMPTY_EMBEDDING_RESULT
 
-  @debug_output get_debug_id("batch_embeddings") "OpenAI" response
+  # @debug_output get_debug_id("batch_embeddings") "OpenAI" response
 
   response.status != 200 && return result
 
@@ -64,7 +64,7 @@ function collect_statistics(response)
     if TOKENS_STATISTICS[:total_tokens] > TOKENS_STATISTICS[:threshold]
       @info "Processed tokens: $(TOKENS_STATISTICS[:total_tokens])"
 
-      TOKENS_STATISTICS[:threshold] += 10000
+      TOKENS_STATISTICS[:threshold] += 100000
     end
   end
 end
